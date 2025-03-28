@@ -1,0 +1,998 @@
+,title,price,n_rooms,area,year,price_per_sqft,size_sqft,road_name,n_bedrooms,n_bathrooms,region,scraped_date
+0,111A DEPOT ROAD,"S$ 970,000",HDB 5-Room,Bukit Merah,2004,S$ 784 psf,"1,238 sqft",Depot Road,3 beds,2 baths,central,2025-03-27
+1,405 SIN MING AVENUE,"S$ 1,050,000",HDB 5-Room,Bishan,1985,S$ 813 psf,"1,292 sqft",Sin Ming Avenue,3 beds,2 baths,central,2025-03-27
+2,61C STRATHMORE AVENUE,"S$ 820,000",HDB 3-Room,Queenstown,2010,"S$ 1,104 psf",743 sqft,Strathmore Avenue,2 beds,2 baths,central,2025-03-27
+3,87 ZION ROAD,"S$ 1,158,000",HDB 5-Room,Bukit Merah,1974,S$ 944 psf,"1,227 sqft",Zion Road,3 beds,2 baths,central,2025-03-27
+4,50 DORSET ROAD,"S$ 615,000",HDB 3-Room,Kallang/Whampoa,1978,S$ 697 psf,882 sqft,Dorset Road,2 beds,2 baths,central,2025-03-27
+5,95 HAVELOCK ROAD,"S$ 1,100,000",HDB 5-Room,Bukit Merah,1982,S$ 866 psf,"1,270 sqft",Havelock Road,3 beds,2 baths,central,2025-03-27
+6,30 HOLLAND CLOSE,"S$ 1,280,000",HDB 5-Room,Queenstown,1995,S$ 951 psf,"1,346 sqft",Holland Close,4 beds,2 baths,central,2025-03-27
+7,19 QUEEN'S CLOSE,"S$ 1,330,000",HDB 5-Room,Queenstown,1994,S$ 965 psf,"1,378 sqft",Queen's Close,3 beds,2 baths,central,2025-03-27
+8,443 ANG MO KIO AVENUE 10,"S$ 999,999",HDB 5-Room,Ang Mo Kio,1978,S$ 693 psf,"1,442 sqft",Ang Mo Kio Avenue 10,4 beds,4 baths,central,2025-03-27
+9,80B LORONG 4 TOA PAYOH,"S$ 968,000",HDB 4-Room,Toa Payoh,1994,S$ 865 psf,"1,119 sqft",Lorong 4 Toa Payoh,3 beds,2 baths,central,2025-03-27
+10,11 HOLLAND DRIVE,"S$ 548,000",HDB 3-Room,Queenstown,1974,S$ 783 psf,700 sqft,Holland Drive,2 beds,2 baths,central,2025-03-25
+11,21 HOLLAND DRIVE,"S$ 998,000",HDB 5-Room,Queenstown,1974,S$ 793 psf,"1,259 sqft",Holland Drive,3 beds,2 baths,central,2025-03-25
+12,704 ANG MO KIO AVENUE 8,"S$ 480,000",HDB 3-Room,Ang Mo Kio,1979,S$ 656 psf,732 sqft,Ang Mo Kio Avenue 8,2 beds,2 baths,central,2025-03-25
+13,60 GEYLANG BAHRU,"S$ 930,000",HDB 4-Room,Kallang/Whampoa,1997,S$ 847 psf,"1,098 sqft",Geylang Bahru,3 beds,2 baths,central,2025-03-25
+14,104 BISHAN STREET 12,"S$ 688,000",HDB 4-Room,Bishan,1985,S$ 761 psf,904 sqft,Bishan Street 12,3 beds,2 baths,central,2025-03-25
+15,157 LORONG 1 TOA PAYOH,"S$ 428,000",HDB 3-Room,Toa Payoh,1971,S$ 594 psf,721 sqft,Lorong 1 Toa Payoh,2 beds,2 baths,central,2025-03-25
+16,8 GHIM MOH ROAD,"S$ 950,000",HDB 5-Room,Queenstown,1976,S$ 755 psf,"1,259 sqft",Ghim Moh Road,3 beds,2 baths,central,2025-03-25
+17,110 SPOTTISWOODE PARK ROAD,"S$ 900,000",HDB 5-Room,Bukit Merah,1977,S$ 680 psf,"1,323 sqft",Spottiswoode Park Road,3 beds,2 baths,central,2025-03-25
+18,78 DAWSON ROAD,"S$ 1,088,000",HDB 4-Room,Queenstown,2019,"S$ 1,149 psf",947 sqft,Dawson Road,3 beds,2 baths,central,2025-03-25
+19,96A HENDERSON ROAD,"S$ 1,499,888",HDB 5-Room,Bukit Merah,2018,"S$ 1,233 psf","1,216 sqft",Henderson Road,3 beds,2 baths,central,2025-03-25
+20,35 LORONG 5 TOA PAYOH,"S$ 1,000,000",HDB 5-Room,12,99 years,S$ 781 psf,"1,280 sqft",Lorong 5 Toa Payoh,3 beds,2 baths,central,2025-03-06
+21,121A KIM TIAN PLACE,"S$ 1,150,000",HDB 4-Room,Bukit Merah,1999,"S$ 1,069 psf","1,076 sqft",Kim Tian Place,3 beds,2 baths,central,2025-03-06
+22,232 BISHAN STREET 22,"S$ 788,888",HDB 4-Room,Bishan,1990,S$ 698 psf,"1,130 sqft",Bishan Street 22,3 beds,2 baths,central,2025-03-06
+23,639 ROWELL ROAD,"S$ 1,100,000",HDB 5-Room,Central Area,1982,S$ 735 psf,"1,496 sqft",Rowell Road,3 beds,2 baths,central,2025-03-06
+24,38A BENDEMEER ROAD,"S$ 850,000",HDB 4-Room,Kallang/Whampoa,2010,S$ 887 psf,958 sqft,Bendemeer Road,3 beds,2 baths,central,2025-03-06
+25,17A TELOK BLANGAH CRESCENT,"S$ 800,000",HDB 4-Room,Bukit Merah,2000,S$ 743 psf,"1,076 sqft",Telok Blangah Crescent,3 beds,2 baths,central,2025-03-06
+26,108C MCNAIR ROAD,"S$ 1,380,000",HDB 5-Room,Kallang/Whampoa,2003,"S$ 1,077 psf","1,281 sqft",Mcnair Road,4 beds,2 baths,central,2025-03-06
+27,308A ANG MO KIO AVENUE 1,"S$ 1,088,888",HDB 4-Room,Ang Mo Kio,2010,"S$ 1,054 psf","1,033 sqft",Ang Mo Kio Avenue 1,3 beds,2 baths,central,2025-03-06
+28,168 LORONG 1 TOA PAYOH,"S$ 488,000",HDB 3-Room,Toa Payoh,1972,S$ 597 psf,818 sqft,Lorong 1 Toa Payoh,3 beds,2 baths,central,2025-03-06
+29,128 LORONG 1 TOA PAYOH,"S$ 438,000",HDB 3-Room,Toa Payoh,1969,S$ 607 psf,721 sqft,Lorong 1 Toa Payoh,2 beds,1 bath,central,2025-03-06
+30,141 BISHAN STREET 12,"S$ 695,000",HDB 4-Room,Bishan,1987,S$ 769 psf,904 sqft,Bishan Street 12,3 beds,2 baths,central,2025-03-05
+31,4 BOON KENG ROAD,"S$ 850,000",HDB 4-Room,Kallang/Whampoa,1995,S$ 760 psf,"1,119 sqft",Boon Keng Road,3 beds,2 baths,central,2025-03-05
+32,155 LORONG 1 TOA PAYOH,"S$ 850,000",HDB 4-Room,Toa Payoh,1998,S$ 782 psf,"1,087 sqft",Lorong 1 Toa Payoh,3 beds,2 baths,central,2025-03-05
+33,117B JALAN TENTERAM,"S$ 688,000",HDB 3-Room,Kallang/Whampoa,2016,S$ 954 psf,721 sqft,Jalan Tenteram,2 beds,2 baths,central,2025-03-05
+34,124 BISHAN STREET 12,"S$ 750,000",HDB 4-Room,Bishan,1986,S$ 837 psf,896 sqft,Bishan Street 12,3 beds,2 baths,central,2025-03-05
+35,639 ROWELL ROAD,"S$ 790,000",HDB 4-Room,Central Area,1982,S$ 680 psf,"1,162 sqft",Rowell Road,3 beds,2 baths,central,2025-03-05
+36,115 LORONG 1 TOA PAYOH,"S$ 420,000",HDB 4-Room,Toa Payoh,1967,S$ 601 psf,699 sqft,Lorong 1 Toa Payoh,3 beds,2 baths,central,2025-03-05
+37,165 STIRLING ROAD,"S$ 370,000",HDB 3-Room,Queenstown,1970,S$ 574 psf,645 sqft,Stirling Road,2 beds,2 baths,central,2025-03-05
+38,144 BISHAN STREET 12,"S$ 700,000",HDB 4-Room,Bishan,1987,S$ 626 psf,"1,119 sqft",Bishan Street 12,3 beds,2 baths,central,2025-03-05
+39,230 ANG MO KIO AVENUE 3,"S$ 550,000",HDB 4-Room,Ang Mo Kio,1977,S$ 556 psf,990 sqft,Ang Mo Kio Avenue 3,3 beds,2 baths,central,2025-03-05
+40,18A HOLLAND DRIVE,"S$ 1,288,888",HDB 4-Room,Queenstown,2010,"S$ 1,302 psf",990 sqft,Holland Drive,3 beds,2 baths,central,2025-03-02
+41,590B ANG MO KIO STREET 51,"S$ 1,150,000",HDB 4-Room,Ang Mo Kio,2017,"S$ 1,149 psf","1,001 sqft",Ang Mo Kio Street 51,3 beds,2 baths,central,2025-03-02
+42,332 ANG MO KIO AVENUE 1,"S$ 450,000",HDB 3-Room,Ang Mo Kio,1980,S$ 615 psf,732 sqft,Ang Mo Kio Avenue 1,2 beds,2 baths,central,2025-03-02
+43,110A DEPOT ROAD,"S$ 1,000,000",HDB 4-Room,Bukit Merah,2016,"S$ 1,010 psf",990 sqft,Depot Road,3 beds,2 baths,central,2025-03-02
+44,50 HOY FATT ROAD,"S$ 850,000",HDB 5-Room,Bukit Merah,1986,S$ 647 psf,"1,313 sqft",Hoy Fatt Road,3 beds,2 baths,central,2025-03-02
+45,344 ANG MO KIO AVENUE 3,"S$ 625,000",HDB 4-Room,Ang Mo Kio,1977,S$ 592 psf,"1,055 sqft",Ang Mo Kio Avenue 3,3 beds,2 baths,central,2025-03-02
+46,224 LORONG 8 TOA PAYOH,"S$ 640,000",HDB 5-Room,Toa Payoh,1975,S$ 522 psf,"1,227 sqft",Lorong 8 Toa Payoh,3 beds,2 baths,central,2025-03-02
+47,40B MARGARET DRIVE,"S$ 850,000",HDB 3PA (Premium Apartment),Queenstown,2021,"S$ 1,252 psf",679 sqft,Margaret Drive,2 beds,2 baths,central,2025-03-02
+48,335A SMITH STREET,"S$ 558,000",HDB 3-Room,Central Area,1983,S$ 865 psf,645 sqft,Smith Street,2 beds,2 baths,central,2025-03-02
+49,40A MARGARET DRIVE,"S$ 1,850,000",HDB 5PA (Premium Apartment),Queenstown,2021,"S$ 1,548 psf","1,195 sqft",Margaret Drive,3 beds,2 baths,central,2025-03-02
+50,207 ANG MO KIO AVENUE 1,"S$ 608,000",HDB 4-Room,Ang Mo Kio,None,S$ 576 psf,"1,054 sqft",Ang Mo Kio Avenue 1,3 beds,2 baths,central,2025-03-22
+51,34 MARGARET DRIVE,"S$ 1,590,000",HDB 5PA (Premium Apartment),Queenstown,2021,"S$ 1,367 psf","1,163 sqft",Margaret Drive,3 beds,2 baths,central,2025-03-22
+52,57 GEYLANG BAHRU,"S$ 415,000",HDB 3-Room,Kallang/Whampoa,S$ 653 psf,635 sqft,Geylang Bahru,,2 beds,1 bath,central,2025-03-22
+53,504 ANG MO KIO AVENUE 8,"S$ 425,000",HDB 3-Room,Ang Mo Kio,1979,S$ 581 psf,731 sqft,Ang Mo Kio Avenue 8,2 beds,2 baths,central,2025-03-22
+54,182 STIRLING ROAD,"S$ 930,000",HDB 4-Room,Queenstown,1998,S$ 900 psf,"1,033 sqft",Stirling Road,3 beds,2 baths,central,2025-03-22
+55,596B ANG MO KIO STREET 52,"S$ 1,050,000",HDB 5-Room,Ang Mo Kio,S$ 887 psf,"1,184 sqft",Ang Mo Kio Street 52,,3 beds,2 baths,central,2025-03-22
+56,166 BISHAN STREET 13,"S$ 1,030,000",HDB 5-Room,Bishan,1987,S$ 784 psf,"1,313 sqft",Bishan Street 13,4 beds,2 baths,central,2025-03-22
+57,549 ANG MO KIO AVENUE 10,"S$ 488,888",HDB 3-Room,Ang Mo Kio,1980,S$ 554 psf,882 sqft,Ang Mo Kio Avenue 10,2 beds,2 baths,central,2025-03-22
+58,550 ANG MO KIO AVENUE 10,"S$ 428,000",HDB 3-Room,Ang Mo Kio,1980,S$ 594 psf,721 sqft,Ang Mo Kio Avenue 10,2 beds,2 baths,central,2025-03-22
+59,141 BISHAN STREET 12,"S$ 695,000",HDB 4-Room,Bishan,1987,S$ 769 psf,904 sqft,Bishan Street 12,3 beds,2 baths,central,2025-03-22
+60,522 ANG MO KIO AVENUE 5,"S$ 588,000",HDB 4-Room,Ang Mo Kio,1979,S$ 593 psf,991 sqft,Ang Mo Kio Avenue 5,3 beds,2 baths,central,2025-03-22
+61,87 REDHILL CLOSE,"S$ 1,380,000",HDB 5-Room,Bukit Merah,1993,S$ 971 psf,"1,421 sqft",Redhill Close,4 beds,2 baths,central,2025-03-22
+62,6 HOLLAND CLOSE,"S$ 495,000",HDB 3-Room,Queenstown,1973,S$ 707 psf,700 sqft,Holland Close,2 beds,2 baths,central,2025-03-22
+63,238 LORONG 1 TOA PAYOH,"S$ 780,000",HDB 4-Room,Toa Payoh,1986,S$ 704 psf,"1,108 sqft",Lorong 1 Toa Payoh,3 beds,2 baths,central,2025-03-22
+64,32 MARGARET DRIVE,"S$ 980,000",HDB 3PA (Premium Apartment),Queenstown,2021,"S$ 1,469 psf",667 sqft,Margaret Drive,2 beds,2 baths,central,2025-03-22
+65,67 TELOK BLANGAH DRIVE,"S$ 920,000",HDB 5-Room,Bukit Merah,1977,S$ 724 psf,"1,270 sqft",Telok Blangah Drive,3 beds,2 baths,central,2025-03-22
+66,96A HENDERSON ROAD,"S$ 1,500,000",HDB 5-Room,Bukit Merah,2018,"S$ 1,234 psf","1,216 sqft",Henderson Road,3 beds,2 baths,central,2025-03-22
+67,35 LIM LIAK STREET,"S$ 875,000",HDB 3-Room,Bukit Merah,1949,"S$ 1,084 psf",807 sqft,Lim Liak Street,2 beds,2 baths,central,2025-03-22
+68,87 DAWSON ROAD,"S$ 1,320,000",HDB 4-Room,Queenstown,2015,"S$ 1,478 psf",893 sqft,Dawson Road,3 beds,2 baths,central,2025-03-22
+69,24 BENDEMEER ROAD,"S$ 500,000",HDB 3-Room,Kallang/Whampoa,1970,S$ 683 psf,732 sqft,Bendemeer Road,2 beds,2 baths,central,2025-03-22
+70,26 JALAN KLINIK,"S$ 390,000",HDB 3-Room,Bukit Merah,1963,S$ 604 psf,646 sqft,Jalan Klinik,2 beds,1 bath,central,2025-03-26
+71,29 KELANTAN ROAD,"S$ 460,000",HDB 3-Room,Central Area,1977,S$ 657 psf,700 sqft,Kelantan Road,2 beds,1 bath,central,2025-03-26
+72,61 JALAN TENTERAM,"S$ 899,000",HDB 3-Room,Kallang/Whampoa,1959,S$ 890 psf,"1,010 sqft",Jalan Tenteram,2 beds,1 bath,central,2025-03-26
+73,92B TELOK BLANGAH STREET 31,"S$ 1,099,999",HDB 4-Room,Bukit Merah,2017,"S$ 1,100 psf","1,000 sqft",Telok Blangah Street 31,3 beds,2 baths,central,2025-03-26
+74,275A BISHAN STREET 24,"S$ 1,360,000",HDB 5-Room,Bishan,2011,"S$ 1,054 psf","1,290 sqft",Bishan Street 24,3 beds,2 baths,central,2025-03-26
+75,37 TELOK BLANGAH RISE,"S$ 900,000",HDB 5-Room,Bukit Merah,1976,S$ 691 psf,"1,302 sqft",Telok Blangah Rise,3 beds,2 baths,central,2025-03-26
+76,78 INDUS ROAD,"S$ 560,000",HDB 3-Room,Bukit Merah,1972,S$ 685 psf,818 sqft,Indus Road,2 beds,1 bath,central,2025-03-26
+77,149 BISHAN STREET 11,"S$ 950,000",HDB 5-Room,Bishan,1986,S$ 724 psf,"1,313 sqft",Bishan Street 11,4 beds,2 baths,central,2025-03-26
+78,29 KELANTAN ROAD,"S$ 518,000",HDB 3-Room,Central Area,1977,S$ 741 psf,699 sqft,Kelantan Road,2 beds,2 baths,central,2025-03-26
+79,533 ANG MO KIO AVENUE 5,"S$ 400,000",HDB 3-Room,Ang Mo Kio,1979,S$ 546 psf,732 sqft,Ang Mo Kio Avenue 5,2 beds,2 baths,central,2025-03-26
+80,180 BISHAN STREET 13,"S$ 548,888",HDB 3-Room,Bishan,1986,S$ 797 psf,689 sqft,Bishan Street 13,2 beds,2 baths,central,2025-03-03
+81,90 TANGLIN HALT ROAD,"S$ 1,300,000",HDB 5-Room,3,99 years,"S$ 12,150 psf",107 sqft,Tanglin Halt Road,4 beds,2 baths,central,2025-03-03
+82,6 TELOK BLANGAH CRESCENT,"S$ 360,000",HDB 3-Room,Bukit Merah,1974,S$ 514 psf,700 sqft,Telok Blangah Crescent,2 beds,2 baths,central,2025-03-03
+83,93B TELOK BLANGAH STREET 31,"S$ 1,000,000",HDB 4-Room,Bukit Merah,2017,S$ 999 psf,"1,001 sqft",Telok Blangah Street 31,3 beds,2 baths,central,2025-03-03
+84,700A ANG MO KIO AVENUE 6,"S$ 1,045,000",HDB 5-Room,Ang Mo Kio,2001,S$ 883 psf,"1,183 sqft",Ang Mo Kio Avenue 6,3 beds,2 baths,central,2025-03-03
+85,130 BISHAN STREET 12,"S$ 780,000",HDB 4-Room,Bishan,1985,S$ 863 psf,904 sqft,Bishan Street 12,3 beds,2 baths,central,2025-03-03
+86,714 ANG MO KIO AVENUE 6,"S$ 820,000",HDB 5-Room,Ang Mo Kio,1979,S$ 641 psf,"1,280 sqft",Ang Mo Kio Avenue 6,3 beds,2 baths,central,2025-03-03
+87,138C LORONG 1A TOA PAYOH,"S$ 1,400,000",HDB 5-Room,Toa Payoh,2012,"S$ 1,182 psf","1,184 sqft",Lorong 1A Toa Payoh,3 beds,2 baths,central,2025-03-03
+88,74A REDHILL ROAD,"S$ 1,228,000",HDB 5-Room,Bukit Merah,2004,S$ 993 psf,"1,237 sqft",Redhill Road,3 beds,2 baths,central,2025-03-03
+89,61A STRATHMORE AVENUE,"S$ 1,100,000",HDB 4-Room,Queenstown,2010,"S$ 1,043 psf","1,055 sqft",Strathmore Avenue,3 beds,2 baths,central,2025-03-03
+90,473 ANG MO KIO AVENUE 10,"S$ 458,000",HDB 3-Room,Ang Mo Kio,1978,S$ 635 psf,721 sqft,Ang Mo Kio Avenue 10,2 beds,2 baths,central,2025-02-26
+91,163 STIRLING ROAD,"S$ 375,000",HDB 3-Room,Queenstown,1969,"S$ 5,859 psf",64 sqft,Stirling Road,3 beds,2 baths,central,2025-02-26
+92,110A DEPOT ROAD,"S$ 998,888",HDB 4-Room,Bukit Merah,2016,"S$ 1,009 psf",990 sqft,Depot Road,3 beds,2 baths,central,2025-02-26
+93,167 STIRLING ROAD,"S$ 350,000",HDB 3-Room,Queenstown,1970,S$ 472 psf,742 sqft,Stirling Road,2 beds,2 baths,central,2025-02-26
+94,74 TELOK BLANGAH HEIGHTS,"S$ 880,000",HDB 5-Room,Bukit Merah,1977,S$ 699 psf,"1,259 sqft",Telok Blangah Heights,3 beds,2 baths,central,2025-02-26
+95,83 STRATHMORE AVENUE,"S$ 1,330,000",HDB 5-Room,Queenstown,1995,S$ 989 psf,"1,345 sqft",Strathmore Avenue,4 beds,2 baths,central,2025-02-26
+96,8 EMPRESS ROAD,"S$ 499,999",HDB 3-Room,Bukit Timah,1975,S$ 714 psf,700 sqft,Empress Road,3 beds,2 baths,central,2025-02-26
+97,601 ANG MO KIO AVENUE 5,"S$ 445,000",HDB 3-Room,Ang Mo Kio,1979,S$ 617 psf,721 sqft,Ang Mo Kio Avenue 5,2 beds,2 baths,central,2025-02-26
+98,48 STRATHMORE AVENUE,"S$ 1,088,000",HDB 4-Room,Queenstown,2005,"S$ 1,124 psf",968 sqft,Strathmore Avenue,3 beds,2 baths,central,2025-02-26
+99,58 JALAN MA'MOR,"S$ 1,650,000",HDB 5-Room,Kallang/Whampoa,1959,S$ 881 psf,"1,873 sqft",Jalan Ma'mor,4 beds,2 baths,central,2025-02-26
+100,49 DORSET ROAD,"S$ 830,000",HDB 4-Room,Kallang/Whampoa,1978,S$ 728 psf,"1,140 sqft",Dorset Road,3 beds,2 baths,central,2025-03-01
+101,5 TANJONG PAGAR PLAZA,"S$ 600,000",HDB 3-Room,Central Area,1976,S$ 945 psf,635 sqft,Tanjong Pagar Plaza,2 beds,1 bath,central,2025-03-01
+102,46 LENGKOK BAHRU,"S$ 740,000",HDB 4-Room,Bukit Merah,1983,S$ 668 psf,"1,108 sqft",Lengkok Bahru,3 beds,2 baths,central,2025-03-01
+103,88 DAWSON ROAD,"S$ 1,180,000",HDB 4PA (Premium Apartment),Queenstown,2015,"S$ 1,321 psf",893 sqft,Dawson Road,3 beds,2 baths,central,2025-03-01
+104,6 EVERTON PARK,"S$ 990,000",HDB 5-Room,Bukit Merah,1965,S$ 667 psf,"1,485 sqft",Everton Park,4 beds,2 baths,central,2025-03-01
+105,248 KIM KEAT LINK,"S$ 680,000",HDB 4-Room,Toa Payoh,1988,S$ 608 psf,"1,119 sqft",Kim Keat Link,3 beds,2 baths,central,2025-03-01
+106,121 MCNAIR ROAD,"S$ 785,000",HDB 4-Room,Kallang/Whampoa,1986,S$ 702 psf,"1,119 sqft",Mcnair Road,3 beds,2 baths,central,2025-03-01
+107,313 ANG MO KIO AVENUE 3,"S$ 410,000",HDB 3-Room,Ang Mo Kio,1977,S$ 522 psf,785 sqft,Ang Mo Kio Avenue 3,2 beds,2 baths,central,2025-03-01
+108,19 GHIM MOH ROAD,"S$ 448,000",HDB 3-Room,Queenstown,1976,S$ 641 psf,699 sqft,Ghim Moh Road,2 beds,1 bath,central,2025-03-01
+109,275A BISHAN STREET 24,"S$ 1,399,999",HDB 5-Room,Bishan,2011,"S$ 1,084 psf","1,292 sqft",Bishan Street 24,3 beds,2 baths,central,2025-03-01
+110,53 TELOK BLANGAH DRIVE,"S$ 808,000",HDB 5-Room,Bukit Merah,1977,S$ 626 psf,"1,291 sqft",Telok Blangah Drive,3 beds,2 baths,central,2025-03-25
+111,684 RACE COURSE ROAD,"S$ 590,000",HDB 3-Room,Kallang/Whampoa,1985,S$ 870 psf,678 sqft,Race Course Road,2 beds,2 baths,central,2025-03-25
+112,169 LORONG 1 TOA PAYOH,"S$ 410,000",HDB 3-Room,Toa Payoh,1972,S$ 495 psf,829 sqft,Lorong 1 Toa Payoh,2 beds,2 baths,central,2025-03-25
+113,64 KALLANG BAHRU,"S$ 400,000",HDB 3-Room,Kallang/Whampoa,1973,S$ 572 psf,699 sqft,Kallang Bahru,2 beds,1 bath,central,2025-03-25
+114,96A HENDERSON ROAD,"S$ 1,450,000",HDB 5-Room,Bukit Merah,2018,"S$ 1,192 psf","1,216 sqft",Henderson Road,3 beds,2 baths,central,2025-03-25
+115,308 SHUNFU ROAD,"S$ 569,000",HDB 3-Room,Bishan,1984,S$ 789 psf,721 sqft,Shunfu Road,2 beds,2 baths,central,2025-03-25
+116,24 BENDEMEER ROAD,"S$ 500,000",HDB 3-Room,Kallang/Whampoa,1970,S$ 683 psf,732 sqft,Bendemeer Road,2 beds,2 baths,central,2025-03-25
+117,468 NORTH BRIDGE ROAD,"S$ 530,000",HDB 3-Room,Kallang/Whampoa,1978,S$ 820 psf,646 sqft,North Bridge Road,2 beds,1 bath,central,2025-03-25
+118,79D TOA PAYOH CENTRAL,"S$ 814,000",HDB 4-Room,Toa Payoh,2007,S$ 831 psf,980 sqft,Toa Payoh Central,3 beds,2 baths,central,2025-03-25
+119,116 LORONG 2 TOA PAYOH,"S$ 457,999",HDB 3-Room,Toa Payoh,1969,S$ 676 psf,678 sqft,Lorong 2 Toa Payoh,2 beds,2 baths,central,2025-03-25
+120,79B TOA PAYOH CENTRAL,"S$ 1,099,000",HDB 4-Room,Toa Payoh,2007,"S$ 1,134 psf",969 sqft,Toa Payoh Central,3 beds,2 baths,central,2025-03-24
+121,120 ANG MO KIO AVENUE 3,"S$ 478,000",HDB 3-Room,Ang Mo Kio,1978,S$ 663 psf,721 sqft,Ang Mo Kio Avenue 3,2 beds,2 baths,central,2025-03-24
+122,95 COMMONWEALTH DRIVE,"S$ 400,000",HDB 3-Room,Queenstown,1964,S$ 546 psf,732 sqft,Commonwealth Drive,2 beds,1 bath,central,2025-03-24
+123,621 ANG MO KIO AVENUE 9,"S$ 520,000",HDB 3-Room,Ang Mo Kio,1979,S$ 710 psf,732 sqft,Ang Mo Kio Avenue 9,2 beds,2 baths,central,2025-03-24
+124,151 ANG MO KIO AVENUE 5,"S$ 449,000",HDB 3-Room,Ang Mo Kio,1980,S$ 613 psf,732 sqft,Ang Mo Kio Avenue 5,2 beds,2 baths,central,2025-03-24
+125,100 LORONG 1 TOA PAYOH,"S$ 418,000",HDB 3-Room,Toa Payoh,1968,S$ 571 psf,732 sqft,Lorong 1 Toa Payoh,2 beds,1 bath,central,2025-03-24
+126,3 GHIM MOH ROAD,"S$ 480,000",HDB 3-Room,Queenstown,1975,S$ 587 psf,818 sqft,Ghim Moh Road,2 beds,2 baths,central,2025-03-24
+127,541 ANG MO KIO AVENUE 10,"S$ 438,000",HDB 3-Room,Ang Mo Kio,1979,S$ 598 psf,732 sqft,Ang Mo Kio Avenue 10,2 beds,2 baths,central,2025-03-24
+128,166 BISHAN STREET 13,"S$ 1,030,000",HDB 5-Room,Bishan,1987,S$ 784 psf,"1,313 sqft",Bishan Street 13,3 beds,2 baths,central,2025-03-24
+129,268 BISHAN STREET 24,"S$ 798,000",HDB 4-Room,Bishan,1991,S$ 713 psf,"1,119 sqft",Bishan Street 24,3 beds,2 baths,central,2025-03-24
+130,193 BISHAN STREET 13,"S$ 615,000",HDB 3-Room,Bishan,1986,S$ 893 psf,689 sqft,Bishan Street 13,2 beds,2 baths,central,2025-03-25
+131,218 LORONG 8 TOA PAYOH,"S$ 750,000",HDB 5-Room,Toa Payoh,1977,S$ 596 psf,"1,259 sqft",Lorong 8 Toa Payoh,3 beds,2 baths,central,2025-03-25
+132,165 BISHAN STREET 13,"S$ 1,030,000",HDB 5-Room,Bishan,1987,S$ 791 psf,"1,302 sqft",Bishan Street 13,3 beds,2 baths,central,2025-03-25
+133,86 DAWSON ROAD,"S$ 1,250,000",HDB 4-Room,Queenstown,2015,"S$ 1,400 psf",893 sqft,Dawson Road,3 beds,2 baths,central,2025-03-25
+134,139A LORONG 1A TOA PAYOH,"S$ 1,200,000",HDB 4PA (Premium Apartment),Toa Payoh,2012,"S$ 1,224 psf",980 sqft,Lorong 1A Toa Payoh,3 beds,2 baths,central,2025-03-25
+135,80A TELOK BLANGAH STREET 31,"S$ 1,100,000",HDB 4-Room,Bukit Merah,2011,"S$ 1,076 psf","1,022 sqft",Telok Blangah Street 31,3 beds,2 baths,central,2025-03-25
+136,163 STIRLING ROAD,"S$ 375,000",HDB 3-Room,Queenstown,1969,S$ 544 psf,689 sqft,Stirling Road,3 beds,1 bath,central,2025-03-25
+137,141 JALAN BUKIT MERAH,"S$ 420,000",HDB 3-Room,Bukit Merah,1978,S$ 583 psf,720 sqft,Jalan Bukit Merah,2 beds,2 baths,central,2025-03-25
+138,308 SHUNFU ROAD,"S$ 585,000",HDB 3-Room,Bishan,1984,S$ 799 psf,732 sqft,Shunfu Road,2 beds,2 baths,central,2025-03-25
+139,96 DAWSON ROAD,"S$ 1,680,000",HDB 4PA (Premium Apartment),Queenstown,2020,"S$ 1,814 psf",926 sqft,Dawson Road,3 beds,2 baths,central,2025-03-25
+140,68 GEYLANG BAHRU,"S$ 550,000",HDB 3-Room,Kallang/Whampoa,1974,S$ 787 psf,699 sqft,Geylang Bahru,3 beds,1 bath,central,2025-03-06
+141,128 BISHAN STREET 12,"S$ 1,020,000",HDB 5-Room,Bishan,1986,S$ 783 psf,"1,302 sqft",Bishan Street 12,3 beds,2 baths,central,2025-03-06
+142,142 LORONG 2 TOA PAYOH,"S$ 1,280,000",HDB 5-Room,Toa Payoh,1999,"S$ 1,026 psf","1,248 sqft",Lorong 2 Toa Payoh,3 beds,2 baths,central,2025-03-06
+143,445 ANG MO KIO AVENUE 10,"S$ 448,000",HDB 3-Room,Ang Mo Kio,1978,S$ 621 psf,721 sqft,Ang Mo Kio Avenue 10,2 beds,2 baths,central,2025-03-06
+144,115 BISHAN STREET 12,"S$ 590,000",HDB 3-Room,Bishan,1985,S$ 858 psf,688 sqft,Bishan Street 12,2 beds,2 baths,central,2025-03-06
+145,139B LORONG 1A TOA PAYOH,"S$ 1,600,000",HDB 5PA (Premium Apartment),Toa Payoh,2012,"S$ 1,271 psf","1,259 sqft",Lorong 1A Toa Payoh,3 beds,2 baths,central,2025-03-06
+146,PINNACLE @ DUXTON,"S$ 1,465,000",HDB 5-Room,2,2009,"S$ 1,284 psf","1,141 sqft",1 Cantonment Road,3 beds,2 baths,central,2025-03-06
+147,116 BUKIT MERAH VIEW,"S$ 500,000",HDB 3-Room,Bukit Merah,1973,S$ 789 psf,634 sqft,Bukit Merah View,2 beds,1 bath,central,2025-03-06
+148,25 TOA PAYOH EAST,"S$ 450,000",HDB 3-Room,Toa Payoh,1970,S$ 624 psf,721 sqft,Toa Payoh East,2 beds,1 bath,central,2025-03-06
+149,26A JALAN MEMBINA,"S$ 720,000",HDB 3-Room,Bukit Merah,2007,"S$ 1,116 psf",645 sqft,Jalan Membina,2 beds,2 baths,central,2025-03-06
+150,139A LORONG 1A TOA PAYOH,"S$ 1,400,000",HDB 5-Room,Toa Payoh,2012,"S$ 1,141 psf","1,227 sqft",Lorong 1A Toa Payoh,3 beds,2 baths,central,2025-03-26
+151,1 LORONG 7 TOA PAYOH,"S$ 398,000",HDB 3-Room,12,S$ 552 psf,721 sqft,Lorong 7 Toa Payoh,,2 beds,2 baths,central,2025-03-26
+152,14A TELOK BLANGAH CRESCENT,"S$ 800,000",HDB 4-Room,4,S$ 736 psf,"1,087 sqft",Telok Blangah Crescent,,3 beds,2 baths,central,2025-03-26
+153,7 GHIM MOH ROAD,"S$ 850,000",HDB 5-Room,Queenstown,1976,S$ 675 psf,"1,259 sqft",Ghim Moh Road,3 beds,2 baths,central,2025-03-26
+154,112 BISHAN STREET 12,"S$ 768,888",HDB 4-Room,20,S$ 851 psf,904 sqft,BISHAN STREET 12,,3 beds,2 baths,central,2025-03-26
+155,142 JALAN BUKIT MERAH,"S$ 450,000",HDB 3-Room,Bukit Merah,1978,S$ 624 psf,721 sqft,Jalan Bukit Merah,2 beds,2 baths,central,2025-03-26
+156,117B JALAN TENTERAM,"S$ 810,000",HDB 4-Room,Kallang/Whampoa,S$ 809 psf,"1,001 sqft",Jalan Tenteram,,3 beds,2 baths,central,2025-03-26
+157,61C STRATHMORE AVENUE,"S$ 1,250,000",HDB 4-Room,Queenstown,2010,"S$ 1,210 psf","1,033 sqft",Strathmore Avenue,3 beds,2 baths,central,2025-03-26
+158,79E TOA PAYOH CENTRAL,"S$ 1,045,000",HDB 4-Room,Toa Payoh,"S$ 1,066 psf",980 sqft,Toa Payoh Central,,3 beds,2 baths,central,2025-03-26
+159,73 LORONG 4 TOA PAYOH,"S$ 430,000",HDB 3-Room,Toa Payoh,1968,S$ 555 psf,775 sqft,Lorong 4 Toa Payoh,2 beds,1 bath,central,2025-03-26
+160,14 TAMAN HO SWEE,"S$ 360,000",HDB 3-Room,Bukit Merah,S$ 620 psf,581 sqft,Taman Ho Swee,,2 beds,2 baths,central,2025-03-04
+161,307A ANG MO KIO AVENUE 1,"S$ 998,000",HDB 4-Room,Ang Mo Kio,S$ 956 psf,"1,044 sqft",Ang Mo Kio Avenue 1,,3 beds,2 baths,central,2025-03-04
+162,143 MEI LING STREET,"S$ 1,200,000",HDB 5-Room,Queenstown,1993,S$ 878 psf,"1,367 sqft",Mei Ling Street,3 beds,2 baths,central,2025-03-04
+163,64 KALLANG BAHRU,"S$ 488,888",HDB 3-Room,Kallang/Whampoa,1973,S$ 699 psf,699 sqft,Kallang Bahru,2 beds,1 bath,central,2025-03-04
+164,79 DAWSON ROAD,"S$ 765,000",HDB 3-Room,Queenstown,2019,"S$ 1,147 psf",667 sqft,Dawson Road,2 beds,2 baths,central,2025-03-04
+165,319 ANG MO KIO AVENUE 1,"S$ 448,000",HDB 3-Room,Ang Mo Kio,1976,S$ 571 psf,785 sqft,Ang Mo Kio Avenue 1,2 beds,2 baths,central,2025-03-04
+166,1 ST. GEORGE'S ROAD,"S$ 550,000",HDB 4-Room,Kallang/Whampoa,S$ 623 psf,883 sqft,St. George's Road,,3 beds,2 baths,central,2025-03-04
+167,685 RACE COURSE ROAD,"S$ 520,000",HDB 3-Room,8,S$ 767 psf,678 sqft,Race Course Road,,2 beds,2 baths,central,2025-03-04
+168,70C TELOK BLANGAH HEIGHTS,"S$ 988,000",HDB 4-Room,Bukit Merah,2016,S$ 987 psf,"1,001 sqft",Telok Blangah Heights,3 beds,2 baths,central,2025-03-04
+169,147 BISHAN STREET 11,"S$ 550,000",HDB 4-Room,Bishan,1986,S$ 608 psf,904 sqft,Bishan Street 11,3 beds,2 baths,central,2025-03-04
+170,165 BISHAN STREET 13,"S$ 1,050,000",HDB 5-Room,Bishan,1987,S$ 806 psf,"1,302 sqft",Bishan Street 13,4 beds,2 baths,central,2025-03-27
+171,77 SENG POH ROAD,"S$ 1,300,000",HDB 4-Room,Bukit Merah,1937,"S$ 1,373 psf",947 sqft,Seng Poh Road,3 beds,2 baths,central,2025-03-27
+172,144 BISHAN STREET 12,"S$ 1,138,888",HDB 5-Room,Bishan,1987,S$ 860 psf,"1,324 sqft",Bishan Street 12,3 beds,2 baths,central,2025-03-27
+173,38C BENDEMEER ROAD,"S$ 988,000",HDB 4-Room,Kallang/Whampoa,2010,"S$ 1,031 psf",958 sqft,Bendemeer Road,3 beds,2 baths,central,2025-03-27
+174,46 OWEN ROAD,"S$ 2,400,000",HDB 4-Room,Kallang/Whampoa,1978,"S$ 1,474 psf","1,628 sqft",Owen Road,3 beds,3 baths,central,2025-03-27
+175,266 BISHAN STREET 24,"S$ 670,000",HDB 4-Room,20,S$ 599 psf,"1,119 sqft",Bishan Street 24,,3 beds,2 baths,central,2025-03-27
+176,116 LORONG 2 TOA PAYOH,"S$ 450,000",HDB 3-Room,Toa Payoh,1969,S$ 664 psf,678 sqft,Lorong 2 Toa Payoh,2 beds,1 bath,central,2025-03-27
+177,248 KIM KEAT LINK,"S$ 850,000",HDB 5-Room,Toa Payoh,1988,S$ 653 psf,"1,302 sqft",Kim Keat Link,4 beds,2 baths,central,2025-03-27
+178,55 STRATHMORE AVENUE,"S$ 999,999",HDB 5-Room,Queenstown,2000,S$ 845 psf,"1,184 sqft",Strathmore Avenue,3 beds,2 baths,central,2025-03-27
+179,53 LORONG 5 TOA PAYOH,"S$ 429,000",HDB 3-Room,Toa Payoh,1967,S$ 586 psf,732 sqft,Lorong 5 Toa Payoh,2 beds,2 baths,central,2025-03-27
+180,73 LORONG 4 TOA PAYOH,"S$ 388,000",HDB 3-Room,Toa Payoh,1968,S$ 582 psf,667 sqft,Lorong 4 Toa Payoh,3 beds,1 bath,central,2025-03-02
+181,422 ANG MO KIO AVENUE 3,"S$ 950,000",HDB 5-Room,Ang Mo Kio,1978,S$ 605 psf,"1,571 sqft",Ang Mo Kio Avenue 3,4 beds,2 baths,central,2025-03-02
+182,17 TELOK BLANGAH CRESCENT,"S$ 840,000",HDB 4-Room,Bukit Merah,2000,S$ 773 psf,"1,086 sqft",Telok Blangah Crescent,3 beds,2 baths,central,2025-03-02
+183,224 LORONG 8 TOA PAYOH,"S$ 640,000",HDB 5-Room,Toa Payoh,1975,S$ 522 psf,"1,227 sqft",Lorong 8 Toa Payoh,3 beds,2 baths,central,2025-03-02
+184,15 FARRER PARK ROAD,"S$ 680,000",HDB 3-Room,Kallang/Whampoa,2002,"S$ 1,019 psf",667 sqft,Farrer Park Road,2 beds,2 baths,central,2025-03-02
+185,184 STIRLING ROAD,"S$ 1,300,000",HDB 5-Room,Queenstown,1999,"S$ 1,051 psf","1,237 sqft",Stirling Road,3 beds,2 baths,central,2025-03-02
+186,30 MARGARET DRIVE,"S$ 818,000",HDB 3-Room,Queenstown,2021,"S$ 1,226 psf",667 sqft,Margaret Drive,2 beds,2 baths,central,2025-03-02
+187,7A COMMONWEALTH AVENUE,"S$ 1,360,000",HDB 5-Room,Queenstown,1994,S$ 988 psf,"1,377 sqft",Commonwealth Avenue,4 beds,2 baths,central,2025-03-02
+188,535 ANG MO KIO AVENUE 5,"S$ 420,000",HDB 3-Room,Ang Mo Kio,1979,S$ 559 psf,751 sqft,Ang Mo Kio Avenue 5,2 beds,2 baths,central,2025-03-02
+189,119C KIM TIAN ROAD,"S$ 1,150,000",HDB 5-Room,Bukit Merah,2001,S$ 971 psf,"1,184 sqft",Kim Tian Road,3 beds,2 baths,central,2025-03-02
+190,413 ANG MO KIO AVENUE 10,"S$ 638,000",HDB 4-Room,Ang Mo Kio,1978,S$ 644 psf,990 sqft,Ang Mo Kio Avenue 10,3 beds,2 baths,central,2025-03-09
+191,100 WHAMPOA DRIVE,"S$ 650,000",HDB 4-Room,Kallang/Whampoa,1973,S$ 663 psf,980 sqft,Whampoa Drive,3 beds,2 baths,central,2025-03-09
+192,220 BISHAN STREET 23,"S$ 1,088,000",HDB 5-Room,Bishan,1990,S$ 727 psf,"1,496 sqft",Bishan Street 23,4 beds,2 baths,central,2025-03-09
+193,80 LORONG 4 TOA PAYOH,"S$ 900,000",HDB 4-Room,Toa Payoh,1994,S$ 796 psf,"1,130 sqft",Lorong 4 Toa Payoh,3 beds,2 baths,central,2025-03-09
+194,110 WHAMPOA ROAD,"S$ 845,000",HDB 5-Room,Kallang/Whampoa,1996,S$ 644 psf,"1,313 sqft",Whampoa Road,3 beds,2 baths,central,2025-03-09
+195,216 BISHAN STREET 23,"S$ 800,000",HDB 4-Room,Bishan,1990,S$ 721 psf,"1,109 sqft",Bishan Street 23,3 beds,2 baths,central,2025-03-09
+196,90B TELOK BLANGAH STREET 31,"S$ 1,011,888",HDB 4-Room,Bukit Merah,2017,"S$ 1,011 psf","1,001 sqft",Telok Blangah Street 31,3 beds,2 baths,central,2025-03-09
+197,116B JALAN TENTERAM,"S$ 668,888",HDB 3-Room,Kallang/Whampoa,2016,S$ 928 psf,721 sqft,Jalan Tenteram,2 beds,2 baths,central,2025-03-09
+198,26D JALAN MEMBINA,"S$ 918,000",HDB 4-Room,Bukit Merah,2007,S$ 947 psf,969 sqft,Jalan Membina,3 beds,2 baths,central,2025-03-09
+199,52 STRATHMORE AVENUE,"S$ 999,999",HDB 4-Room,Queenstown,2005,"S$ 1,032 psf",969 sqft,Strathmore Avenue,3 beds,2 baths,central,2025-03-09
+200,321 JURONG EAST STREET 31,"S$ 540,000",HDB 4-Room,22,S$ 483 psf,"1,119 sqft",Jurong East Street 31,,3 beds,2 baths,west,2025-03-02
+201,263 BOON LAY DRIVE,"S$ 599,000",HDB 4-Room,Jurong West,1994,S$ 511 psf,"1,173 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-02
+202,22 TEBAN GARDENS ROAD,"S$ 700,000",HDB 4-Room,Jurong East,2012,S$ 707 psf,990 sqft,Teban Gardens Road,3 beds,2 baths,west,2025-03-02
+203,373 CLEMENTI AVENUE 4,"S$ 620,000",HDB 4-Room,Clementi,1981,S$ 633 psf,980 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-02
+204,663A JURONG WEST STREET 65,"S$ 599,999",HDB 4-Room,Jurong West,1998,S$ 612 psf,980 sqft,Jurong West Street 65,3 beds,2 baths,west,2025-03-02
+205,362 CLEMENTI AVENUE 2,"S$ 688,000",HDB 4-Room,Clementi,1977,S$ 695 psf,990 sqft,Clementi Avenue 2,3 beds,2 baths,west,2025-03-02
+206,150A CORPORATION DRIVE,"S$ 495,000",HDB 3-Room,Jurong West,2018,S$ 676 psf,732 sqft,Corporation Drive,2 beds,2 baths,west,2025-03-02
+207,677A JURONG WEST STREET 64,"S$ 535,000",HDB 4PA (Premium Apartment),Jurong West,2001,S$ 534 psf,"1,001 sqft",Jurong West Street 64,3 beds,2 baths,west,2025-03-02
+208,418 CLEMENTI AVENUE 1,"S$ 1,088,888",HDB 4-Room,Clementi,2011,"S$ 1,012 psf","1,076 sqft",Clementi Avenue 1,3 beds,2 baths,west,2025-03-02
+209,304 JURONG EAST STREET 32,"S$ 475,000",HDB 3-Room,Jurong East,1982,S$ 538 psf,883 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-02
+210,617 JURONG WEST STREET 65,"S$ 550,000",HDB 4-Room,Jurong West,1999,S$ 601 psf,915 sqft,Jurong West Street 65,3 beds,2 baths,west,2025-03-18
+211,913 JURONG WEST STREET 91,"S$ 520,000",HDB 4-Room,Jurong West,1987,S$ 469 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-18
+212,339 CLEMENTI AVENUE 5,"S$ 530,000",HDB 3-Room,Clementi,1978,S$ 600 psf,883 sqft,Clementi Avenue 5,2 beds,2 baths,west,2025-03-18
+213,712 CLEMENTI WEST STREET 2,"S$ 450,000",HDB 4-Room,5,99 years,S$ 460 psf,979 sqft,Clementi West Street 2,3 beds,2 baths,west,2025-03-18
+214,301 CLEMENTI AVENUE 4,"S$ 668,888",HDB 4-Room,Clementi,1978,S$ 676 psf,990 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-18
+215,248 JURONG EAST STREET 24,"S$ 425,000",HDB 3-Room,Jurong East,1982,S$ 589 psf,721 sqft,Jurong East Street 24,2 beds,2 baths,west,2025-03-18
+216,23 TEBAN GARDENS ROAD,"S$ 555,000",HDB 3-Room,Jurong East,2012,S$ 716 psf,775 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-18
+217,455 CLEMENTI AVENUE 3,"S$ 980,000",HDB 4-Room,5,99 years,"S$ 1,000 psf",980 sqft,Clementi Avenue 3,3 beds,2 baths,west,2025-03-18
+218,520 JURONG WEST STREET 52,"S$ 650,000",HDB 4-Room,Jurong West,1983,S$ 570 psf,"1,141 sqft",Jurong West Street 52,3 beds,2 baths,west,2025-03-18
+219,550 JURONG WEST STREET 42,"S$ 598,888",HDB 4-Room,Jurong West,1984,S$ 525 psf,"1,141 sqft",Jurong West Street 42,3 beds,2 baths,west,2025-03-18
+220,43 TEBAN GARDENS ROAD,"S$ 420,000",HDB 3-Room,Jurong East,1985,S$ 574 psf,732 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-06
+221,491 JURONG WEST AVENUE 1,"S$ 495,000",HDB 4-Room,Jurong West,1984,S$ 490 psf,"1,011 sqft",Jurong West Avenue 1,3 beds,2 baths,west,2025-03-06
+222,554 JURONG WEST STREET 42,"S$ 550,000",HDB 4-Room,Jurong West,1984,S$ 492 psf,"1,119 sqft",Jurong West Street 42,4 beds,2 baths,west,2025-03-06
+223,688 JURONG WEST CENTRAL 1,"S$ 650,000",HDB 4PA (Premium Apartment),Jurong West,S$ 610 psf,"1,066 sqft",Jurong West Central 1,,3 beds,2 baths,west,2025-03-06
+224,904 JURONG WEST STREET 91,"S$ 528,000",HDB 4-Room,Jurong West,1986,S$ 477 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-06
+225,175 BOON LAY DRIVE,"S$ 335,000",HDB 3-Room,22,S$ 528 psf,635 sqft,Boon Lay Drive,,2 beds,1 bath,west,2025-03-06
+226,279 TOH GUAN ROAD,"S$ 680,888",HDB 4-Room,Jurong East,1997,S$ 630 psf,"1,080 sqft",Toh Guan Road,3 beds,2 baths,west,2025-03-06
+227,377 CLEMENTI AVENUE 5,"S$ 620,000",HDB 4-Room,Clementi,1980,S$ 633 psf,979 sqft,Clementi Avenue 5,3 beds,2 baths,west,2025-03-06
+228,187 BOON LAY AVENUE,"S$ 368,000",HDB 3-Room,Jurong West,1975,S$ 503 psf,731 sqft,Boon Lay Avenue,2 beds,2 baths,west,2025-03-06
+229,330 JURONG EAST AVENUE 1,"S$ 450,000",HDB 3-Room,Jurong East,1982,S$ 565 psf,796 sqft,Jurong East Avenue 1,2 beds,2 baths,west,2025-03-06
+230,693 JURONG WEST CENTRAL 1,"S$ 668,000",HDB 4PA (Premium Apartment),Jurong West,1996,S$ 585 psf,"1,141 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-02-28
+231,313 JURONG EAST STREET 32,"S$ 420,888",HDB 3-Room,Jurong East,1983,S$ 529 psf,795 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-02-28
+232,711 CLEMENTI WEST STREET 2,"S$ 388,000",HDB 3-Room,Clementi,1979,S$ 538 psf,721 sqft,Clementi West Street 2,2 beds,2 baths,west,2025-02-28
+233,119 HO CHING ROAD,"S$ 350,000",HDB 3-Room,Jurong West,1971,S$ 485 psf,721 sqft,Ho Ching Road,2 beds,1 bath,west,2025-02-28
+234,535 JURONG WEST STREET 52,"S$ 425,000",HDB 3-Room,Jurong West,1982,S$ 589 psf,721 sqft,Jurong West Street 52,2 beds,2 baths,west,2025-02-28
+235,902 JURONG WEST STREET 91,"S$ 490,000",HDB 4-Room,Jurong West,1988,S$ 442 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-02-28
+236,325 CLEMENTI AVENUE 5,"S$ 480,000",HDB 3-Room,Clementi,1977,S$ 666 psf,721 sqft,Clementi Avenue 5,2 beds,2 baths,west,2025-02-28
+237,490 JURONG WEST AVENUE 1,"S$ 540,000",HDB 4-Room,Jurong West,1983,S$ 487 psf,"1,108 sqft",Jurong West Avenue 1,3 beds,2 baths,west,2025-02-28
+238,225A JURONG EAST STREET 21,"S$ 456,000",HDB 3-Room,Jurong East,1984,S$ 632 psf,721 sqft,Jurong East Street 21,2 beds,2 baths,west,2025-02-28
+239,681C JURONG WEST CENTRAL 1,"S$ 618,000",HDB 4-Room,Jurong West,1998,S$ 617 psf,"1,001 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-02-28
+240,988A JURONG WEST STREET 93,"S$ 550,000",HDB 4PA (Premium Apartment),22,S$ 543 psf,"1,012 sqft",Jurong West Street 93,,3 beds,2 baths,west,2025-03-23
+241,463 JURONG WEST STREET 41,"S$ 420,000",HDB 3-Room,Jurong West,1983,S$ 583 psf,721 sqft,Jurong West Street 41,2 beds,2 baths,west,2025-03-23
+242,258 BOON LAY DRIVE,"S$ 598,800",HDB 4-Room,Jurong West,1994,S$ 502 psf,"1,194 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-23
+243,411 COMMONWEALTH AVENUE WEST,"S$ 650,000",HDB 4-Room,Clementi,1977,S$ 623 psf,"1,043 sqft",Commonwealth Avenue West,3 beds,2 baths,west,2025-03-23
+244,561B JURONG WEST STREET 42,"S$ 520,000",HDB 3-Room,Jurong West,2017,S$ 711 psf,731 sqft,Jurong West Street 42,2 beds,2 baths,west,2025-03-23
+245,688 JURONG WEST CENTRAL 1,"S$ 650,000",HDB 4PA (Premium Apartment),Jurong West,1996,S$ 610 psf,"1,066 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-03-23
+246,454 CLEMENTI AVENUE 3,"S$ 850,000",HDB 4-Room,Clementi,2001,S$ 878 psf,968 sqft,Clementi Avenue 3,3 beds,2 baths,west,2025-03-23
+247,492 JURONG WEST STREET 41,"S$ 418,000",HDB 3-Room,Jurong West,1985,S$ 607 psf,689 sqft,Jurong West Street 41,2 beds,2 baths,west,2025-03-23
+248,187 BOON LAY AVENUE,"S$ 358,000",HDB 3-Room,Jurong West,1975,S$ 564 psf,635 sqft,Boon Lay Avenue,2 beds,2 baths,west,2025-03-23
+249,410 PANDAN GARDENS,"S$ 480,000",HDB 3-Room,Jurong East,1978,S$ 519 psf,925 sqft,Pandan Gardens,2 beds,2 baths,west,2025-03-23
+250,651B JURONG WEST STREET 61,"S$ 580,000",HDB 4-Room,Jurong West,2000,S$ 592 psf,979 sqft,Jurong West Street 61,3 beds,2 baths,west,2025-03-05
+251,915 JURONG WEST STREET 91,"S$ 435,000",HDB 3-Room,Jurong West,1986,S$ 553 psf,786 sqft,Jurong West Street 91,2 beds,2 baths,west,2025-03-05
+252,309 CLEMENTI AVENUE 4,"S$ 438,000",HDB 3-Room,Clementi,1978,S$ 607 psf,721 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-03-05
+253,208 BOON LAY PLACE,"S$ 368,000",HDB 3-Room,Jurong West,1976,S$ 503 psf,732 sqft,Boon Lay Place,2 beds,2 baths,west,2025-03-05
+254,23 DOVER CRESCENT,"S$ 530,000",HDB 4-Room,Queenstown,1975,S$ 560 psf,947 sqft,Dover Crescent,3 beds,2 baths,west,2025-03-05
+255,309 CLEMENTI AVENUE 4,"S$ 470,000",HDB 3-Room,Clementi,1978,S$ 652 psf,721 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-03-05
+256,714 CLEMENTI WEST STREET 2,"S$ 490,000",HDB 3-Room,Clementi,1980,S$ 556 psf,882 sqft,Clementi West Street 2,2 beds,2 baths,west,2025-03-05
+257,904 JURONG WEST STREET 91,"S$ 540,668",HDB 4-Room,Jurong West,1986,S$ 488 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-05
+258,276D JURONG WEST STREET 25,"S$ 528,888",HDB 4-Room,Jurong West,2000,S$ 546 psf,969 sqft,Jurong West Street 25,3 beds,2 baths,west,2025-03-05
+259,510 JURONG WEST STREET 52,"S$ 618,000",HDB 4-Room,Jurong West,1983,S$ 558 psf,"1,108 sqft",Jurong West Street 52,3 beds,2 baths,west,2025-03-05
+260,330 CLEMENTI AVENUE 2,"S$ 450,000",HDB 3-Room,Clementi,1977,S$ 624 psf,721 sqft,Clementi Avenue 2,2 beds,2 baths,west,2025-03-17
+261,271D JURONG WEST STREET 24,"S$ 628,000",HDB 4PA (Premium Apartment),Jurong West,2002,S$ 621 psf,"1,011 sqft",Jurong West Street 24,3 beds,2 baths,west,2025-03-17
+262,512 WEST COAST DRIVE,"S$ 600,000",HDB 4-Room,Clementi,1977,S$ 606 psf,990 sqft,West Coast Drive,3 beds,2 baths,west,2025-03-17
+263,716 CLEMENTI WEST STREET 2,"S$ 580,000",HDB 4-Room,Clementi,1981,S$ 592 psf,980 sqft,Clementi West Street 2,3 beds,2 baths,west,2025-03-17
+264,674B JURONG WEST STREET 65,"S$ 613,000",HDB 4-Room,Jurong West,2000,S$ 626 psf,979 sqft,Jurong West Street 65,3 beds,2 baths,west,2025-03-17
+265,712 CLEMENTI WEST STREET 2,"S$ 499,999",HDB 4-Room,Clementi,1979,S$ 511 psf,979 sqft,Clementi West Street 2,3 beds,2 baths,west,2025-03-17
+266,301 JURONG EAST STREET 32,"S$ 438,000",HDB 3-Room,Jurong East,1982,S$ 607 psf,721 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-17
+267,258 BOON LAY DRIVE,"S$ 598,800",HDB 4-Room,22,99 years,S$ 502 psf,"1,194 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-17
+268,258 BOON LAY DRIVE,"S$ 598,800",HDB 4-Room,22,99 years,S$ 502 psf,"1,194 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-17
+269,441 JURONG WEST AVENUE 1,"S$ 530,000",HDB 4-Room,Jurong West,1984,S$ 478 psf,"1,109 sqft",Jurong West Avenue 1,3 beds,2 baths,west,2025-03-17
+270,695 JURONG WEST CENTRAL 1,"S$ 638,000",HDB 4-Room,Jurong West,1996,S$ 581 psf,"1,098 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-03-16
+271,663B JURONG WEST STREET 65,"S$ 588,000",HDB 4-Room,Jurong West,1998,S$ 600 psf,980 sqft,Jurong West Street 65,3 beds,2 baths,west,2025-03-16
+272,177 YUNG SHENG ROAD,"S$ 604,000",HDB 4-Room,Jurong West,1999,S$ 585 psf,"1,033 sqft",Yung Sheng Road,3 beds,2 baths,west,2025-03-16
+273,667A JURONG WEST STREET 65,"S$ 600,000",HDB 4-Room,Jurong West,1999,S$ 619 psf,969 sqft,Jurong West Street 65,3 beds,2 baths,west,2025-03-16
+274,25 TEBAN GARDENS ROAD,"S$ 538,888",HDB 4-Room,Jurong East,1980,S$ 468 psf,"1,152 sqft",Teban Gardens Road,3 beds,2 baths,west,2025-03-16
+275,751 JURONG WEST STREET 73,"S$ 515,000",HDB 4-Room,Jurong West,1990,S$ 460 psf,"1,119 sqft",Jurong West Street 73,3 beds,2 baths,west,2025-03-16
+276,311B CLEMENTI AVENUE 4,"S$ 1,050,000",HDB 4-Room,Clementi,2015,"S$ 1,189 psf",883 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-16
+277,307 CLEMENTI AVENUE 4,"S$ 468,000",HDB 3-Room,Clementi,1978,S$ 649 psf,721 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-03-16
+278,308 CLEMENTI AVENUE 4,"S$ 738,000",HDB 4-Room,Clementi,1978,S$ 745 psf,990 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-16
+279,268 TOH GUAN ROAD,"S$ 598,888",HDB 4-Room,Jurong East,1997,S$ 545 psf,"1,098 sqft",Toh Guan Road,3 beds,2 baths,west,2025-03-16
+280,420 CLEMENTI AVENUE 1,"S$ 1,088,888",HDB 4-Room,Clementi,2012,"S$ 1,054 psf","1,033 sqft",Clementi Avenue 1,3 beds,2 baths,west,2025-03-23
+281,264 JURONG EAST STREET 24,"S$ 550,000",HDB 4-Room,Jurong East,1982,S$ 532 psf,"1,033 sqft",Jurong East Street 24,3 beds,2 baths,west,2025-03-23
+282,180A BOON LAY DRIVE,"S$ 480,000",HDB 3-Room,22,S$ 656 psf,732 sqft,Boon Lay Drive,,2 beds,2 baths,west,2025-03-23
+283,538 JURONG WEST AVENUE 1,"S$ 580,000",HDB 4-Room,Jurong West,1984,S$ 518 psf,"1,119 sqft",Jurong West Avenue 1,3 beds,2 baths,west,2025-03-23
+284,55 TEBAN GARDENS ROAD,"S$ 630,000",HDB 4-Room,Jurong East,S$ 636 psf,990 sqft,Teban Gardens Road,,3 beds,2 baths,west,2025-03-23
+285,275B JURONG WEST STREET 25,"S$ 499,000",HDB 4-Room,Jurong West,S$ 515 psf,969 sqft,Jurong West Street 25,,3 beds,2 baths,west,2025-03-23
+286,1 DOVER ROAD,"S$ 458,000",HDB 3-Room,Queenstown,1975,S$ 654 psf,700 sqft,Dover Road,2 beds,2 baths,west,2025-03-23
+287,402 PANDAN GARDENS,"S$ 528,000",HDB 4-Room,22,S$ 506 psf,"1,044 sqft",Pandan Gardens,,3 beds,2 baths,west,2025-03-23
+288,311C CLEMENTI AVENUE 4,"S$ 728,000",HDB 3-Room,Clementi,2015,"S$ 1,127 psf",646 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-03-23
+289,364 CLEMENTI AVENUE 2,"S$ 420,000",HDB 3-Room,Clementi,1977,S$ 583 psf,721 sqft,Clementi Avenue 2,2 beds,2 baths,west,2025-03-23
+290,252 JURONG EAST STREET 24,"S$ 438,888",HDB 3-Room,Jurong East,1983,S$ 583 psf,753 sqft,Jurong East Street 24,2 beds,2 baths,west,2025-02-26
+291,520 JURONG WEST STREET 52,"S$ 628,800",HDB 4-Room,Jurong West,1983,S$ 562 psf,"1,119 sqft",Jurong West Street 52,3 beds,2 baths,west,2025-02-26
+292,311C CLEMENTI AVENUE 4,"S$ 950,000",HDB 4PA (Premium Apartment),Clementi,2015,"S$ 1,103 psf",861 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-02-26
+293,375 CLEMENTI AVENUE 4,"S$ 530,000",HDB 3-Room,Clementi,1980,S$ 601 psf,882 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-02-26
+294,183B BOON LAY AVENUE,"S$ 660,000",HDB 4-Room,Jurong West,2013,S$ 667 psf,990 sqft,Boon Lay Avenue,3 beds,2 baths,west,2025-02-26
+295,852 JURONG WEST STREET 81,"S$ 548,888",HDB 4-Room,22,S$ 477 psf,"1,151 sqft",Jurong West Street 81,,3 beds,2 baths,west,2025-02-26
+296,211 BOON LAY PLACE,"S$ 350,000",HDB 3-Room,Jurong West,1976,S$ 500 psf,700 sqft,Boon Lay Place,2 beds,1 bath,west,2025-02-26
+297,426 CLEMENTI AVENUE 3,"S$ 480,000",HDB 3-Room,Clementi,1977,S$ 666 psf,721 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-02-26
+298,688 JURONG WEST CENTRAL 1,"S$ 648,888",HDB 4PA (Premium Apartment),Jurong West,S$ 609 psf,"1,065 sqft",Jurong West Central 1,,3 beds,2 baths,west,2025-02-26
+299,337B TAH CHING ROAD,"S$ 630,000",HDB 4-Room,Jurong West,2008,S$ 623 psf,"1,011 sqft",Tah Ching Road,3 beds,2 baths,west,2025-02-26
+300,321 JURONG EAST STREET 31,"S$ 550,000",HDB 4-Room,Jurong East,1983,S$ 492 psf,"1,119 sqft",Jurong East Street 31,3 beds,2 baths,west,2025-03-10
+301,531 JURONG WEST STREET 52,"S$ 438,000",HDB 3-Room,Jurong West,1982,S$ 607 psf,721 sqft,Jurong West Street 52,2 beds,2 baths,west,2025-03-10
+302,110 JURONG EAST STREET 13,"S$ 488,000",HDB 3-Room,Jurong East,1981,S$ 668 psf,731 sqft,Jurong East Street 13,2 beds,2 baths,west,2025-03-10
+303,21 TEBAN GARDENS ROAD,"S$ 660,000",HDB 4-Room,Jurong East,2012,S$ 667 psf,990 sqft,Teban Gardens Road,3 beds,2 baths,west,2025-03-10
+304,838 JURONG WEST STREET 81,"S$ 515,000",HDB 4-Room,Jurong West,1989,S$ 460 psf,"1,119 sqft",Jurong West Street 81,3 beds,2 baths,west,2025-03-10
+305,20 TEBAN GARDENS ROAD,"S$ 500,000",HDB 3-Room,Jurong East,2012,S$ 645 psf,775 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-10
+306,731 JURONG WEST STREET 72,"S$ 528,888",HDB 4-Room,Jurong West,1989,S$ 443 psf,"1,195 sqft",Jurong West Street 72,3 beds,2 baths,west,2025-03-10
+307,273D JURONG WEST AVENUE 3,"S$ 550,000",HDB 4-Room,Jurong West,1999,S$ 601 psf,915 sqft,Jurong West Avenue 3,3 beds,2 baths,west,2025-03-10
+308,138B YUAN CHING ROAD,"S$ 699,999",HDB 4PA (Premium Apartment),Jurong West,2014,S$ 715 psf,979 sqft,Yuan Ching Road,3 beds,2 baths,west,2025-03-10
+309,56 TEBAN GARDENS ROAD,"S$ 720,000",HDB 4-Room,Jurong East,2015,S$ 727 psf,990 sqft,Teban Gardens Road,3 beds,2 baths,west,2025-03-10
+310,688 JURONG WEST CENTRAL 1,"S$ 650,000",HDB 4PA (Premium Apartment),Jurong West,1996,S$ 610 psf,"1,066 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-03-10
+311,680C JURONG WEST CENTRAL 1,"S$ 589,000",HDB 4-Room,Jurong West,1998,S$ 582 psf,"1,012 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-03-10
+312,431 CLEMENTI AVENUE 3,"S$ 555,000",HDB 3-Room,Clementi,1978,S$ 629 psf,882 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-03-10
+313,372 JURONG EAST STREET 32,"S$ 440,000",HDB 3-Room,Jurong East,2012,S$ 639 psf,689 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-10
+314,313 JURONG EAST STREET 32,"S$ 399,000",HDB 3-Room,Jurong East,1983,S$ 501 psf,797 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-10
+315,28C DOVER CRESCENT,"S$ 1,000,000",HDB 4-Room,Queenstown,2009,S$ 978 psf,"1,023 sqft",Dover Crescent,3 beds,2 baths,west,2025-03-10
+316,929 JURONG WEST STREET 92,"S$ 490,000",HDB 4-Room,Jurong West,1986,S$ 442 psf,"1,109 sqft",Jurong West Street 92,3 beds,2 baths,west,2025-03-10
+317,431 CLEMENTI AVENUE 3,"S$ 555,000",HDB 3-Room,Clementi,1978,S$ 629 psf,882 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-03-10
+318,851 JURONG WEST STREET 81,"S$ 560,000",HDB 4-Room,Jurong West,1994,S$ 482 psf,"1,163 sqft",Jurong West Street 81,3 beds,2 baths,west,2025-03-10
+319,311B CLEMENTI AVENUE 4,"S$ 1,020,000",HDB 4-Room,Clementi,2015,"S$ 1,185 psf",861 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-10
+320,313 JURONG EAST STREET 32,"S$ 408,000",HDB 3-Room,Jurong East,1983,S$ 513 psf,796 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-07
+321,468 JURONG WEST STREET 41,"S$ 530,000",HDB 4-Room,Jurong West,1984,S$ 503 psf,"1,054 sqft",Jurong West Street 41,3 beds,2 baths,west,2025-03-07
+322,208B CLEMENTI AVENUE 6,"S$ 980,000",HDB 4-Room,Clementi,2016,S$ 979 psf,"1,001 sqft",Clementi Avenue 6,3 beds,2 baths,west,2025-03-07
+323,4 TOH YI DRIVE,"S$ 940,000",HDB 4-Room,Bukit Timah,1988,S$ 840 psf,"1,119 sqft",Toh Yi Drive,3 beds,2 baths,west,2025-03-07
+324,915 JURONG WEST STREET 91,"S$ 400,000",HDB 3-Room,Jurong West,1986,S$ 509 psf,786 sqft,Jurong West Street 91,2 beds,2 baths,west,2025-03-07
+325,450 CLEMENTI AVENUE 3,"S$ 498,000",HDB 3-Room,Clementi,1979,S$ 680 psf,732 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-03-07
+326,816 JURONG WEST STREET 81,"S$ 588,888",HDB 4-Room,Jurong West,1992,S$ 506 psf,"1,163 sqft",Jurong West Street 81,3 beds,2 baths,west,2025-03-07
+327,431 CLEMENTI AVENUE 3,"S$ 595,900",HDB 3-Room,Clementi,1978,S$ 676 psf,882 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-03-07
+328,185 BOON LAY AVENUE,"S$ 300,000",HDB 3-Room,Jurong West,1975,S$ 472 psf,635 sqft,Boon Lay Avenue,2 beds,1 bath,west,2025-03-07
+329,375 CLEMENTI AVENUE 4,"S$ 618,000",HDB 3-Room,Clementi,1980,S$ 709 psf,872 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-07
+330,20 DOVER CRESCENT,"S$ 430,000",HDB 3-Room,Queenstown,1975,S$ 614 psf,700 sqft,Dover Crescent,2 beds,1 bath,west,2025-03-09
+331,328 CLEMENTI AVENUE 2,"S$ 488,000",HDB 3-Room,Clementi,1977,S$ 677 psf,721 sqft,Clementi Avenue 2,2 beds,2 baths,west,2025-03-09
+332,114 HO CHING ROAD,"S$ 330,000",HDB 3-Room,Jurong West,1971,S$ 458 psf,720 sqft,Ho Ching Road,2 beds,2 baths,west,2025-03-09
+333,476 JURONG WEST STREET 41,"S$ 430,000",HDB 3-Room,Jurong West,1984,S$ 547 psf,786 sqft,Jurong West Street 41,2 beds,2 baths,west,2025-03-09
+334,364 CLEMENTI AVENUE 2,"S$ 480,000",HDB 3-Room,Clementi,1977,S$ 666 psf,721 sqft,Clementi Avenue 2,2 beds,2 baths,west,2025-03-09
+335,704 WEST COAST ROAD,"S$ 420,000",HDB 3-Room,Clementi,1979,S$ 583 psf,721 sqft,West Coast Road,2 beds,2 baths,west,2025-03-09
+336,702 WEST COAST ROAD,"S$ 420,000",HDB 3-Room,Clementi,1979,S$ 583 psf,721 sqft,West Coast Road,2 beds,2 baths,west,2025-03-09
+337,354 CLEMENTI AVENUE 2,"S$ 433,000",HDB 3-Room,Clementi,1979,S$ 601 psf,721 sqft,Clementi Avenue 2,2 beds,2 baths,west,2025-03-09
+338,166A YUNG KUANG COURT,"S$ 668,000",HDB 4-Room,22,2017,S$ 667 psf,"1,001 sqft",166A Yung Kuang Road,3 beds,2 baths,west,2025-03-09
+339,417 CLEMENTI AVENUE 1,"S$ 750,000",HDB 3-Room,Clementi,2011,S$ 954 psf,786 sqft,Clementi Avenue 1,2 beds,2 baths,west,2025-03-09
+340,946 JURONG WEST STREET 91,"S$ 530,000",HDB 4-Room,Jurong West,1988,S$ 478 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-02-25
+341,751 JURONG WEST STREET 73,"S$ 500,000",HDB 4-Room,Jurong West,1990,S$ 447 psf,"1,119 sqft",Jurong West Street 73,3 beds,2 baths,west,2025-02-25
+342,34 TEBAN GARDENS ROAD,"S$ 360,000",HDB 3-Room,Jurong East,1976,"S$ 4,865 psf",74 sqft,Teban Gardens Road,2 beds,1 bath,west,2025-02-25
+343,484 JURONG WEST AVENUE 1,"S$ 415,000",HDB 3-Room,Jurong West,1984,S$ 576 psf,721 sqft,Jurong West Avenue 1,2 beds,2 baths,west,2025-02-25
+344,309 CLEMENTI AVENUE 4,"S$ 470,000",HDB 3-Room,Clementi,1978,S$ 652 psf,721 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-02-25
+345,680C JURONG WEST CENTRAL 1,"S$ 680,000",HDB 4-Room,Jurong West,1998,S$ 665 psf,"1,022 sqft",Jurong West Central 1,3 beds,2 baths,west,2025-02-25
+346,36 TEBAN GARDENS ROAD,"S$ 355,000",HDB 3-Room,Jurong East,1976,S$ 446 psf,796 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-02-25
+347,817 JURONG WEST STREET 81,"S$ 558,000",HDB 4-Room,Jurong West,1992,S$ 489 psf,"1,140 sqft",Jurong West Street 81,3 beds,2 baths,west,2025-02-25
+348,245 JURONG EAST STREET 24,"S$ 570,000",HDB 4-Room,Jurong East,1982,S$ 576 psf,990 sqft,Jurong East Street 24,3 beds,2 baths,west,2025-02-25
+349,121 YUAN CHING ROAD,"S$ 349,800",HDB 3-Room,Jurong West,1971,S$ 533 psf,656 sqft,Yuan Ching Road,2 beds,1 bath,west,2025-02-25
+350,180C BOON LAY DRIVE,"S$ 658,000",HDB 4-Room,Jurong West,2012,S$ 657 psf,"1,001 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-02-28
+351,20 DOVER CRESCENT,"S$ 445,000",HDB 3-Room,Queenstown,1975,S$ 636 psf,700 sqft,Dover Crescent,2 beds,1 bath,west,2025-02-28
+352,274 TOH GUAN ROAD,"S$ 640,000",HDB 4-Room,Jurong East,1997,S$ 595 psf,"1,076 sqft",Toh Guan Road,3 beds,2 baths,west,2025-02-28
+353,450 CLEMENTI AVENUE 3,"S$ 498,800",HDB 3-Room,Clementi,1979,S$ 681 psf,732 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-02-28
+354,241 JURONG EAST STREET 24,"S$ 438,888",HDB 3-Room,Jurong East,1982,S$ 609 psf,721 sqft,Jurong East Street 24,2 beds,2 baths,west,2025-02-28
+355,119 HO CHING ROAD,"S$ 330,000",HDB 3-Room,Jurong West,1971,S$ 458 psf,721 sqft,Ho Ching Road,3 beds,1 bath,west,2025-02-28
+356,431 CLEMENTI AVENUE 3,"S$ 555,000",HDB 3-Room,Clementi,1978,S$ 629 psf,882 sqft,Clementi Avenue 3,2 beds,2 baths,west,2025-02-28
+357,824 JURONG WEST STREET 81,"S$ 549,000",HDB 4-Room,Jurong West,1989,S$ 491 psf,"1,119 sqft",Jurong West Street 81,3 beds,2 baths,west,2025-02-28
+358,257 JURONG EAST STREET 24,"S$ 540,000",HDB 4-Room,Jurong East,1982,S$ 512 psf,"1,054 sqft",Jurong East Street 24,3 beds,2 baths,west,2025-02-28
+359,312C CLEMENTI AVENUE 4,"S$ 1,100,000",HDB 4-Room,Clementi,2016,"S$ 1,099 psf","1,001 sqft",Clementi Avenue 4,3 beds,2 baths,west,2025-02-28
+360,483 JURONG WEST STREET 41,"S$ 499,000",HDB 4-Room,Jurong West,1984,S$ 503 psf,992 sqft,Jurong West Street 41,3 beds,2 baths,west,2025-03-12
+361,311A CLEMENTI AVENUE 4,"S$ 738,000",HDB 3-Room,Clementi,2015,"S$ 1,142 psf",646 sqft,Clementi Avenue 4,2 beds,2 baths,west,2025-03-12
+362,610 CLEMENTI WEST STREET 1,"S$ 430,000",HDB 3-Room,Clementi,1982,S$ 540 psf,797 sqft,Clementi West Street 1,2 beds,2 baths,west,2025-03-12
+363,232 JURONG EAST STREET 21,"S$ 560,000",HDB 4-Room,Jurong East,1981,S$ 531 psf,"1,055 sqft",Jurong East Street 21,3 beds,2 baths,west,2025-03-12
+364,722 CLEMENTI WEST STREET 2,"S$ 390,000",HDB 3-Room,Clementi,1980,S$ 523 psf,745 sqft,Clementi West Street 2,2 beds,2 baths,west,2025-03-12
+365,208 BOON LAY PLACE,"S$ 380,000",HDB 3-Room,22,S$ 598 psf,635 sqft,Boon Lay Place,,2 beds,1 bath,west,2025-03-12
+366,646 JURONG WEST STREET 61,"S$ 588,000",HDB 4-Room,Jurong West,1997,S$ 546 psf,"1,076 sqft",Jurong West Street 61,3 beds,2 baths,west,2025-03-12
+367,602 CLEMENTI WEST STREET 1,"S$ 413,333",HDB 3-Room,Clementi,1979,S$ 573 psf,721 sqft,Clementi West Street 1,2 beds,2 baths,west,2025-03-12
+368,249 JURONG EAST STREET 24,"S$ 405,000",HDB 3-Room,Jurong East,1982,S$ 562 psf,721 sqft,Jurong East Street 24,2 beds,2 baths,west,2025-03-12
+369,208A CLEMENTI AVENUE 6,"S$ 1,050,000",HDB 4-Room,Clementi,2016,"S$ 1,049 psf","1,001 sqft",Clementi Avenue 6,3 beds,2 baths,west,2025-03-12
+370,24 TEBAN GARDENS ROAD,"S$ 599,000",HDB 4-Room,Jurong East,1980,S$ 520 psf,"1,151 sqft",Teban Gardens Road,3 beds,2 baths,west,2025-03-23
+371,258 BOON LAY DRIVE,"S$ 598,800",HDB 4-Room,Jurong West,1994,S$ 502 psf,"1,194 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-23
+372,337C TAH CHING ROAD,"S$ 618,000",HDB 4-Room,Jurong West,2008,S$ 617 psf,"1,001 sqft",Tah Ching Road,3 beds,2 baths,west,2025-03-23
+373,561B JURONG WEST STREET 42,"S$ 520,000",HDB 3-Room,Jurong West,2017,S$ 711 psf,731 sqft,Jurong West Street 42,2 beds,2 baths,west,2025-03-23
+374,986A JURONG WEST STREET 93,"S$ 600,000",HDB 4PA (Premium Apartment),Jurong West,2002,S$ 599 psf,"1,001 sqft",Jurong West Street 93,3 beds,2 baths,west,2025-03-23
+375,372 JURONG EAST STREET 32,"S$ 450,000",HDB 3-Room,Jurong East,2012,S$ 654 psf,688 sqft,Jurong East Street 32,2 beds,2 baths,west,2025-03-23
+376,57 TEBAN GARDENS ROAD,"S$ 548,000",HDB 3-Room,Jurong East,2015,S$ 760 psf,721 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-23
+377,268 TOH GUAN ROAD,"S$ 580,000",HDB 4-Room,Jurong East,1997,S$ 528 psf,"1,098 sqft",Toh Guan Road,3 beds,2 baths,west,2025-03-23
+378,944 JURONG WEST STREET 91,"S$ 510,000",HDB 4-Room,Jurong West,1988,S$ 451 psf,"1,130 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-23
+379,3 DOVER ROAD,"S$ 420,000",HDB 3-Room,Queenstown,1975,S$ 601 psf,699 sqft,Dover Road,2 beds,1 bath,west,2025-03-23
+380,550 JURONG WEST STREET 42,"S$ 598,888",HDB 4-Room,Jurong West,1984,S$ 525 psf,"1,141 sqft",Jurong West Street 42,3 beds,2 baths,west,2025-03-13
+381,612 CLEMENTI WEST STREET 1,"S$ 449,000",HDB 3-Room,Clementi,1983,S$ 564 psf,796 sqft,Clementi West Street 1,2 beds,2 baths,west,2025-03-13
+382,62 TEBAN GARDENS ROAD,"S$ 588,000",HDB 4-Room,Jurong East,2001,S$ 600 psf,980 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-13
+383,915 JURONG WEST STREET 91,"S$ 530,000",HDB 4-Room,Jurong West,1986,S$ 478 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-13
+384,278 TOH GUAN ROAD,"S$ 660,000",HDB 4-Room,Jurong East,1997,S$ 613 psf,"1,076 sqft",Toh Guan Road,3 beds,2 baths,west,2025-03-13
+385,278 TOH GUAN ROAD,"S$ 660,000",HDB 4-Room,Jurong East,1997,S$ 613 psf,"1,076 sqft",Toh Guan Road,3 beds,2 baths,west,2025-03-13
+386,3 DOVER ROAD,"S$ 450,000",HDB 3-Room,Queenstown,1975,S$ 643 psf,700 sqft,Dover Road,3 beds,1 bath,west,2025-03-13
+387,722 JURONG WEST AVENUE 5,"S$ 535,000",HDB 4-Room,Jurong West,1990,S$ 448 psf,"1,195 sqft",Jurong West Avenue 5,3 beds,2 baths,west,2025-03-13
+388,312A CLEMENTI AVENUE 4,"S$ 1,200,000",HDB 4-Room,Clementi,2016,"S$ 1,199 psf","1,001 sqft",Clementi Avenue 4,3 beds,2 baths,west,2025-03-13
+389,655B JURONG WEST STREET 61,"S$ 599,999",HDB 4-Room,Jurong West,2000,S$ 656 psf,915 sqft,Jurong West Street 61,3 beds,2 baths,west,2025-03-13
+390,311C CLEMENTI AVENUE 4,"S$ 980,000",HDB 4PA (Premium Apartment),Clementi,2015,"S$ 1,138 psf",861 sqft,Clementi Avenue 4,3 beds,2 baths,west,2025-03-05
+391,33 TEBAN GARDENS ROAD,"S$ 378,000",HDB 3-Room,Jurong East,1976,S$ 457 psf,828 sqft,Teban Gardens Road,2 beds,2 baths,west,2025-03-05
+392,258 BOON LAY DRIVE,"S$ 598,800",HDB 4-Room,Jurong West,1994,S$ 502 psf,"1,194 sqft",Boon Lay Drive,3 beds,2 baths,west,2025-03-05
+393,312A CLEMENTI AVENUE 4,"S$ 998,000",HDB 4-Room,Clementi,2016,S$ 997 psf,"1,001 sqft",Clementi Avenue 4,3 beds,2 baths,west,2025-03-05
+394,698C JURONG WEST CENTRAL 3,"S$ 550,000",HDB 3-Room,Jurong West,2016,S$ 750 psf,733 sqft,Jurong West Central 3,2 beds,2 baths,west,2025-03-05
+395,101 JURONG EAST STREET 13,"S$ 465,000",HDB 3-Room,Jurong East,1982,S$ 635 psf,732 sqft,Jurong East Street 13,2 beds,2 baths,west,2025-03-05
+396,183A BOON LAY AVENUE,"S$ 618,000",HDB 4-Room,Jurong West,2013,S$ 624 psf,990 sqft,Boon Lay Avenue,3 beds,2 baths,west,2025-03-05
+397,917 JURONG WEST STREET 91,"S$ 548,888",HDB 4-Room,Jurong West,1986,S$ 495 psf,"1,108 sqft",Jurong West Street 91,3 beds,2 baths,west,2025-03-05
+398,21 TEBAN GARDENS ROAD,"S$ 700,000",HDB 4-Room,Jurong East,2012,S$ 708 psf,989 sqft,Teban Gardens Road,3 beds,2 baths,west,2025-03-05
+399,32 BALAM ROAD,"S$ 348,888",HDB 3-Room,Geylang,1965,S$ 569 psf,613 sqft,Balam Road,2 beds,1 bath,east,2025-03-05
+400,4 BEDOK SOUTH AVENUE 1,"S$ 440,000",HDB 3-Room,Bedok,1975,S$ 561 psf,785 sqft,Bedok South Avenue 1,3 beds,1 bath,east,2025-03-21
+401,601D TAMPINES AVENUE 9,"S$ 818,888",HDB 4-Room,Tampines,2018,S$ 827 psf,990 sqft,Tampines Avenue 9,3 beds,2 baths,east,2025-03-21
+402,11 HAIG ROAD,"S$ 635,000",HDB 4-Room,Geylang,S$ 641 psf,990 sqft,Haig Road,,3 beds,2 baths,east,2025-03-21
+403,106B BIDADARI PARK DRIVE,"S$ 1,168,000",HDB 4-Room,2019,"S$ 1,154 psf","1,012 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-21
+404,231 SIMEI STREET 4,"S$ 668,000",HDB 4-Room,Tampines,1988,S$ 575 psf,"1,162 sqft",Simei Street 4,3 beds,2 baths,east,2025-03-21
+405,28 CASSIA CRESCENT,"S$ 978,888",HDB 4-Room,Geylang,1997,S$ 892 psf,"1,098 sqft",Cassia Crescent,3 beds,2 baths,east,2025-03-21
+406,719 TAMPINES STREET 72,"S$ 699,999",HDB 4-Room,Tampines,1996,S$ 651 psf,"1,076 sqft",Tampines Street 72,3 beds,2 baths,east,2025-03-21
+407,144 TAMPINES STREET 12,"S$ 620,000",HDB 4-Room,Tampines,1984,S$ 560 psf,"1,108 sqft",Tampines Street 12,3 beds,2 baths,east,2025-03-21
+408,118A ALKAFF CRESCENT,"S$ 1,088,000",HDB 4-Room,2019,"S$ 1,087 psf","1,001 sqft",Alkaff Crescent,,3 beds,2 baths,east,2025-03-21
+409,314 UBI AVENUE 1,"S$ 535,000",HDB 4-Room,Geylang,1985,S$ 592 psf,904 sqft,Ubi Avenue 1,3 beds,2 baths,east,2025-03-21
+410,608C TAMPINES NORTH DRIVE 1,"S$ 799,000",HDB 4-Room,Tampines,2019,S$ 798 psf,"1,001 sqft",Tampines North Drive 1,3 beds,2 baths,east,2025-03-09
+411,75 BEDOK NORTH ROAD,"S$ 418,000",HDB 3-Room,Bedok,1977,S$ 658 psf,635 sqft,Bedok North Road,2 beds,1 bath,east,2025-03-09
+412,520A TAMPINES CENTRAL 8,"S$ 780,000",HDB 4-Room,Tampines,2014,S$ 863 psf,904 sqft,Tampines Central 8,3 beds,2 baths,east,2025-03-09
+413,276 TAMPINES STREET 22,"S$ 490,000",HDB 3-Room,Tampines,1984,S$ 569 psf,861 sqft,Tampines Street 22,2 beds,2 baths,east,2025-03-09
+414,100 BEDOK NORTH AVENUE 4,"S$ 430,000",HDB 3-Room,Bedok,1978,S$ 596 psf,721 sqft,Bedok North Avenue 4,2 beds,2 baths,east,2025-03-09
+415,841 TAMPINES STREET 83,"S$ 560,000",HDB 4-Room,Tampines,1985,S$ 619 psf,904 sqft,Tampines Street 83,3 beds,2 baths,east,2025-03-09
+416,747C BEDOK RESERVOIR CRESCENT,"S$ 888,000",HDB 4PA (Premium Apartment),Bedok,2014,S$ 949 psf,936 sqft,Bedok Reservoir Crescent,3 beds,2 baths,east,2025-03-09
+417,218 BEDOK NORTH STREET 1,"S$ 488,888",HDB 3-Room,Bedok,1979,S$ 668 psf,732 sqft,Bedok North Street 1,2 beds,2 baths,east,2025-03-09
+418,122 BEDOK RESERVOIR ROAD,"S$ 588,000",HDB 4-Room,16,S$ 650 psf,904 sqft,Bedok Reservoir Road,,3 beds,2 baths,east,2025-03-09
+419,530 BEDOK NORTH STREET 3,"S$ 399,000",HDB 3-Room,Bedok,1979,S$ 545 psf,732 sqft,Bedok North Street 3,2 beds,2 baths,east,2025-03-09
+420,105 TAMPINES STREET 11,"S$ 550,000",HDB 3-Room,Tampines,1982,S$ 647 psf,850 sqft,Tampines Street 11,2 beds,2 baths,east,2025-03-15
+421,1 BEDOK SOUTH AVENUE 1,"S$ 385,000",HDB 3-Room,Bedok,1975,S$ 606 psf,635 sqft,Bedok South Avenue 1,2 beds,1 bath,east,2025-03-15
+422,2B UPPER BOON KENG ROAD,"S$ 1,050,000",HDB 4-Room,Kallang/Whampoa,2006,"S$ 1,085 psf",968 sqft,Upper Boon Keng Road,3 beds,2 baths,east,2025-03-15
+423,5 CHANGI VILLAGE ROAD,"S$ 500,000",HDB 3-Room,Pasir Ris,1978,S$ 627 psf,797 sqft,Changi Village Road,2 beds,2 baths,east,2025-03-15
+424,855 TAMPINES STREET 83,"S$ 588,000",HDB 4-Room,Tampines,1986,S$ 650 psf,904 sqft,Tampines Street 83,3 beds,2 baths,east,2025-03-15
+425,421 TAMPINES STREET 41,"S$ 494,888",HDB 3-Room,Tampines,1984,S$ 622 psf,796 sqft,Tampines Street 41,2 beds,2 baths,east,2025-03-15
+426,47 JALAN TIGA,"S$ 999,999",HDB 4-Room,Geylang,2003,"S$ 1,093 psf",915 sqft,Jalan Tiga,3 beds,2 baths,east,2025-03-15
+427,118 POTONG PASIR AVENUE 1,"S$ 448,000",HDB 3-Room,Toa Payoh,S$ 621 psf,721 sqft,Potong Pasir Avenue 1,,2 beds,1 bath,east,2025-03-15
+428,2A UPPER BOON KENG ROAD,"S$ 850,000",HDB 4-Room,Kallang/Whampoa,2006,S$ 929 psf,915 sqft,Upper Boon Keng Road,3 beds,2 baths,east,2025-03-15
+429,122 PAYA LEBAR WAY,"S$ 578,000",HDB 4-Room,Geylang,1979,S$ 590 psf,980 sqft,Paya Lebar Way,3 beds,2 baths,east,2025-03-15
+430,142 POTONG PASIR AVENUE 3,"S$ 850,000",HDB 4-Room,Toa Payoh,1984,S$ 746 psf,"1,140 sqft",Potong Pasir Avenue 3,3 beds,2 baths,east,2025-03-05
+431,435 TAMPINES STREET 43,"S$ 688,000",HDB 4-Room,Tampines,1985,S$ 615 psf,"1,119 sqft",Tampines Street 43,3 beds,2 baths,east,2025-03-05
+432,274 TAMPINES STREET 22,"S$ 670,000",HDB 4-Room,Tampines,1983,S$ 593 psf,"1,130 sqft",Tampines Street 22,3 beds,2 baths,east,2025-03-05
+433,451 PASIR RIS DRIVE 6,"S$ 728,888",HDB 4-Room,18,99 years,S$ 605 psf,"1,205 sqft",Pasir Ris Drive 6,3 beds,2 baths,east,2025-03-05
+434,118A ALKAFF CRESCENT,"S$ 825,000",HDB 3-Room,2019,"S$ 1,127 psf",732 sqft,Alkaff Crescent,,2 beds,2 baths,east,2025-03-05
+435,105B BIDADARI PARK DRIVE,"S$ 1,115,000",HDB 4-Room,2019,"S$ 1,102 psf","1,012 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-05
+436,704 BEDOK RESERVOIR ROAD,"S$ 650,000",HDB 4-Room,Bedok,1980,S$ 649 psf,"1,001 sqft",Bedok Reservoir Road,3 beds,2 baths,east,2025-03-05
+437,138 BEDOK NORTH STREET 2,"S$ 450,000",HDB 3-Room,Bedok,1977,S$ 624 psf,721 sqft,Bedok North Street 2,2 beds,2 baths,east,2025-03-05
+438,102 ALJUNIED CRESCENT,"S$ 640,000",HDB 4-Room,Geylang,1977,S$ 646 psf,990 sqft,Aljunied Crescent,3 beds,2 baths,east,2025-03-05
+439,121 BEDOK NORTH ROAD,"S$ 549,000",HDB 4-Room,Bedok,1977,S$ 555 psf,990 sqft,Bedok North Road,3 beds,2 baths,east,2025-03-05
+440,423 BEDOK NORTH AVENUE 1,"S$ 458,000",HDB 3-Room,Bedok,1978,S$ 635 psf,721 sqft,Bedok North Avenue 1,2 beds,2 baths,east,2025-03-13
+441,108 POTONG PASIR AVENUE 1,"S$ 560,000",HDB 3-Room,Toa Payoh,1984,S$ 704 psf,796 sqft,Potong Pasir Avenue 1,2 beds,2 baths,east,2025-03-13
+442,650 JALAN TENAGA,"S$ 700,000",HDB 4-Room,Bedok,1994,S$ 608 psf,"1,152 sqft",Jalan Tenaga,3 beds,2 baths,east,2025-03-13
+443,122 BEDOK NORTH STREET 2,"S$ 420,000",HDB 3-Room,Bedok,1977,S$ 538 psf,780 sqft,Bedok North Street 2,2 beds,2 baths,east,2025-03-13
+444,453 TAMPINES STREET 42,"S$ 580,000",HDB 4-Room,18,99 years,S$ 642 psf,904 sqft,Tampines Street 42,3 beds,2 baths,east,2025-03-13
+445,81 MARINE PARADE CENTRAL,"S$ 4,500,000",HDB 3-Room,Marine Parade,1976,"S$ 2,947 psf","1,527 sqft",Marine Parade Central,2 beds,2 baths,east,2025-03-13
+446,108 BEDOK RESERVOIR ROAD,"S$ 503,000",HDB 3-Room,Bedok,1985,S$ 698 psf,721 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-03-13
+447,762 BEDOK RESERVOIR VIEW,"S$ 850,000",HDB 4-Room,Bedok,1998,S$ 752 psf,"1,130 sqft",Bedok Reservoir View,3 beds,2 baths,east,2025-03-13
+448,47 MARINE CRESCENT,"S$ 528,000",HDB 3-Room,Marine Parade,1974,S$ 754 psf,700 sqft,Marine Crescent,2 beds,1 bath,east,2025-03-13
+449,606D TAMPINES STREET 61,"S$ 799,000",HDB 4-Room,18,S$ 807 psf,990 sqft,Tampines Street 61,,3 beds,2 baths,east,2025-03-13
+450,202 TAMPINES STREET 21,"S$ 485,000",HDB 3-Room,Tampines,1982,S$ 601 psf,807 sqft,Tampines Street 21,2 beds,2 baths,east,2025-03-04
+451,2 UPPER ALJUNIED LANE,"S$ 360,000",HDB 3-Room,Toa Payoh,1968,S$ 587 psf,613 sqft,Upper Aljunied Lane,2 beds,1 bath,east,2025-03-04
+452,2 UPPER ALJUNIED LANE,"S$ 350,000",HDB 3-Room,Toa Payoh,1968,S$ 571 psf,613 sqft,Upper Aljunied Lane,2 beds,1 bath,east,2025-03-04
+453,35 BEDOK SOUTH AVENUE 2,"S$ 500,000",HDB 4-Room,Bedok,1977,S$ 516 psf,969 sqft,Bedok South Avenue 2,3 beds,1 bath,east,2025-03-04
+454,478 PASIR RIS DRIVE 4,"S$ 698,000",HDB 4-Room,Pasir Ris,1990,S$ 618 psf,"1,130 sqft",Pasir Ris Drive 4,3 beds,2 baths,east,2025-03-04
+455,164 SIMEI ROAD,"S$ 630,000",HDB 4-Room,Tampines,1988,S$ 566 psf,"1,114 sqft",Simei Road,3 beds,2 baths,east,2025-03-04
+456,10 HAIG ROAD,"S$ 438,000",HDB 3-Room,Geylang,1976,S$ 626 psf,700 sqft,Haig Road,3 beds,2 baths,east,2025-03-04
+457,140 POTONG PASIR AVENUE 3,"S$ 618,000",HDB 3-Room,Toa Payoh,1984,S$ 776 psf,796 sqft,Potong Pasir Avenue 3,2 beds,2 baths,east,2025-03-04
+458,505 TAMPINES CENTRAL 1,"S$ 710,000",HDB 4-Room,Tampines,1989,S$ 687 psf,"1,033 sqft",Tampines Central 1,3 beds,2 baths,east,2025-03-04
+459,928 TAMPINES STREET 91,"S$ 660,000",HDB 4-Room,Tampines,1983,S$ 601 psf,"1,098 sqft",Tampines Street 91,3 beds,2 baths,east,2025-03-04
+460,709 BEDOK RESERVOIR ROAD,"S$ 480,000",HDB 3-Room,Bedok,1980,S$ 656 psf,732 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-03-13
+461,550 BEDOK NORTH AVENUE 1,"S$ 448,000",HDB 3-Room,Bedok,1979,S$ 621 psf,721 sqft,Bedok North Avenue 1,3 beds,2 baths,east,2025-03-13
+462,151 PASIR RIS STREET 13,"S$ 680,000",HDB 4-Room,Pasir Ris,1993,S$ 540 psf,"1,259 sqft",Pasir Ris Street 13,3 beds,2 baths,east,2025-03-13
+463,102B BIDADARI PARK DRIVE,"S$ 850,000",HDB 3-Room,2020,"S$ 1,161 psf",732 sqft,Bidadari Park Drive,,2 beds,2 baths,east,2025-03-13
+464,522C TAMPINES CENTRAL 7,"S$ 808,888",HDB 4-Room,Tampines,2014,S$ 808 psf,"1,001 sqft",Tampines Central 7,3 beds,2 baths,east,2025-03-13
+465,115A ALKAFF CRESCENT,"S$ 879,999",HDB 3-Room,2019,"S$ 1,202 psf",732 sqft,Alkaff Crescent,,2 beds,2 baths,east,2025-03-13
+466,234 TAMPINES STREET 21,"S$ 490,000",HDB 3-Room,Tampines,1984,S$ 623 psf,786 sqft,Tampines Street 21,2 beds,2 baths,east,2025-03-13
+467,99 ALJUNIED CRESCENT,"S$ 520,000",HDB 3-Room,Geylang,1977,S$ 589 psf,883 sqft,Aljunied Crescent,2 beds,2 baths,east,2025-03-13
+468,17 CIRCUIT ROAD,"S$ 1,088,888",HDB 4-Room,Geylang,2015,"S$ 108,889 psf",10 sqft,Circuit Road,3 beds,2 baths,east,2025-03-13
+469,106 ALJUNIED CRESCENT,"S$ 460,000",HDB 3-Room,Geylang,1978,S$ 638 psf,721 sqft,Aljunied Crescent,2 beds,2 baths,east,2025-03-13
+470,615 BEDOK RESERVOIR ROAD,"S$ 485,000",HDB 3-Room,Bedok,1980,S$ 663 psf,732 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-03-21
+471,181 BEDOK NORTH ROAD,"S$ 780,000",HDB 4-Room,Bedok,2004,S$ 788 psf,990 sqft,Bedok North Road,3 beds,2 baths,east,2025-03-21
+472,65 MARINE DRIVE,"S$ 478,000",HDB 3-Room,Marine Parade,1975,S$ 683 psf,700 sqft,Marine Drive,2 beds,2 baths,east,2025-03-21
+473,5 UPPER ALJUNIED LANE,"S$ 340,000",HDB 3-Room,Toa Payoh,1968,S$ 555 psf,613 sqft,Upper Aljunied Lane,2 beds,1 bath,east,2025-03-21
+474,115A ALKAFF CRESCENT,"S$ 1,150,000",HDB 4-Room,2019,"S$ 1,149 psf","1,001 sqft",Alkaff Crescent,,3 beds,2 baths,east,2025-03-21
+475,731 TAMPINES STREET 71,"S$ 660,000",HDB 4-Room,Tampines,1995,S$ 595 psf,"1,109 sqft",Tampines Street 71,3 beds,2 baths,east,2025-03-21
+476,311 UBI AVENUE 1,"S$ 618,000",HDB 4-Room,Geylang,1985,S$ 684 psf,904 sqft,Ubi Avenue 1,3 beds,2 baths,east,2025-03-21
+477,311 UBI AVENUE 1,"S$ 618,000",HDB 4-Room,Geylang,1985,S$ 684 psf,903 sqft,Ubi Avenue 1,3 beds,2 baths,east,2025-03-21
+478,450G TAMPINES STREET 42,"S$ 790,000",HDB 4-Room,Tampines,1995,S$ 699 psf,"1,130 sqft",Tampines Street 42,3 beds,2 baths,east,2025-03-21
+479,438 TAMPINES STREET 43,"S$ 650,000",HDB 4-Room,Tampines,1985,S$ 575 psf,"1,130 sqft",Tampines Street 43,3 beds,2 baths,east,2025-03-21
+480,27 NEW UPPER CHANGI ROAD,"S$ 480,000",HDB 3-Room,Bedok,1976,S$ 603 psf,796 sqft,New Upper Changi Road,3 beds,2 baths,east,2025-03-07
+481,608 BEDOK RESERVOIR ROAD,"S$ 445,000",HDB 3-Room,Bedok,1981,S$ 617 psf,721 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-03-07
+482,366 TAMPINES STREET 34,"S$ 630,000",HDB 4-Room,Tampines,1995,S$ 579 psf,"1,089 sqft",Tampines Street 34,3 beds,2 baths,east,2025-03-07
+483,914 TAMPINES STREET 91,"S$ 700,000",HDB 4-Room,Tampines,1983,S$ 619 psf,"1,130 sqft",Tampines Street 91,3 beds,2 baths,east,2025-03-07
+484,519C TAMPINES CENTRAL 8,"S$ 918,000",HDB 4PA (Premium Apartment),Tampines,2014,"S$ 1,015 psf",904 sqft,Tampines Central 8,3 beds,2 baths,east,2025-03-07
+485,526D COSTA RIS,"S$ 800,000",HDB 4PA (Premium Apartment),18,2014,S$ 799 psf,"1,001 sqft",526D Pasir Ris Street 51,3 beds,2 baths,east,2025-03-07
+486,105B BIDADARI PARK DRIVE,"S$ 1,080,000",HDB 4-Room,2019,"S$ 1,068 psf","1,011 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-07
+487,452 PASIR RIS DRIVE 6,"S$ 723,700",HDB 4-Room,Pasir Ris,1989,S$ 590 psf,"1,227 sqft",Pasir Ris Drive 6,3 beds,2 baths,east,2025-03-07
+488,446 TAMPINES STREET 42,"S$ 638,000",HDB 4-Room,Tampines,1984,S$ 570 psf,"1,119 sqft",Tampines Street 42,3 beds,2 baths,east,2025-03-07
+489,123 SIMEI STREET 1,"S$ 690,000",HDB 4-Room,Tampines,S$ 617 psf,"1,119 sqft",Simei Street 1,,3 beds,2 baths,east,2025-03-07
+490,165 SIMEI ROAD,"S$ 639,000",HDB 4-Room,18,S$ 571 psf,"1,119 sqft",Simei Road,,3 beds,2 baths,east,2025-02-25
+491,713 BEDOK RESERVOIR ROAD,"S$ 470,000",HDB 3-Room,Bedok,1980,S$ 642 psf,732 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-02-25
+492,342 TAMPINES STREET 33,"S$ 580,000",HDB 4-Room,18,S$ 485 psf,"1,195 sqft",Tampines Street 33,,3 beds,2 baths,east,2025-02-25
+493,163 SIMEI ROAD,"S$ 688,000",HDB 4-Room,Tampines,1988,S$ 615 psf,"1,119 sqft",Simei Road,3 beds,2 baths,east,2025-02-25
+494,82B CIRCUIT ROAD,"S$ 1,080,000",HDB 4-Room,Geylang,2019,"S$ 1,079 psf","1,001 sqft",Circuit Road,3 beds,2 baths,east,2025-02-25
+495,149 SIMEI STREET 1,"S$ 610,000",HDB 4-Room,18,S$ 644 psf,947 sqft,Simei Street 1,,3 beds,2 baths,east,2025-02-25
+496,7 UPPER ALJUNIED LANE,"S$ 630,000",HDB 3-Room,Toa Payoh,2015,S$ 861 psf,732 sqft,Upper Aljunied Lane,2 beds,2 baths,east,2025-02-25
+497,910 TAMPINES STREET 91,"S$ 688,000",HDB 4-Room,Tampines,1984,S$ 614 psf,"1,120 sqft",Tampines Street 91,3 beds,2 baths,east,2025-02-25
+498,526A COSTA RIS,"S$ 700,000",HDB 4-Room,18,2014,S$ 699 psf,"1,001 sqft",526A Pasir Ris Street 51,3 beds,2 baths,east,2025-02-25
+499,4 JOO CHIAT ROAD,"S$ 599,000",HDB 3-Room,Geylang,1985,S$ 742 psf,807 sqft,Joo Chiat Road,2 beds,2 baths,east,2025-02-25
+500,281 TAMPINES STREET 22,"S$ 628,000",HDB 4-Room,Tampines,1983,S$ 561 psf,"1,119 sqft",Tampines Street 22,3 beds,2 baths,east,2025-03-07
+501,97 JALAN DUA,"S$ 450,000",HDB 3-Room,Geylang,1962,S$ 746 psf,603 sqft,Jalan Dua,2 beds,1 bath,east,2025-03-07
+502,573 PASIR RIS STREET 53,"S$ 755,000",HDB 4-Room,Pasir Ris,1994,S$ 638 psf,"1,184 sqft",Pasir Ris Street 53,3 beds,2 baths,east,2025-03-07
+503,4 BEDOK SOUTH AVENUE 1,"S$ 488,000",HDB 3-Room,Bedok,1975,S$ 697 psf,700 sqft,Bedok South Avenue 1,3 beds,1 bath,east,2025-03-07
+504,703 TAMPINES STREET 71,"S$ 660,000",HDB 4-Room,Tampines,1995,S$ 613 psf,"1,076 sqft",Tampines Street 71,3 beds,2 baths,east,2025-03-07
+505,49 CIRCUIT ROAD,"S$ 338,000",HDB 3-Room,Geylang,1964,S$ 561 psf,603 sqft,Circuit Road,2 beds,1 bath,east,2025-03-07
+506,6 MARINE TERRACE,"S$ 480,000",HDB 3-Room,Marine Parade,1974,S$ 686 psf,700 sqft,Marine Terrace,2 beds,2 baths,east,2025-03-07
+507,91 PAYA LEBAR WAY,"S$ 340,000",HDB 3-Room,Geylang,1972,S$ 545 psf,624 sqft,Paya Lebar Way,2 beds,2 baths,east,2025-03-07
+508,231 TAMPINES STREET 21,"S$ 635,000",HDB 4-Room,Tampines,1984,S$ 634 psf,"1,001 sqft",Tampines Street 21,3 beds,2 baths,east,2025-03-07
+509,431A BEDOK NORTH ROAD,"S$ 727,000",HDB 3-Room,Bedok,2019,S$ 978 psf,743 sqft,Bedok North Road,2 beds,2 baths,east,2025-03-07
+510,106A BIDADARI PARK DRIVE,"S$ 1,180,000",HDB 4-Room,2019,"S$ 1,167 psf","1,011 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-20
+511,218 BEDOK NORTH STREET 1,"S$ 488,888",HDB 3-Room,Bedok,1979,S$ 678 psf,721 sqft,Bedok North Street 1,2 beds,2 baths,east,2025-03-20
+512,522C TAMPINES CENTRAL 7,"S$ 808,888",HDB 4-Room,18,S$ 791 psf,"1,022 sqft",Tampines Central 7,,3 beds,2 baths,east,2025-03-20
+513,14 KAMPONG ARANG ROAD,"S$ 880,000",HDB 4-Room,Kallang/Whampoa,1964,S$ 665 psf,"1,324 sqft",Kampong Arang Road,3 beds,2 baths,east,2025-03-20
+514,614A TAMPINES NORTH DRIVE 1,"S$ 745,000",HDB 4-Room,Tampines,2019,S$ 744 psf,"1,001 sqft",Tampines North Drive 1,3 beds,2 baths,east,2025-03-20
+515,1 BEDOK SOUTH AVENUE 1,"S$ 385,000",HDB 3-Room,Bedok,1975,S$ 606 psf,635 sqft,Bedok South Avenue 1,2 beds,1 bath,east,2025-03-20
+516,57 MARINE TERRACE,"S$ 530,000",HDB 3-Room,Marine Parade,1974,S$ 757 psf,700 sqft,Marine Terrace,2 beds,1 bath,east,2025-03-20
+517,624 BEDOK RESERVOIR ROAD,"S$ 618,000",HDB 4-Room,Bedok,1980,S$ 552 psf,"1,119 sqft",Bedok Reservoir Road,3 beds,2 baths,east,2025-03-20
+518,123 SIMEI STREET 1,"S$ 660,000",HDB 4-Room,Tampines,1987,S$ 590 psf,"1,119 sqft",Simei Street 1,3 beds,2 baths,east,2025-03-20
+519,54 PIPIT ROAD,"S$ 700,000",HDB 4-Room,Geylang,1984,S$ 722 psf,969 sqft,Pipit Road,3 beds,2 baths,east,2025-03-20
+520,427 PASIR RIS DRIVE 6,"S$ 688,888",HDB 4-Room,Pasir Ris,1987,S$ 616 psf,"1,119 sqft",Pasir Ris Drive 6,3 beds,2 baths,east,2025-03-02
+521,64 MARINE DRIVE,"S$ 480,000",HDB 3-Room,Marine Parade,1975,S$ 744 psf,645 sqft,Marine Drive,3 beds,2 baths,east,2025-03-02
+522,103 BEDOK NORTH AVENUE 4,"S$ 440,000",HDB 3-Room,Bedok,1976,S$ 610 psf,721 sqft,Bedok North Avenue 4,2 beds,2 baths,east,2025-03-02
+523,519B TAMPINES CENTRAL 8,"S$ 899,000",HDB 4-Room,Tampines,2014,S$ 994 psf,904 sqft,Tampines Central 8,3 beds,2 baths,east,2025-03-02
+524,10 PINE CLOSE,"S$ 699,999",HDB 4-Room,Geylang,1981,S$ 699 psf,"1,001 sqft",Pine Close,3 beds,2 baths,east,2025-03-02
+525,346 UBI AVENUE 1,"S$ 625,000",HDB 4-Room,Geylang,1985,S$ 559 psf,"1,119 sqft",Ubi Avenue 1,3 beds,2 baths,east,2025-03-02
+526,824 TAMPINES STREET 81,"S$ 539,000",HDB 3-Room,Tampines,1984,S$ 604 psf,893 sqft,Tampines Street 81,2 beds,2 baths,east,2025-03-02
+527,349 UBI AVENUE 1,"S$ 650,000",HDB 4-Room,Geylang,1985,S$ 581 psf,"1,119 sqft",Ubi Avenue 1,3 beds,2 baths,east,2025-03-02
+528,182 BEDOK NORTH ROAD,"S$ 768,000",HDB 4-Room,Bedok,2004,S$ 839 psf,915 sqft,Bedok North Road,3 beds,2 baths,east,2025-03-02
+529,102A BIDADARI PARK DRIVE,"S$ 1,288,888",HDB 4-Room,2020,"S$ 1,288 psf","1,001 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-02
+530,102A BIDADARI PARK DRIVE,"S$ 1,288,000",HDB 4-Room,2020,"S$ 1,287 psf","1,001 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-11
+531,708 TAMPINES STREET 71,"S$ 738,000",HDB 4-Room,Tampines,1996,S$ 686 psf,"1,076 sqft",Tampines Street 71,3 beds,2 baths,east,2025-03-11
+532,273 TAMPINES STREET 22,"S$ 520,000",HDB 3-Room,Tampines,1983,S$ 662 psf,786 sqft,Tampines Street 22,2 beds,2 baths,east,2025-03-11
+533,433 TAMPINES STREET 43,"S$ 480,000",HDB 3-Room,Tampines,1985,S$ 697 psf,689 sqft,Tampines Street 43,2 beds,2 baths,east,2025-03-11
+534,47 CIRCUIT ROAD,"S$ 350,000",HDB 3-Room,Geylang,1964,S$ 580 psf,603 sqft,Circuit Road,2 beds,1 bath,east,2025-03-11
+535,20 CHAI CHEE ROAD,"S$ 450,000",HDB 3-Room,Bedok,1972,S$ 643 psf,700 sqft,Chai Chee Road,3 beds,1 bath,east,2025-03-11
+536,504 BEDOK NORTH STREET 3,"S$ 388,000",HDB 3-Room,Bedok,1977,S$ 612 psf,634 sqft,Bedok North Street 3,2 beds,1 bath,east,2025-03-11
+537,513 BEDOK NORTH AVENUE 2,"S$ 508,000",HDB 4-Room,Bedok,1978,S$ 513 psf,990 sqft,Bedok North Avenue 2,3 beds,2 baths,east,2025-03-11
+538,867 TAMPINES STREET 83,"S$ 660,000",HDB 4-Room,Tampines,1988,S$ 590 psf,"1,119 sqft",Tampines Street 83,3 beds,2 baths,east,2025-03-11
+539,44 CIRCUIT ROAD,"S$ 348,000",HDB 3-Room,Geylang,1964,S$ 621 psf,560 sqft,Circuit Road,2 beds,1 bath,east,2025-03-11
+540,188D BEDOK NORTH STREET 4,"S$ 875,000",HDB 4-Room,Bedok,2018,S$ 874 psf,"1,001 sqft",Bedok North Street 4,3 beds,2 baths,east,2025-02-28
+541,605A TAMPINES STREET 61,"S$ 848,000",HDB 4-Room,Tampines,2018,S$ 857 psf,990 sqft,Tampines Street 61,3 beds,2 baths,east,2025-02-28
+542,523B TAMPINES CENTRAL 7,"S$ 780,000",HDB 4-Room,Tampines,2014,S$ 779 psf,"1,001 sqft",Tampines Central 7,3 beds,2 baths,east,2025-02-28
+543,418 TAMPINES STREET 41,"S$ 520,000",HDB 3-Room,Tampines,1984,S$ 652 psf,797 sqft,Tampines Street 41,2 beds,2 baths,east,2025-02-28
+544,99 OLD AIRPORT ROAD,"S$ 360,000",HDB 3-Room,Geylang,1962,S$ 597 psf,603 sqft,Old Airport Road,2 beds,1 bath,east,2025-02-28
+545,749 PASIR RIS STREET 71,"S$ 640,000",HDB 4-Room,Pasir Ris,1995,S$ 571 psf,"1,120 sqft",Pasir Ris Street 71,3 beds,2 baths,east,2025-02-28
+546,406 TAMPINES STREET 41,"S$ 590,000",HDB 4-Room,Tampines,1985,S$ 653 psf,904 sqft,Tampines Street 41,3 beds,2 baths,east,2025-02-28
+547,329 UBI AVENUE 1,"S$ 588,800",HDB 4-Room,Geylang,1985,S$ 651 psf,904 sqft,Ubi Avenue 1,3 beds,2 baths,east,2025-02-28
+548,114 PASIR RIS STREET 11,"S$ 620,000",HDB 4-Room,Pasir Ris,1988,S$ 544 psf,"1,140 sqft",Pasir Ris Street 11,3 beds,2 baths,east,2025-02-28
+549,879A TAMPINES AVENUE 8,"S$ 750,000",HDB 4-Room,Tampines,2016,S$ 749 psf,"1,001 sqft",Tampines Avenue 8,3 beds,2 baths,east,2025-02-28
+550,245 SIMEI STREET 5,"S$ 788,000",HDB 4-Room,Tampines,1995,S$ 697 psf,"1,130 sqft",Simei Street 5,3 beds,2 baths,east,2025-03-20
+551,841 TAMPINES STREET 83,"S$ 560,000",HDB 4-Room,Tampines,1985,S$ 619 psf,904 sqft,Tampines Street 83,3 beds,2 baths,east,2025-03-20
+552,13 UPPER BOON KENG ROAD,"S$ 900,000",HDB 4-Room,Kallang/Whampoa,1997,S$ 820 psf,"1,098 sqft",Upper Boon Keng Road,3 beds,2 baths,east,2025-03-20
+553,113 BEDOK RESERVOIR ROAD,"S$ 590,000",HDB 4-Room,Bedok,1985,S$ 603 psf,979 sqft,Bedok Reservoir Road,3 beds,2 baths,east,2025-03-20
+554,366 TAMPINES STREET 34,"S$ 625,000",HDB 4-Room,Tampines,1995,S$ 575 psf,"1,087 sqft",Tampines Street 34,3 beds,2 baths,east,2025-03-20
+555,769 BEDOK RESERVOIR VIEW,"S$ 760,088",HDB 4-Room,Bedok,1999,S$ 673 psf,"1,130 sqft",Bedok Reservoir View,3 beds,2 baths,east,2025-03-20
+556,218 BEDOK NORTH STREET 1,"S$ 488,888",HDB 3-Room,Bedok,1979,S$ 668 psf,732 sqft,Bedok North Street 1,2 beds,2 baths,east,2025-03-20
+557,267 TAMPINES STREET 21,"S$ 629,000",HDB 4-Room,Tampines,1982,S$ 562 psf,"1,119 sqft",Tampines Street 21,3 beds,2 baths,east,2025-03-20
+558,494H TAMPINES STREET 45,"S$ 750,000",HDB 4-Room,18,99 years,S$ 749 psf,"1,001 sqft",Tampines Street 45,3 beds,2 baths,east,2025-03-20
+559,253 TAMPINES STREET 21,"S$ 688,000",HDB 4-Room,Tampines,1983,S$ 615 psf,"1,119 sqft",Tampines Street 21,3 beds,2 baths,east,2025-03-20
+560,451 PASIR RIS DRIVE 6,"S$ 728,888",HDB 4-Room,Pasir Ris,1989,S$ 605 psf,"1,205 sqft",Pasir Ris Drive 6,3 beds,2 baths,east,2025-03-03
+561,351 TAMPINES STREET 33,"S$ 630,000",HDB 4-Room,Tampines,1994,S$ 553 psf,"1,140 sqft",Tampines Street 33,3 beds,2 baths,east,2025-03-03
+562,106B BIDADARI PARK DRIVE,"S$ 1,180,000",HDB 4-Room,2019,"S$ 1,166 psf","1,012 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-03
+563,107 POTONG PASIR AVENUE 1,"S$ 595,000",HDB 3-Room,Toa Payoh,1984,S$ 747 psf,797 sqft,Potong Pasir Avenue 1,2 beds,2 baths,east,2025-03-03
+564,83A CIRCUIT ROAD,"S$ 1,100,000",HDB 4-Room,Geylang,2019,"S$ 1,065 psf","1,033 sqft",Circuit Road,2 beds,2 baths,east,2025-03-03
+565,406 TAMPINES STREET 41,"S$ 628,000",HDB 4-Room,Tampines,1985,S$ 695 psf,904 sqft,Tampines Street 41,3 beds,2 baths,east,2025-03-03
+566,742 BEDOK RESERVOIR ROAD,"S$ 550,000",HDB 3-Room,Bedok,1984,S$ 623 psf,883 sqft,Bedok Reservoir Road,2 beds,2 baths,east,2025-03-03
+567,17B MACPHERSON RESIDENCY,"S$ 868,888",HDB 4-Room,14,2015,S$ 868 psf,"1,001 sqft",17B Circuit Road,3 beds,2 baths,east,2025-03-03
+568,605A TAMPINES STREET 61,"S$ 780,000",HDB 4-Room,Tampines,2018,S$ 788 psf,990 sqft,Tampines Street 61,3 beds,2 baths,east,2025-03-03
+569,102B BIDADARI PARK DRIVE,"S$ 1,188,888",HDB 4-Room,2020,"S$ 1,188 psf","1,001 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-03
+570,35 CIRCUIT ROAD,"S$ 375,000",HDB 3-Room,Geylang,1965,S$ 551 psf,680 sqft,Circuit Road,2 beds,1 bath,east,2025-03-13
+571,330 UBI AVENUE 1,"S$ 530,000",HDB 4-Room,Geylang,1985,S$ 586 psf,904 sqft,Ubi Avenue 1,3 beds,2 baths,east,2025-03-13
+572,30 NEW UPPER CHANGI ROAD,"S$ 450,000",HDB 3-Room,Bedok,S$ 643 psf,700 sqft,New Upper Changi Road,,2 beds,1 bath,east,2025-03-13
+573,20 CHAI CHEE ROAD,"S$ 430,000",HDB 3-Room,Bedok,1972,S$ 533 psf,807 sqft,Chai Chee Road,2 beds,1 bath,east,2025-03-13
+574,808A CHAI CHEE ROAD,"S$ 870,000",HDB 4-Room,Bedok,2015,S$ 869 psf,"1,001 sqft",Chai Chee Road,3 beds,2 baths,east,2025-03-13
+575,338 TAMPINES STREET 33,"S$ 650,000",HDB 4-Room,Tampines,S$ 564 psf,"1,152 sqft",Tampines Street 33,,3 beds,2 baths,east,2025-03-13
+576,49 CIRCUIT ROAD,"S$ 338,000",HDB 3-Room,Geylang,S$ 561 psf,603 sqft,Circuit Road,,2 beds,1 bath,east,2025-03-13
+577,501 BEDOK NORTH STREET 3,"S$ 388,000",HDB 3-Room,Bedok,1977,S$ 611 psf,635 sqft,Bedok North Street 3,2 beds,2 baths,east,2025-03-13
+578,896 TAMPINES STREET 81,"S$ 638,000",HDB 4-Room,Tampines,1988,S$ 570 psf,"1,119 sqft",Tampines Street 81,4 beds,2 baths,east,2025-03-13
+579,234 TAMPINES STREET 21,"S$ 690,000",HDB 4-Room,Tampines,1984,S$ 594 psf,"1,162 sqft",Tampines Street 21,3 beds,2 baths,east,2025-03-13
+580,106A BIDADARI PARK DRIVE,"S$ 1,099,999",HDB 4-Room,2019,"S$ 1,088 psf","1,011 sqft",Bidadari Park Drive,,3 beds,2 baths,east,2025-03-11
+581,401 TAMPINES STREET 41,"S$ 580,000",HDB 4-Room,Tampines,1985,S$ 642 psf,904 sqft,Tampines Street 41,3 beds,2 baths,east,2025-03-11
+582,374 TAMPINES STREET 34,"S$ 650,000",HDB 4-Room,Tampines,1993,S$ 575 psf,"1,130 sqft",Tampines Street 34,3 beds,2 baths,east,2025-03-11
+583,478 PASIR RIS DRIVE 4,"S$ 650,000",HDB 4-Room,Pasir Ris,1990,S$ 575 psf,"1,130 sqft",Pasir Ris Drive 4,3 beds,2 baths,east,2025-03-11
+584,277 TAMPINES STREET 22,"S$ 650,000",HDB 4-Room,Tampines,1983,S$ 586 psf,"1,109 sqft",Tampines Street 22,3 beds,2 baths,east,2025-03-11
+585,703 TAMPINES STREET 71,"S$ 690,000",HDB 4-Room,Tampines,1995,S$ 641 psf,"1,076 sqft",Tampines Street 71,3 beds,2 baths,east,2025-03-11
+586,765 BEDOK RESERVOIR VIEW,"S$ 733,000",HDB 4-Room,Bedok,1999,S$ 649 psf,"1,130 sqft",Bedok Reservoir View,3 beds,2 baths,east,2025-03-11
+587,890B TAMPINES AVENUE 1,"S$ 850,000",HDB 4-Room,Tampines,2014,S$ 849 psf,"1,001 sqft",Tampines Avenue 1,3 beds,2 baths,east,2025-03-11
+588,19 BALAM ROAD,"S$ 360,000",HDB 3-Room,Geylang,1965,S$ 555 psf,649 sqft,Balam Road,2 beds,1 bath,east,2025-03-11
+589,17 JOO SENG ROAD,"S$ 625,000",HDB 4-Room,Toa Payoh,1983,S$ 564 psf,"1,109 sqft",Joo Seng Road,3 beds,2 baths,east,2025-03-11
+590,834 TAMPINES STREET 82,"S$ 658,000",HDB 4-Room,Tampines,1985,S$ 687 psf,958 sqft,Tampines Street 82,3 beds,2 baths,east,2025-03-02
+591,8A UPPER BOON KENG ROAD,"S$ 850,000",HDB 3PA (Premium Apartment),Kallang/Whampoa,2016,"S$ 1,129 psf",753 sqft,Upper Boon Keng Road,2 beds,2 baths,east,2025-03-02
+592,532 BEDOK NORTH STREET 3,"S$ 560,000",HDB 4-Room,Bedok,1979,S$ 566 psf,990 sqft,Bedok North Street 3,3 beds,2 baths,east,2025-03-02
+593,41 BEDOK SOUTH ROAD,"S$ 508,000",HDB 4-Room,Bedok,1977,S$ 562 psf,904 sqft,Bedok South Road,3 beds,1 bath,east,2025-03-02
+594,45 MARINE CRESCENT,"S$ 650,000",HDB 4-Room,Marine Parade,1974,S$ 686 psf,947 sqft,Marine Crescent,3 beds,1 bath,east,2025-03-02
+595,3D UPPER BOON KENG ROAD,"S$ 858,000",HDB 4-Room,Kallang/Whampoa,2006,S$ 886 psf,968 sqft,Upper Boon Keng Road,3 beds,2 baths,east,2025-03-02
+596,1 BEDOK SOUTH AVENUE 1,"S$ 385,000",HDB 3-Room,Bedok,1975,S$ 606 psf,635 sqft,Bedok South Avenue 1,2 beds,1 bath,east,2025-03-02
+597,83A CIRCUIT ROAD,"S$ 1,050,000",HDB 4-Room,Geylang,2019,"S$ 1,049 psf","1,001 sqft",Circuit Road,3 beds,2 baths,east,2025-03-02
+598,508 JELAPANG ROAD,"S$ 560,000",HDB 4-Room,Bukit Panjang,1997,S$ 578 psf,969 sqft,Jelapang Road,3 beds,2 baths,north,2025-03-02
+599,536 JELAPANG ROAD,"S$ 599,000",HDB 4-Room,Bukit Panjang,1997,S$ 551 psf,"1,087 sqft",Jelapang Road,3 beds,2 baths,north,2025-03-02
+600,410 SEMBAWANG DRIVE,"S$ 548,000",HDB 4-Room,Sembawang,1999,S$ 566 psf,969 sqft,Sembawang Drive,3 beds,2 baths,north,2025-03-11
+601,780E WOODLANDS CRESCENT,"S$ 638,000",HDB 4-Room,Woodlands,2013,S$ 644 psf,990 sqft,Woodlands Crescent,3 beds,2 baths,north,2025-03-11
+602,404 FAJAR ROAD,"S$ 590,000",HDB 4-Room,Bukit Panjang,1988,S$ 527 psf,"1,119 sqft",Fajar Road,3 beds,2 baths,north,2025-03-11
+603,780D WOODLANDS CRESCENT,"S$ 560,000",HDB 4-Room,Woodlands,2014,S$ 566 psf,990 sqft,Woodlands Crescent,3 beds,2 baths,north,2025-03-11
+604,443D BUKIT BATOK WEST AVENUE 8,"S$ 625,000",HDB 4-Room,Bukit Batok,2017,S$ 624 psf,"1,001 sqft",Bukit Batok West Avenue 8,3 beds,2 baths,north,2025-03-11
+605,104A CANBERRA STREET,"S$ 737,888",HDB 4-Room,Sembawang,2017,S$ 737 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-11
+606,886A WOODLANDS DRIVE 50,"S$ 698,000",HDB 4PA (Premium Apartment),Woodlands,2013,S$ 705 psf,990 sqft,Woodlands Drive 50,3 beds,2 baths,north,2025-03-11
+607,170 GANGSA ROAD,"S$ 700,000",HDB 4-Room,Bukit Panjang,1996,S$ 644 psf,"1,087 sqft",Gangsa Road,3 beds,2 baths,north,2025-03-11
+608,896C WOODLANDS DRIVE 50,"S$ 580,000",HDB 4-Room,Woodlands,1995,S$ 545 psf,"1,065 sqft",Woodlands Drive 50,3 beds,2 baths,north,2025-03-11
+609,689B WOODLANDS DRIVE 75,"S$ 580,000",HDB 4PA (Premium Apartment),Woodlands,2002,S$ 599 psf,968 sqft,Woodlands Drive 75,3 beds,2 baths,north,2025-03-11
+610,469B ADMIRALTY DRIVE,"S$ 560,000",HDB 4PA (Premium Apartment),Sembawang,1999,S$ 510 psf,"1,098 sqft",Admiralty Drive,3 beds,2 baths,north,2025-03-15
+611,478B YISHUN STREET 44,"S$ 620,000",HDB 4-Room,Yishun,2019,S$ 619 psf,"1,001 sqft",Yishun Street 44,3 beds,2 baths,north,2025-03-15
+612,101B CANBERRA STREET,"S$ 600,000",HDB 4-Room,Sembawang,2019,S$ 599 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-15
+613,131A CANBERRA CRESCENT,"S$ 749,999",HDB 4-Room,Sembawang,2019,S$ 758 psf,990 sqft,Canberra Crescent,3 beds,2 baths,north,2025-03-15
+614,672B YISHUN AVENUE 4,"S$ 650,000",HDB 4-Room,Yishun,2016,S$ 649 psf,"1,001 sqft",Yishun Avenue 4,3 beds,2 baths,north,2025-03-15
+615,479C YISHUN STREET 42,"S$ 599,000",HDB 4-Room,Yishun,2020,S$ 598 psf,"1,001 sqft",Yishun Street 42,3 beds,2 baths,north,2025-03-15
+616,436 WOODLANDS STREET 41,"S$ 510,000",HDB 4-Room,Woodlands,1985,S$ 564 psf,904 sqft,Woodlands Street 41,3 beds,2 baths,north,2025-03-15
+617,727 WOODLANDS CIRCLE,"S$ 560,000",HDB 4-Room,Woodlands,1996,S$ 510 psf,"1,098 sqft",Woodlands Circle,3 beds,2 baths,north,2025-03-15
+618,103A CANBERRA STREET,"S$ 630,000",HDB 4-Room,Sembawang,2019,S$ 629 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-15
+619,122 YISHUN STREET 11,"S$ 400,000",HDB 3-Room,Yishun,1984,S$ 524 psf,764 sqft,Yishun Street 11,2 beds,2 baths,north,2025-03-15
+620,639 YISHUN STREET 61,"S$ 510,000",HDB 4-Room,Yishun,1986,S$ 564 psf,904 sqft,Yishun Street 61,3 beds,2 baths,north,2025-03-18
+621,228 YISHUN STREET 21,"S$ 550,000",HDB 4-Room,Yishun,1984,S$ 549 psf,"1,001 sqft",Yishun Street 21,3 beds,2 baths,north,2025-03-18
+622,103A CANBERRA STREET,"S$ 630,000",HDB 4-Room,Sembawang,2019,S$ 629 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-18
+623,750 YISHUN STREET 72,"S$ 600,000",HDB 4-Room,27,99 years,S$ 606 psf,990 sqft,Yishun Street 72,3 beds,2 baths,north,2025-03-18
+624,478C YISHUN STREET 44,"S$ 598,000",HDB 4-Room,Yishun,2019,S$ 597 psf,"1,001 sqft",Yishun Street 44,3 beds,2 baths,north,2025-03-18
+625,612 WOODLANDS AVENUE 4,"S$ 638,000",HDB 4-Room,Woodlands,1997,S$ 581 psf,"1,098 sqft",Woodlands Avenue 4,3 beds,2 baths,north,2025-03-18
+626,436 FAJAR ROAD,"S$ 548,000",HDB 4-Room,Bukit Panjang,1989,S$ 490 psf,"1,119 sqft",Fajar Road,3 beds,2 baths,north,2025-03-18
+627,146 BUKIT BATOK WEST AVENUE 6,"S$ 430,000",HDB 3-Room,Bukit Batok,1983,S$ 588 psf,731 sqft,Bukit Batok West Avenue 6,2 beds,2 baths,north,2025-03-18
+628,627 SENJA ROAD,"S$ 608,888",HDB 4-Room,Bukit Panjang,2003,S$ 629 psf,968 sqft,Senja Road,3 beds,2 baths,north,2025-03-18
+629,431 BUKIT PANJANG RING ROAD,"S$ 520,000",HDB 4-Room,Bukit Panjang,1988,S$ 575 psf,904 sqft,Bukit Panjang Ring Road,3 beds,2 baths,north,2025-03-18
+630,138 BUKIT BATOK WEST AVENUE 6,"S$ 580,000",HDB 4-Room,Bukit Batok,1983,S$ 579 psf,"1,001 sqft",Bukit Batok West Avenue 6,3 beds,2 baths,north,2025-03-10
+631,224 YISHUN STREET 21,"S$ 445,000",HDB 3-Room,Yishun,S$ 617 psf,721 sqft,Yishun Street 21,,2 beds,2 baths,north,2025-03-10
+632,266 BUKIT BATOK EAST AVENUE 4,"S$ 550,000",HDB 4-Room,Bukit Batok,1985,S$ 492 psf,"1,119 sqft",Bukit Batok East Avenue 4,3 beds,2 baths,north,2025-03-10
+633,460B BUKIT BATOK WEST AVENUE 9,"S$ 500,000",HDB 3-Room,Bukit Batok,2019,S$ 683 psf,732 sqft,Bukit Batok West Avenue 9,2 beds,2 baths,north,2025-03-10
+634,219 BUKIT BATOK STREET 21,"S$ 408,000",HDB 3-Room,Bukit Batok,1984,S$ 566 psf,721 sqft,Bukit Batok Street 21,2 beds,2 baths,north,2025-03-10
+635,783B WOODLANDS RISE,"S$ 648,000",HDB 4PA (Premium Apartment),25,S$ 647 psf,"1,001 sqft",Woodlands Rise,,3 beds,2 baths,north,2025-03-10
+636,141 YISHUN RING ROAD,"S$ 608,000",HDB 4-Room,27,S$ 589 psf,"1,033 sqft",Yishun Ring Road,,3 beds,2 baths,north,2025-03-10
+637,166 GANGSA ROAD,"S$ 750,000",HDB 4-Room,23,99 years,S$ 677 psf,"1,108 sqft",GANGSA ROAD,3 beds,2 baths,north,2025-03-10
+638,343 YISHUN AVENUE 11,"S$ 608,000",HDB 4-Room,Yishun,1987,S$ 504 psf,"1,206 sqft",Yishun Avenue 11,3 beds,2 baths,north,2025-03-10
+639,456 YISHUN STREET 41,"S$ 560,000",HDB 4-Room,Yishun,2011,S$ 559 psf,"1,001 sqft",Yishun Street 41,3 beds,2 baths,north,2025-03-10
+640,774 WOODLANDS CRESCENT,"S$ 520,000",HDB 4-Room,Woodlands,1996,S$ 525 psf,990 sqft,Woodlands Crescent,3 beds,2 baths,north,2025-03-21
+641,751 WOODLANDS CIRCLE,"S$ 580,000",HDB 4-Room,Woodlands,1996,S$ 534 psf,"1,087 sqft",Woodlands Circle,3 beds,2 baths,north,2025-03-21
+642,787 YISHUN RING ROAD,"S$ 630,000",HDB 4-Room,Yishun,1987,S$ 563 psf,"1,119 sqft",Yishun Ring Road,4 beds,2 baths,north,2025-03-21
+643,505 WOODLANDS DRIVE 14,"S$ 658,000",HDB 4-Room,Woodlands,1998,S$ 605 psf,"1,087 sqft",Woodlands Drive 14,3 beds,2 baths,north,2025-03-21
+644,285 CHOA CHU KANG AVENUE 3,"S$ 560,000",HDB 4-Room,Choa Chu Kang,1990,S$ 500 psf,"1,119 sqft",Choa Chu Kang Avenue 3,3 beds,2 baths,north,2025-03-21
+645,460C BUKIT BATOK WEST AVENUE 9,"S$ 749,888",HDB 4-Room,Bukit Batok,2019,S$ 749 psf,"1,001 sqft",Bukit Batok West Avenue 9,3 beds,2 baths,north,2025-03-21
+646,365 WOODLANDS AVENUE 5,"S$ 638,000",HDB 4-Room,Woodlands,1995,S$ 554 psf,"1,151 sqft",Woodlands Avenue 5,3 beds,2 baths,north,2025-03-21
+647,24 MARSILING DRIVE,"S$ 398,000",HDB 3-Room,Woodlands,1976,S$ 552 psf,721 sqft,Marsiling Drive,2 beds,2 baths,north,2025-03-21
+648,435C BUKIT BATOK WEST AVENUE 5,"S$ 640,000",HDB 4-Room,Bukit Batok,2018,S$ 639 psf,"1,001 sqft",Bukit Batok West Avenue 5,3 beds,2 baths,north,2025-03-21
+649,681B WOODLANDS DRIVE 62,"S$ 613,000",HDB 4-Room,Woodlands,1998,S$ 564 psf,"1,087 sqft",Woodlands Drive 62,3 beds,2 baths,north,2025-03-21
+650,479B YISHUN STREET 42,"S$ 598,000",HDB 4-Room,Yishun,2020,"S$ 6,229 psf",96 sqft,Yishun Street 42,3 beds,2 baths,north,2025-03-08
+651,728 YISHUN STREET 71,"S$ 565,000",HDB 4-Room,Yishun,1985,S$ 589 psf,960 sqft,Yishun Street 71,3 beds,2 baths,north,2025-03-08
+652,342C YISHUN RING ROAD,"S$ 618,000",HDB 4-Room,Yishun,2014,S$ 617 psf,"1,001 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-03-08
+653,236 BUKIT PANJANG RING ROAD,"S$ 530,000",HDB 4-Room,Bukit Panjang,1987,"S$ 6,310 psf",84 sqft,Bukit Panjang Ring Road,3 beds,2 baths,north,2025-03-08
+654,292B BUKIT BATOK EAST AVENUE 6,"S$ 805,000",HDB 4-Room,Bukit Batok,2017,S$ 804 psf,"1,001 sqft",Bukit Batok East Avenue 6,3 beds,2 baths,north,2025-03-08
+655,510 JELAPANG ROAD,"S$ 578,000",HDB 4-Room,Bukit Panjang,1996,S$ 590 psf,979 sqft,Jelapang Road,3 beds,2 baths,north,2025-03-08
+656,574A WOODLANDS DRIVE 16,"S$ 595,000",HDB 4-Room,Woodlands,2017,S$ 594 psf,"1,001 sqft",Woodlands Drive 16,3 beds,2 baths,north,2025-03-08
+657,726 YISHUN STREET 71,"S$ 505,000",HDB 4-Room,Yishun,1984,S$ 559 psf,904 sqft,Yishun Street 71,3 beds,2 baths,north,2025-03-08
+658,450A BUKIT BATOK WEST AVENUE 6,"S$ 510,000",HDB 3-Room,Bukit Batok,2017,S$ 707 psf,721 sqft,Bukit Batok West Avenue 6,1 bed,2 baths,north,2025-03-08
+659,784 YISHUN AVENUE 2,"S$ 478,000",HDB 3-Room,Yishun,1985,S$ 601 psf,796 sqft,Yishun Avenue 2,2 beds,2 baths,north,2025-03-08
+660,367 YISHUN RING ROAD,"S$ 660,000",HDB 4-Room,Yishun,1987,S$ 590 psf,"1,119 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-03-05
+661,5 TECK WHYE AVENUE,"S$ 440,000",HDB 3-Room,Choa Chu Kang,1983,S$ 572 psf,769 sqft,Teck Whye Avenue,2 beds,2 baths,north,2025-03-05
+662,745 YISHUN STREET 72,"S$ 485,000",HDB 3-Room,Yishun,1984,S$ 673 psf,721 sqft,Yishun Street 72,2 beds,2 baths,north,2025-03-05
+663,162 BUKIT BATOK STREET 11,"S$ 425,000",HDB 3-Room,Bukit Batok,1984,S$ 534 psf,796 sqft,Bukit Batok Street 11,2 beds,2 baths,north,2025-03-05
+664,135 BUKIT BATOK WEST AVENUE 6,"S$ 428,888",HDB 3-Room,Bukit Batok,1983,S$ 586 psf,732 sqft,Bukit Batok West Avenue 6,2 beds,2 baths,north,2025-03-05
+665,489D CHOA CHU KANG AVENUE 5,"S$ 630,000",HDB 4-Room,Choa Chu Kang,2015,S$ 629 psf,"1,001 sqft",Choa Chu Kang Avenue 5,3 beds,2 baths,north,2025-03-05
+666,182 JELEBU ROAD,"S$ 850,000",HDB 4-Room,Bukit Panjang,2001,S$ 867 psf,980 sqft,Jelebu Road,3 beds,2 baths,north,2025-03-05
+667,548B SEGAR ROAD,"S$ 538,000",HDB 3-Room,Bukit Panjang,2014,S$ 746 psf,721 sqft,Segar Road,2 beds,2 baths,north,2025-03-05
+668,684B WOODLANDS DRIVE 73,"S$ 560,000",HDB 4-Room,Woodlands,1998,S$ 515 psf,"1,087 sqft",Woodlands Drive 73,3 beds,2 baths,north,2025-03-05
+669,764 YISHUN STREET 72,"S$ 560,000",HDB 4-Room,Yishun,1985,S$ 619 psf,904 sqft,Yishun Street 72,3 beds,2 baths,north,2025-03-05
+670,681D WOODLANDS DRIVE 62,"S$ 630,000",HDB 4-Room,Woodlands,1998,S$ 584 psf,"1,078 sqft",Woodlands Drive 62,3 beds,2 baths,north,2025-03-17
+671,627 CHOA CHU KANG STREET 62,"S$ 588,000",HDB 4-Room,Choa Chu Kang,1995,S$ 541 psf,"1,087 sqft",Choa Chu Kang Street 62,3 beds,2 baths,north,2025-03-17
+672,405 ADMIRALTY LINK,"S$ 560,000",HDB 4-Room,Sembawang,1999,S$ 605 psf,926 sqft,Admiralty Link,3 beds,2 baths,north,2025-03-17
+673,766 WOODLANDS CIRCLE,"S$ 550,000",HDB 4-Room,Woodlands,2001,S$ 561 psf,980 sqft,Woodlands Circle,3 beds,2 baths,north,2025-03-17
+674,292C BUKIT BATOK EAST AVENUE 6,"S$ 970,888",HDB 4-Room,Bukit Batok,2017,S$ 981 psf,990 sqft,Bukit Batok East Avenue 6,3 beds,2 baths,north,2025-03-17
+675,25 TECK WHYE LANE,"S$ 498,000",HDB 4-Room,Choa Chu Kang,1978,S$ 503 psf,990 sqft,Teck Whye Lane,3 beds,2 baths,north,2025-03-17
+676,613 WOODLANDS AVENUE 4,"S$ 585,888",HDB 4-Room,Woodlands,1997,S$ 539 psf,"1,088 sqft",Woodlands Avenue 4,3 beds,2 baths,north,2025-03-17
+677,112 BUKIT BATOK WEST AVENUE 6,"S$ 599,000",HDB 4-Room,Bukit Batok,1984,S$ 525 psf,"1,141 sqft",Bukit Batok West Avenue 6,3 beds,2 baths,north,2025-03-17
+678,508C WELLINGTON CIRCLE,"S$ 569,888",HDB 4-Room,Sembawang,2004,S$ 623 psf,915 sqft,Wellington Circle,3 beds,2 baths,north,2025-03-17
+679,619 YISHUN RING ROAD,"S$ 588,000",HDB 4-Room,Yishun,1986,S$ 658 psf,893 sqft,Yishun Ring Road,3 beds,2 baths,north,2025-03-17
+680,803C KEAT HONG CLOSE,"S$ 588,000",HDB 4-Room,Choa Chu Kang,2016,S$ 587 psf,"1,001 sqft",Keat Hong Close,3 beds,2 baths,north,2025-02-26
+681,687C CHOA CHU KANG DRIVE,"S$ 523,000",HDB 4-Room,Choa Chu Kang,2000,S$ 540 psf,968 sqft,Choa Chu Kang Drive,3 beds,2 baths,north,2025-02-26
+682,250 YISHUN AVENUE 9,"S$ 530,000",HDB 4-Room,Yishun,1984,S$ 474 psf,"1,119 sqft",Yishun Avenue 9,3 beds,2 baths,north,2025-02-26
+683,305 BUKIT BATOK STREET 31,"S$ 560,000",HDB 4-Room,Bukit Batok,1984,S$ 531 psf,"1,055 sqft",Bukit Batok Street 31,3 beds,2 baths,north,2025-02-26
+684,537 BUKIT BATOK STREET 52,"S$ 540,000",HDB 4-Room,Bukit Batok,1985,S$ 487 psf,"1,109 sqft",Bukit Batok Street 52,3 beds,2 baths,north,2025-02-26
+685,293A BUKIT BATOK STREET 21,"S$ 780,000",HDB 4-Room,Bukit Batok,2017,S$ 779 psf,"1,001 sqft",Bukit Batok Street 21,3 beds,2 baths,north,2025-02-26
+686,601 WOODLANDS DRIVE 42,"S$ 530,000",HDB 4-Room,Woodlands,1995,S$ 541 psf,980 sqft,Woodlands Drive 42,3 beds,2 baths,north,2025-02-26
+687,365 WOODLANDS AVENUE 5,"S$ 638,888",HDB 4-Room,Woodlands,1995,S$ 565 psf,"1,130 sqft",Woodlands Avenue 5,3 beds,2 baths,north,2025-02-26
+688,244 BUKIT PANJANG RING ROAD,"S$ 558,888",HDB 4-Room,Bukit Panjang,1987,S$ 499 psf,"1,119 sqft",Bukit Panjang Ring Road,3 beds,2 baths,north,2025-02-26
+689,403 ADMIRALTY LINK,"S$ 550,000",HDB 4-Room,Sembawang,1999,S$ 568 psf,969 sqft,Admiralty Link,3 beds,2 baths,north,2025-02-26
+690,804B KEAT HONG CLOSE,"S$ 620,000",HDB 4-Room,Choa Chu Kang,2015,S$ 619 psf,"1,001 sqft",Keat Hong Close,3 beds,2 baths,north,2025-03-24
+691,463B SEMBAWANG DRIVE,"S$ 570,000",HDB 4-Room,Sembawang,2013,S$ 576 psf,990 sqft,Sembawang Drive,3 beds,2 baths,north,2025-03-24
+692,103A CANBERRA STREET,"S$ 520,000",HDB 3-Room,Sembawang,2019,S$ 756 psf,688 sqft,Canberra Street,2 beds,2 baths,north,2025-03-24
+693,287 YISHUN AVENUE 6,"S$ 470,000",HDB 3-Room,Yishun,1984,S$ 599 psf,785 sqft,Yishun Avenue 6,2 beds,2 baths,north,2025-03-24
+694,260 BUKIT BATOK EAST AVENUE 4,"S$ 400,000",HDB 3-Room,Bukit Batok,1984,S$ 510 psf,785 sqft,Bukit Batok East Avenue 4,2 beds,2 baths,north,2025-03-24
+695,171 WOODLANDS STREET 11,"S$ 500,000",HDB 4-Room,Woodlands,1984,S$ 510 psf,980 sqft,Woodlands Street 11,3 beds,2 baths,north,2025-03-24
+696,131C CANBERRA CRESCENT,"S$ 888,888",HDB 4-Room,Sembawang,2019,S$ 888 psf,"1,001 sqft",Canberra Crescent,3 beds,2 baths,north,2025-03-24
+697,126A CANBERRA STREET,"S$ 720,000",HDB 4-Room,Sembawang,2019,S$ 697 psf,"1,033 sqft",Canberra Street,3 beds,2 baths,north,2025-03-24
+698,360A ADMIRALTY DRIVE,"S$ 638,888",HDB 4-Room,Sembawang,1999,S$ 632 psf,"1,011 sqft",Admiralty Drive,3 beds,2 baths,north,2025-03-24
+699,425 YISHUN AVENUE 11,"S$ 558,888",HDB 4-Room,Yishun,1987,S$ 499 psf,"1,119 sqft",Yishun Avenue 11,3 beds,2 baths,north,2025-03-24
+700,319 BUKIT BATOK STREET 33,"S$ 500,000",HDB 4-Room,Bukit Batok,1985,S$ 553 psf,904 sqft,Bukit Batok Street 33,3 beds,2 baths,north,2025-03-10
+701,249 CHOA CHU KANG AVENUE 2,"S$ 572,000",HDB 4-Room,Choa Chu Kang,1992,S$ 511 psf,"1,119 sqft",Choa Chu Kang Avenue 2,3 beds,2 baths,north,2025-03-10
+702,246 YISHUN AVENUE 9,"S$ 470,000",HDB 4-Room,27,S$ 520 psf,904 sqft,Yishun Avenue 9,,3 beds,2 baths,north,2025-03-10
+703,590A MONTREAL LINK,"S$ 490,000",HDB 3-Room,Sembawang,S$ 669 psf,732 sqft,Montreal Link,,2 beds,2 baths,north,2025-03-10
+704,417 BUKIT BATOK WEST AVENUE 4,"S$ 400,000",HDB 3-Room,Bukit Batok,S$ 509 psf,786 sqft,Bukit Batok West Avenue 4,,2 beds,2 baths,north,2025-03-10
+705,183A WOODLANDS STREET 13,"S$ 650,000",HDB 4-Room,Woodlands,S$ 649 psf,"1,001 sqft",Woodlands Street 13,,3 beds,2 baths,north,2025-03-10
+706,453A BUKIT BATOK WEST AVENUE 6,"S$ 700,000",HDB 4-Room,Bukit Batok,2018,S$ 699 psf,"1,001 sqft",Bukit Batok West Avenue 6,3 beds,2 baths,north,2025-03-10
+707,289 CHOA CHU KANG AVENUE 3,"S$ 580,000",HDB 4-Room,Choa Chu Kang,1990,S$ 513 psf,"1,130 sqft",Choa Chu Kang Avenue 3,3 beds,2 baths,north,2025-03-10
+708,126D CANBERRA STREET,"S$ 650,000",HDB 4-Room,Sembawang,S$ 649 psf,"1,001 sqft",Canberra Street,,3 beds,2 baths,north,2025-03-10
+709,108A CANBERRA WALK,"S$ 615,000",HDB 4-Room,27,S$ 614 psf,"1,001 sqft",Canberra Walk,,3 beds,2 baths,north,2025-03-10
+710,262 YISHUN STREET 22,"S$ 508,000",HDB 4-Room,Yishun,1984,S$ 562 psf,904 sqft,Yishun Street 22,3 beds,2 baths,north,2025-02-26
+711,602 SENJA ROAD,"S$ 610,000",HDB 4-Room,Bukit Panjang,1997,S$ 622 psf,980 sqft,Senja Road,3 beds,2 baths,north,2025-02-26
+712,491 ADMIRALTY LINK,"S$ 550,000",HDB 4-Room,27,S$ 561 psf,980 sqft,Admiralty Link,,3 beds,2 baths,north,2025-02-26
+713,730 YISHUN STREET 71,"S$ 510,000",HDB 4-Room,Yishun,1985,S$ 564 psf,904 sqft,Yishun Street 71,3 beds,2 baths,north,2025-02-26
+714,176 BUKIT BATOK WEST AVENUE 8,"S$ 580,000",HDB 4-Room,Bukit Batok,S$ 518 psf,"1,119 sqft",Bukit Batok West Avenue 8,,3 beds,2 baths,north,2025-02-26
+715,121A CANBERRA STREET,"S$ 650,000",HDB 4-Room,27,S$ 649 psf,"1,001 sqft",Canberra Street,,3 beds,2 baths,north,2025-02-26
+716,402 ADMIRALTY LINK,"S$ 548,000",HDB 4-Room,Sembawang,1999,S$ 566 psf,969 sqft,Admiralty Link,3 beds,2 baths,north,2025-02-26
+717,126D CANBERRA STREET,"S$ 699,999",HDB 4-Room,Sembawang,2019,S$ 699 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-02-26
+718,254 YISHUN RING ROAD,"S$ 568,000",HDB 4-Room,Yishun,1984,S$ 508 psf,"1,119 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-02-26
+719,131 YISHUN STREET 11,"S$ 638,000",HDB 4-Room,Yishun,1984,S$ 570 psf,"1,119 sqft",Yishun Street 11,3 beds,2 baths,north,2025-02-26
+720,235 BUKIT BATOK EAST AVENUE 5,"S$ 450,000",HDB 3-Room,Bukit Batok,S$ 624 psf,721 sqft,Bukit Batok East Avenue 5,,2 beds,2 baths,north,2025-03-23
+721,341A SEMBAWANG CLOSE,"S$ 600,000",HDB 4-Room,Sembawang,1999,S$ 587 psf,"1,022 sqft",Sembawang Close,3 beds,2 baths,north,2025-03-23
+722,886A WOODLANDS DRIVE 50,"S$ 510,000",HDB 3-Room,Woodlands,2013,S$ 707 psf,721 sqft,Woodlands Drive 50,2 beds,2 baths,north,2025-03-23
+723,818A CHOA CHU KANG AVENUE 1,"S$ 620,000",HDB 4-Room,Choa Chu Kang,2016,S$ 626 psf,990 sqft,Choa Chu Kang Avenue 1,3 beds,2 baths,north,2025-03-23
+724,715 WOODLANDS DRIVE 70,"S$ 650,000",HDB 4-Room,Woodlands,1995,S$ 599 psf,"1,086 sqft",Woodlands Drive 70,3 beds,2 baths,north,2025-03-23
+725,340 CHOA CHU KANG LOOP,"S$ 680,000",HDB 4-Room,Choa Chu Kang,1992,S$ 602 psf,"1,130 sqft",Choa Chu Kang Loop,3 beds,2 baths,north,2025-03-23
+726,463B SEMBAWANG DRIVE,"S$ 550,000",HDB 4-Room,27,S$ 556 psf,990 sqft,Sembawang Drive,,3 beds,2 baths,north,2025-03-23
+727,107A CANBERRA STREET,"S$ 680,000",HDB 4-Room,Sembawang,2017,S$ 679 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-23
+728,180 BUKIT BATOK WEST AVENUE 8,"S$ 425,000",HDB 3-Room,Bukit Batok,1984,S$ 590 psf,720 sqft,Bukit Batok West Avenue 8,2 beds,2 baths,north,2025-03-23
+729,170 GANGSA ROAD,"S$ 700,000",HDB 4-Room,Bukit Panjang,1996,S$ 644 psf,"1,087 sqft",Gangsa Road,3 beds,2 baths,north,2025-03-23
+730,486 CHOA CHU KANG AVENUE 5,"S$ 530,000",HDB 4-Room,Choa Chu Kang,1997,S$ 488 psf,"1,086 sqft",Choa Chu Kang Avenue 5,3 beds,2 baths,north,2025-02-28
+731,142 PETIR ROAD,"S$ 550,000",HDB 4-Room,Bukit Panjang,1987,S$ 496 psf,"1,108 sqft",Petir Road,3 beds,2 baths,north,2025-02-28
+732,272 BUKIT BATOK EAST AVENUE 4,"S$ 430,000",HDB 3-Room,Bukit Batok,1985,S$ 624 psf,689 sqft,Bukit Batok East Avenue 4,2 beds,2 baths,north,2025-02-28
+733,438C BUKIT BATOK WEST AVENUE 8,"S$ 530,000",HDB 3-Room,Bukit Batok,2018,S$ 724 psf,732 sqft,Bukit Batok West Avenue 8,2 beds,2 baths,north,2025-02-28
+734,440B BUKIT BATOK WEST AVENUE 8,"S$ 670,000",HDB 4-Room,23,S$ 677 psf,990 sqft,Bukit Batok West Avenue 8,,3 beds,2 baths,north,2025-02-28
+735,333A YISHUN STREET 31,"S$ 600,000",HDB 4-Room,27,S$ 606 psf,990 sqft,Yishun Street 31,,3 beds,2 baths,north,2025-02-28
+736,739 WOODLANDS CIRCLE,"S$ 560,000",HDB 4-Room,25,S$ 520 psf,"1,076 sqft",Woodlands Circle,,3 beds,2 baths,north,2025-02-28
+737,464B BUKIT BATOK WEST AVENUE 8,"S$ 530,000",HDB 3-Room,Bukit Batok,2020,S$ 724 psf,732 sqft,Bukit Batok West Avenue 8,2 beds,2 baths,north,2025-02-28
+738,141 PETIR ROAD,"S$ 560,000",HDB 4-Room,Bukit Panjang,1988,S$ 505 psf,"1,108 sqft",Petir Road,3 beds,2 baths,north,2025-02-28
+739,453 YISHUN STREET 41,"S$ 618,000",HDB 4-Room,Yishun,2012,S$ 617 psf,"1,001 sqft",Yishun Street 41,3 beds,2 baths,north,2025-02-28
+740,765 YISHUN STREET 72,"S$ 528,000",HDB 4-Room,Yishun,1985,S$ 584 psf,904 sqft,Yishun Street 72,3 beds,2 baths,north,2025-03-25
+741,811A CHOA CHU KANG AVENUE 7,"S$ 649,000",HDB 4-Room,Choa Chu Kang,2016,S$ 648 psf,"1,001 sqft",Choa Chu Kang Avenue 7,3 beds,2 baths,north,2025-03-25
+742,647 YISHUN STREET 61,"S$ 528,000",HDB 4-Room,Yishun,1986,S$ 584 psf,904 sqft,Yishun Street 61,3 beds,2 baths,north,2025-03-25
+743,128 YISHUN STREET 11,"S$ 499,999",HDB 3-Room,Yishun,1984,S$ 628 psf,796 sqft,Yishun Street 11,2 beds,2 baths,north,2025-03-25
+744,251 BANGKIT ROAD,"S$ 488,000",HDB 3-Room,Bukit Panjang,1987,S$ 622 psf,785 sqft,Bangkit Road,2 beds,2 baths,north,2025-03-25
+745,448 YISHUN RING ROAD,"S$ 608,000",HDB 4-Room,Yishun,2011,S$ 614 psf,990 sqft,Yishun Ring Road,3 beds,2 baths,north,2025-03-25
+746,635A SENJA ROAD,"S$ 700,000",HDB 4-Room,Bukit Panjang,2014,S$ 707 psf,990 sqft,Senja Road,3 beds,2 baths,north,2025-03-25
+747,126D CANBERRA STREET,"S$ 699,000",HDB 4-Room,Sembawang,2019,S$ 698 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-25
+748,714 YISHUN STREET 71,"S$ 438,000",HDB 3-Room,Yishun,1985,S$ 636 psf,689 sqft,Yishun Street 71,2 beds,2 baths,north,2025-03-25
+749,812C CHOA CHU KANG AVENUE 7,"S$ 649,998",HDB 4-Room,Choa Chu Kang,2016,S$ 649 psf,"1,001 sqft",Choa Chu Kang Avenue 7,3 beds,2 baths,north,2025-03-25
+750,204 MARSILING DRIVE,"S$ 435,000",HDB 3-Room,Woodlands,1980,S$ 595 psf,731 sqft,Marsiling Drive,2 beds,2 baths,north,2025-03-04
+751,472 SEGAR ROAD,"S$ 550,000",HDB 4-Room,Bukit Panjang,2000,S$ 568 psf,969 sqft,Segar Road,3 beds,2 baths,north,2025-03-04
+752,238 BUKIT BATOK EAST AVENUE 5,"S$ 430,000",HDB 3-Room,Bukit Batok,1984,S$ 588 psf,731 sqft,Bukit Batok East Avenue 5,2 beds,2 baths,north,2025-03-04
+753,435 YISHUN AVENUE 6,"S$ 500,000",HDB 4-Room,Yishun,1987,S$ 553 psf,904 sqft,Yishun Avenue 6,3 beds,2 baths,north,2025-03-04
+754,489C CHOA CHU KANG AVENUE 5,"S$ 618,000",HDB 4-Room,Choa Chu Kang,2015,S$ 617 psf,"1,001 sqft",Choa Chu Kang Avenue 5,3 beds,2 baths,north,2025-03-04
+755,321 WOODLANDS STREET 32,"S$ 600,000",HDB 4-Room,Woodlands,1985,S$ 512 psf,"1,173 sqft",Woodlands Street 32,3 beds,2 baths,north,2025-03-04
+756,402 ADMIRALTY LINK,"S$ 548,000",HDB 4-Room,Sembawang,1999,S$ 566 psf,969 sqft,Admiralty Link,3 beds,2 baths,north,2025-03-04
+757,254 YISHUN RING ROAD,"S$ 568,000",HDB 4-Room,Yishun,1984,S$ 507 psf,"1,120 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-03-04
+758,148 YISHUN STREET 11,"S$ 455,000",HDB 3-Room,Yishun,1984,S$ 633 psf,719 sqft,Yishun Street 11,2 beds,2 baths,north,2025-03-04
+759,784C WOODLANDS RISE,"S$ 550,000",HDB 4-Room,Woodlands,2017,S$ 550 psf,"1,000 sqft",Woodlands Rise,3 beds,2 baths,north,2025-03-04
+760,514 CHOA CHU KANG STREET 51,"S$ 560,000",HDB 4-Room,Choa Chu Kang,1993,S$ 500 psf,"1,120 sqft",Choa Chu Kang Street 51,3 beds,2 baths,north,2025-03-16
+761,130 YISHUN STREET 11,"S$ 599,000",HDB 4-Room,Yishun,1984,S$ 530 psf,"1,130 sqft",Yishun Street 11,3 beds,2 baths,north,2025-03-16
+762,629 SENJA ROAD,"S$ 650,000",HDB 4-Room,Bukit Panjang,2002,S$ 649 psf,"1,001 sqft",Senja Road,3 beds,2 baths,north,2025-03-16
+763,895C WOODLANDS DRIVE 50,"S$ 568,000",HDB 4-Room,Woodlands,1995,S$ 533 psf,"1,066 sqft",Woodlands Drive 50,3 beds,2 baths,north,2025-03-16
+764,627 YISHUN STREET 61,"S$ 475,000",HDB 3-Room,Yishun,1986,S$ 604 psf,786 sqft,Yishun Street 61,2 beds,2 baths,north,2025-03-16
+765,536 JELAPANG ROAD,"S$ 599,000",HDB 4-Room,Bukit Panjang,1997,S$ 551 psf,"1,087 sqft",Jelapang Road,3 beds,2 baths,north,2025-03-16
+766,359C ADMIRALTY DRIVE,"S$ 608,000",HDB 4-Room,Sembawang,1999,S$ 594 psf,"1,023 sqft",Admiralty Drive,3 beds,2 baths,north,2025-03-16
+767,635B SENJA ROAD,"S$ 688,000",HDB 4-Room,Bukit Panjang,2014,S$ 687 psf,"1,001 sqft",Senja Road,3 beds,2 baths,north,2025-03-16
+768,280 CHOA CHU KANG AVENUE 3,"S$ 575,000",HDB 4-Room,Choa Chu Kang,1990,S$ 52 psf,"11,119 sqft",Choa Chu Kang Avenue 3,3 beds,2 baths,north,2025-03-16
+769,366 YISHUN RING ROAD,"S$ 565,000",HDB 4-Room,Yishun,1988,S$ 486 psf,"1,162 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-03-16
+770,406 CHOA CHU KANG AVENUE 3,"S$ 598,000",HDB 4-Room,Choa Chu Kang,1991,S$ 534 psf,"1,119 sqft",Choa Chu Kang Avenue 3,3 beds,2 baths,north,2025-03-15
+771,182 JELEBU ROAD,"S$ 850,000",HDB 4-Room,Bukit Panjang,2001,S$ 867 psf,980 sqft,Jelebu Road,3 beds,2 baths,north,2025-03-15
+772,622 WOODLANDS DRIVE 52,"S$ 588,000",HDB 4-Room,Woodlands,1997,S$ 541 psf,"1,087 sqft",Woodlands Drive 52,3 beds,2 baths,north,2025-03-15
+773,141 YISHUN RING ROAD,"S$ 438,000",HDB 3-Room,Yishun,1984,S$ 598 psf,732 sqft,Yishun Ring Road,2 beds,2 baths,north,2025-03-15
+774,166 GANGSA ROAD,"S$ 730,000",HDB 4-Room,Bukit Panjang,1997,S$ 659 psf,"1,108 sqft",Gangsa Road,3 beds,2 baths,north,2025-03-15
+775,359 ADMIRALTY DRIVE,"S$ 613,000",HDB 4PA (Premium Apartment),Sembawang,1999,S$ 599 psf,"1,023 sqft",Admiralty Drive,3 beds,2 baths,north,2025-03-15
+776,439A WEST EDGE @ BUKIT BATOK,"S$ 680,000",HDB 4-Room,23,2019,S$ 679 psf,"1,001 sqft",439A Bukit Batok West Avenue 8,3 beds,2 baths,north,2025-03-15
+777,785B WOODLANDS RISE,"S$ 550,000",HDB 3-Room,Woodlands,2017,S$ 751 psf,732 sqft,Woodlands Rise,2 beds,2 baths,north,2025-03-15
+778,642 CHOA CHU KANG STREET 64,"S$ 699,999",HDB 4PA (Premium Apartment),Choa Chu Kang,1996,S$ 651 psf,"1,076 sqft",Choa Chu Kang Street 64,3 beds,2 baths,north,2025-03-15
+779,635B SENJA ROAD,"S$ 640,000",HDB 4-Room,Bukit Panjang,2014,S$ 639 psf,"1,001 sqft",Senja Road,3 beds,2 baths,north,2025-03-15
+780,522 JELAPANG ROAD,"S$ 620,000",HDB 4-Room,Bukit Panjang,1997,S$ 565 psf,"1,097 sqft",Jelapang Road,3 beds,2 baths,north,2025-03-17
+781,362C SEMBAWANG CRESCENT,"S$ 660,000",HDB 4-Room,Sembawang,2018,S$ 659 psf,"1,001 sqft",Sembawang Crescent,3 beds,2 baths,north,2025-03-17
+782,721 YISHUN STREET 71,"S$ 599,999",HDB 4-Room,Yishun,1984,S$ 536 psf,"1,119 sqft",Yishun Street 71,3 beds,2 baths,north,2025-03-17
+783,267 BUKIT BATOK EAST AVENUE 4,"S$ 550,000",HDB 4-Room,Bukit Batok,1985,S$ 608 psf,904 sqft,Bukit Batok East Avenue 4,3 beds,2 baths,north,2025-03-17
+784,318C YISHUN GREENWALK,"S$ 632,000",HDB 4-Room,27,2014,S$ 638 psf,990 sqft,318C Yishun Avenue 9,3 beds,2 baths,north,2025-03-17
+785,664 WOODLANDS RING ROAD,"S$ 590,000",HDB 4-Room,Woodlands,1996,S$ 543 psf,"1,087 sqft",Woodlands Ring Road,3 beds,2 baths,north,2025-03-17
+786,512C YISHUN STREET 51,"S$ 599,999",HDB 4-Room,Yishun,2016,S$ 599 psf,"1,001 sqft",Yishun Street 51,3 beds,2 baths,north,2025-03-17
+787,686B WOODLANDS DRIVE 73,"S$ 590,000",HDB 4-Room,Woodlands,2001,S$ 584 psf,"1,011 sqft",Woodlands Drive 73,3 beds,2 baths,north,2025-03-17
+788,201 MARSILING DRIVE,"S$ 460,000",HDB 4-Room,Woodlands,1980,S$ 469 psf,980 sqft,Marsiling Drive,3 beds,2 baths,north,2025-03-17
+789,126D CANBERRA STREET,"S$ 699,999",HDB 4-Room,Sembawang,2019,S$ 699 psf,"1,001 sqft",Canberra Street,3 beds,2 baths,north,2025-03-17
+790,254 YISHUN RING ROAD,"S$ 568,000",HDB 4-Room,Yishun,1984,S$ 508 psf,"1,119 sqft",Yishun Ring Road,3 beds,2 baths,north,2025-02-25
+791,843 WOODLANDS STREET 82,"S$ 488,000",HDB 4-Room,Woodlands,1985,S$ 540 psf,904 sqft,Woodlands Street 82,3 beds,2 baths,north,2025-02-25
+792,458 SEGAR ROAD,"S$ 488,000",HDB 3-Room,Bukit Panjang,2010,S$ 667 psf,732 sqft,Segar Road,2 beds,2 baths,north,2025-02-25
+793,451B BUKIT BATOK WEST AVENUE 6,"S$ 670,000",HDB 4-Room,Bukit Batok,2017,S$ 669 psf,"1,001 sqft",Bukit Batok West Avenue 6,3 beds,2 baths,north,2025-02-25
+794,457 SEGAR ROAD,"S$ 700,000",HDB 4PA (Premium Apartment),Bukit Panjang,2011,S$ 714 psf,980 sqft,Segar Road,3 beds,2 baths,north,2025-02-25
+795,265 YISHUN STREET 22,"S$ 550,000",HDB 4-Room,Yishun,1985,S$ 608 psf,904 sqft,Yishun Street 22,3 beds,2 baths,north,2025-02-25
+796,765 WOODLANDS CIRCLE,"S$ 580,000",HDB 4-Room,Woodlands,2001,S$ 599 psf,969 sqft,Woodlands Circle,3 beds,2 baths,north,2025-02-25
+797,506 BUKIT BATOK STREET 52,"S$ 438,888",HDB 3-Room,Bukit Batok,1985,S$ 591 psf,742 sqft,Bukit Batok Street 52,2 beds,1 bath,north,2025-02-25
+798,996B BUANGKOK CRESCENT,"S$ 630,000",HDB 4-Room,Hougang,2018,S$ 629 psf,"1,001 sqft",Buangkok Crescent,3 beds,2 baths,north-east,2025-02-25
+799,127 RIVERVALE STREET,"S$ 600,000",HDB 4-Room,Sengkang,1998,S$ 558 psf,"1,076 sqft",Rivervale Street,3 beds,2 baths,north-east,2025-02-25
+800,659B PUNGGOL EAST,"S$ 658,000",HDB 4-Room,Punggol,2017,S$ 657 psf,"1,001 sqft",Punggol East,3 beds,2 baths,north-east,2025-03-02
+801,289B PUNGGOL PLACE,"S$ 750,000",HDB 4PA (Premium Apartment),Punggol,2011,S$ 711 psf,"1,055 sqft",Punggol Place,3 beds,2 baths,north-east,2025-03-02
+802,986A BUANGKOK CRESCENT,"S$ 538,000",HDB 3-Room,Hougang,2011,S$ 746 psf,721 sqft,Buangkok Crescent,2 beds,3 baths,north-east,2025-03-02
+803,652 HOUGANG AVENUE 8,"S$ 430,000",HDB 3-Room,Hougang,1986,S$ 667 psf,645 sqft,Hougang Avenue 8,2 beds,1 bath,north-east,2025-03-02
+804,21 HOUGANG AVENUE 3,"S$ 530,000",HDB 4-Room,Hougang,1977,S$ 503 psf,"1,054 sqft",Hougang Avenue 3,3 beds,2 baths,north-east,2025-03-02
+805,677B PUNGGOL DRIVE,"S$ 715,000",HDB 4-Room,Punggol,2015,S$ 714 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-03-02
+806,472C FERNVALE STREET,"S$ 650,000",HDB 4-Room,Sengkang,2015,S$ 649 psf,"1,001 sqft",Fernvale Street,3 beds,2 baths,north-east,2025-03-02
+807,469A SENGKANG WEST WAY,"S$ 688,000",HDB 4-Room,Sengkang,2015,S$ 687 psf,"1,001 sqft",Sengkang West Way,3 beds,2 baths,north-east,2025-03-02
+808,455A SENGKANG WEST AVENUE,"S$ 599,000",HDB 4-Room,Sengkang,2019,S$ 598 psf,"1,001 sqft",Sengkang West Avenue,3 beds,2 baths,north-east,2025-03-02
+809,327C ANCHORVALE ROAD,"S$ 688,000",HDB 4-Room,Sengkang,2014,S$ 695 psf,990 sqft,Anchorvale Road,3 beds,2 baths,north-east,2025-03-02
+810,125 RIVERVALE STREET,"S$ 640,000",HDB 4-Room,Sengkang,1998,S$ 595 psf,"1,076 sqft",Rivervale Street,3 beds,2 baths,north-east,2025-03-02
+811,273D COMPASSVALE LINK,"S$ 690,000",HDB 4PA (Premium Apartment),Sengkang,2008,S$ 713 psf,968 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-03-02
+812,544 HOUGANG AVENUE 8,"S$ 720,000",HDB 4-Room,Hougang,1991,S$ 643 psf,"1,119 sqft",Hougang Avenue 8,3 beds,2 baths,north-east,2025-03-02
+813,987A BUANGKOK GREEN,"S$ 695,000",HDB 4-Room,Hougang,2013,S$ 694 psf,"1,001 sqft",Buangkok Green,3 beds,2 baths,north-east,2025-03-02
+814,220A SUMANG LANE,"S$ 660,000",HDB 4-Room,Punggol,2017,S$ 659 psf,"1,001 sqft",Sumang Lane,3 beds,2 baths,north-east,2025-03-02
+815,119 HOUGANG AVENUE 1,"S$ 480,000",HDB 3-Room,Hougang,1980,S$ 666 psf,721 sqft,Hougang Avenue 1,2 beds,2 baths,north-east,2025-03-02
+816,120 SERANGOON NORTH AVENUE 1,"S$ 540,000",HDB 4-Room,Serangoon,1984,S$ 539 psf,"1,001 sqft",Serangoon North Avenue 1,3 beds,2 baths,north-east,2025-03-02
+817,296B COMPASSVALE CRESCENT,"S$ 600,000",HDB 4-Room,19,S$ 620 psf,968 sqft,Compassvale Crescent,,3 beds,2 baths,north-east,2025-03-02
+818,231A SUMANG LANE,"S$ 680,000",HDB 4-Room,Punggol,2017,S$ 679 psf,"1,001 sqft",Sumang Lane,3 beds,2 baths,north-east,2025-03-02
+819,162A PUNGGOL CENTRAL,"S$ 638,000",HDB 4-Room,Punggol,2003,S$ 624 psf,"1,022 sqft",Punggol Central,3 beds,2 baths,north-east,2025-03-02
+820,445A FERNVALE ROAD,"S$ 688,000",HDB 4-Room,Sengkang,2011,S$ 681 psf,"1,011 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-06
+821,224A COMPASSVALE WALK,"S$ 630,000",HDB 4-Room,Sengkang,1998,S$ 574 psf,"1,098 sqft",Compassvale Walk,3 beds,2 baths,north-east,2025-03-06
+822,325B SUMANG WALK,"S$ 715,000",HDB 4-Room,Punggol,2018,S$ 714 psf,"1,001 sqft",Sumang Walk,3 beds,2 baths,north-east,2025-03-06
+823,266B COMPASSVALE BOW,"S$ 700,000",HDB 4-Room,19,99 years,S$ 707 psf,990 sqft,Compassvale Bow,3 beds,2 baths,north-east,2025-03-06
+824,533 SERANGOON NORTH AVENUE 4,"S$ 588,000",HDB 4-Room,Serangoon,1990,S$ 525 psf,"1,119 sqft",Serangoon North Avenue 4,3 beds,3 baths,north-east,2025-03-06
+825,227A COMPASSVALE DRIVE,"S$ 658,888",HDB 4-Room,Sengkang,1998,S$ 600 psf,"1,098 sqft",Compassvale Drive,3 beds,2 baths,north-east,2025-03-06
+826,115 HOUGANG AVENUE 1,"S$ 438,000",HDB 3-Room,Hougang,1981,S$ 607 psf,721 sqft,Hougang Avenue 1,2 beds,2 baths,north-east,2025-03-06
+827,256C SUMANG WALK,"S$ 728,000",HDB 4-Room,Punggol,2015,S$ 727 psf,"1,001 sqft",Sumang Walk,3 beds,2 baths,north-east,2025-03-06
+828,996B BUANGKOK CRESCENT,"S$ 679,000",HDB 4-Room,Hougang,2018,S$ 686 psf,990 sqft,Buangkok Crescent,3 beds,2 baths,north-east,2025-03-06
+829,527 HOUGANG AVENUE 6,"S$ 598,000",HDB 4-Room,Hougang,1986,S$ 662 psf,904 sqft,Hougang Avenue 6,3 beds,2 baths,north-east,2025-03-06
+830,309 HOUGANG AVENUE 5,"S$ 548,000",HDB 3-Room,Hougang,1982,S$ 621 psf,882 sqft,Hougang Avenue 5,3 beds,2 baths,north-east,2025-03-13
+831,232B SUMANG LANE,"S$ 620,000",HDB 4-Room,Punggol,2017,S$ 619 psf,"1,001 sqft",Sumang Lane,3 beds,2 baths,north-east,2025-03-13
+832,205 SERANGOON CENTRAL,"S$ 788,888",HDB 4-Room,Serangoon,1985,"S$ 8,765 psf",90 sqft,Serangoon Central,3 beds,2 baths,north-east,2025-03-13
+833,432A SENGKANG WEST WAY,"S$ 669,000",HDB 4-Room,28,99 years,S$ 668 psf,"1,001 sqft",Sengkang West Way,3 beds,2 baths,north-east,2025-03-13
+834,410B FERNVALE ROAD,"S$ 720,000",HDB 4-Room,Sengkang,2011,S$ 705 psf,"1,022 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-13
+835,642 HOUGANG AVENUE 8,"S$ 430,000",HDB 3-Room,Hougang,1986,S$ 580 psf,742 sqft,Hougang Avenue 8,2 beds,2 baths,north-east,2025-03-13
+836,104A EDGEFIELD PLAINS,"S$ 600,000",HDB 4-Room,Punggol,2001,S$ 620 psf,968 sqft,Edgefield Plains,3 beds,2 baths,north-east,2025-03-13
+837,132 RIVERVALE STREET,"S$ 650,000",HDB 4-Room,Sengkang,1998,S$ 602 psf,"1,079 sqft",Rivervale Street,3 beds,2 baths,north-east,2025-03-13
+838,168B PUNGGOL EAST,"S$ 690,000",HDB 4PA (Premium Apartment),Punggol,2007,S$ 697 psf,990 sqft,Punggol East,3 beds,2 baths,north-east,2025-03-13
+839,310B PUNGGOL WALK,"S$ 736,000",HDB 4PA (Premium Apartment),Punggol,2015,S$ 743 psf,990 sqft,Punggol Walk,3 beds,2 baths,north-east,2025-03-13
+840,410A FERNVALE ROAD,"S$ 660,000",HDB 4-Room,Sengkang,2010,S$ 646 psf,"1,022 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-23
+841,401 HOUGANG AVENUE 10,"S$ 488,000",HDB 3-Room,Hougang,1984,S$ 667 psf,732 sqft,Hougang Avenue 10,2 beds,2 baths,north-east,2025-03-23
+842,991B BUANGKOK LINK,"S$ 650,000",HDB 4-Room,Hougang,2018,S$ 649 psf,"1,001 sqft",Buangkok Link,3 beds,2 baths,north-east,2025-03-23
+843,221 SERANGOON AVENUE 4,"S$ 508,000",HDB 3-Room,Serangoon,1984,S$ 705 psf,721 sqft,Serangoon Avenue 4,2 beds,2 baths,north-east,2025-03-23
+844,196A PUNGGOL FIELD,"S$ 598,000",HDB 4-Room,Punggol,2001,S$ 618 psf,968 sqft,Punggol Field,3 beds,2 baths,north-east,2025-03-23
+845,432A SENGKANG WEST WAY,"S$ 669,000",HDB 4-Room,Sengkang,2013,S$ 668 psf,"1,001 sqft",Sengkang West Way,3 beds,2 baths,north-east,2025-03-23
+846,308B PUNGGOL WALK,"S$ 755,000",HDB 4PA (Premium Apartment),Punggol,2015,S$ 763 psf,990 sqft,Punggol Walk,3 beds,2 baths,north-east,2025-03-23
+847,213B PUNGGOL WALK,"S$ 750,000",HDB 4-Room,Punggol,2013,S$ 750 psf,"1,000 sqft",Punggol Walk,3 beds,2 baths,north-east,2025-03-23
+848,614A EDGEFIELD PLAINS,"S$ 668,000",HDB 4-Room,Punggol,2011,S$ 675 psf,990 sqft,Edgefield Plains,3 beds,2 baths,north-east,2025-03-23
+849,277A COMPASSVALE LINK,"S$ 850,000",HDB 4-Room,Sengkang,2008,S$ 859 psf,990 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-03-23
+850,376B HOUGANG STREET 32,"S$ 680,000",HDB 4-Room,Hougang,2015,S$ 687 psf,990 sqft,Hougang Street 32,3 beds,2 baths,north-east,2025-03-25
+851,452B SENGKANG WEST WAY,"S$ 598,000",HDB 4-Room,Sengkang,2013,S$ 604 psf,990 sqft,Sengkang West Way,3 beds,2 baths,north-east,2025-03-25
+852,261C PUNGGOL WAY,"S$ 718,000",HDB 4-Room,Punggol,2014,S$ 717 psf,"1,001 sqft",Punggol Way,3 beds,2 baths,north-east,2025-03-25
+853,303 SERANGOON AVENUE 2,"S$ 450,000",HDB 3-Room,Serangoon,1984,S$ 698 psf,645 sqft,Serangoon Avenue 2,2 beds,1 bath,north-east,2025-03-25
+854,441D FERNVALE ROAD,"S$ 738,000",HDB 4-Room,Sengkang,2010,S$ 737 psf,"1,001 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-25
+855,108 RIVERVALE WALK,"S$ 595,000",HDB 4-Room,Sengkang,1998,S$ 595 psf,"1,000 sqft",Rivervale Walk,3 beds,2 baths,north-east,2025-03-25
+856,406A FERNVALE ROAD,"S$ 600,000",HDB 4-Room,Sengkang,2002,S$ 620 psf,968 sqft,Fernvale Road,3 beds,2 baths,north-east,2025-03-25
+857,323 SERANGOON AVENUE 3,"S$ 780,000",HDB 4-Room,Serangoon,1985,S$ 824 psf,947 sqft,Serangoon Avenue 3,3 beds,2 baths,north-east,2025-03-25
+858,473B UPPER SERANGOON CRESCENT,"S$ 490,000",HDB 3-Room,Serangoon,2015,S$ 670 psf,731 sqft,Upper Serangoon Crescent,2 beds,2 baths,north-east,2025-03-25
+859,266C COMPASSVALE BOW,"S$ 740,000",HDB 4-Room,Sengkang,2006,S$ 747 psf,990 sqft,Compassvale Bow,3 beds,2 baths,north-east,2025-03-25
+860,253 HOUGANG AVENUE 3,"S$ 550,000",HDB 4-Room,Hougang,1983,S$ 562 psf,979 sqft,Hougang Avenue 3,3 beds,2 baths,north-east,2025-03-04
+861,296B COMPASSVALE CRESCENT,"S$ 600,000",HDB 4-Room,Sengkang,2000,S$ 620 psf,968 sqft,Compassvale Crescent,3 beds,2 baths,north-east,2025-03-04
+862,635A PUNGGOL DRIVE,"S$ 670,000",HDB 4-Room,Punggol,2006,S$ 684 psf,980 sqft,Punggol Drive,3 beds,2 baths,north-east,2025-03-04
+863,277A COMPASSVALE LINK,"S$ 850,000",HDB 4-Room,19,99 years,S$ 859 psf,990 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-03-04
+864,210 HOUGANG STREET 21,"S$ 800,000",HDB 3-Room,Hougang,1983,S$ 808 psf,990 sqft,Hougang Street 21,2 beds,2 baths,north-east,2025-03-04
+865,612C PUNGGOL DRIVE,"S$ 640,000",HDB 4-Room,Punggol,2011,S$ 640 psf,"1,000 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-03-04
+866,274D PUNGGOL PLACE,"S$ 808,000",HDB 4-Room,Punggol,2011,S$ 783 psf,"1,032 sqft",Punggol Place,3 beds,2 baths,north-east,2025-03-04
+867,470A UPPER SERANGOON CRESCENT,"S$ 700,000",HDB 4-Room,Serangoon,2014,S$ 707 psf,990 sqft,Upper Serangoon Crescent,3 beds,2 baths,north-east,2025-03-04
+868,436C FERNVALE ROAD,"S$ 800,000",HDB 4-Room,Sengkang,2007,S$ 775 psf,"1,032 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-04
+869,185C RIVERVALE CRESCENT,"S$ 600,000",HDB 4-Room,Sengkang,1999,S$ 656 psf,914 sqft,Rivervale Crescent,3 beds,2 baths,north-east,2025-03-04
+870,257A COMPASSVALE ROAD,"S$ 760,000",HDB 4-Room,Sengkang,1999,S$ 785 psf,968 sqft,Compassvale Road,3 beds,2 baths,north-east,2025-02-26
+871,124 RIVERVALE DRIVE,"S$ 580,000",HDB 4-Room,Sengkang,1997,S$ 534 psf,"1,087 sqft",Rivervale Drive,3 beds,2 baths,north-east,2025-02-26
+872,302C PUNGGOL PLACE,"S$ 660,000",HDB 4PA (Premium Apartment),Punggol,2009,S$ 653 psf,"1,011 sqft",Punggol Place,3 beds,2 baths,north-east,2025-02-26
+873,157B RIVERVALE CRESCENT,"S$ 610,000",HDB 4PA (Premium Apartment),Sengkang,2001,S$ 630 psf,968 sqft,Rivervale Crescent,3 beds,2 baths,north-east,2025-02-26
+874,476A UPPER SERANGOON VIEW,"S$ 800,000",HDB 4PA (Premium Apartment),Serangoon,2014,S$ 782 psf,"1,023 sqft",Upper Serangoon View,3 beds,2 baths,north-east,2025-02-26
+875,663C PUNGGOL DRIVE,"S$ 665,000",HDB 4-Room,Punggol,S$ 686 psf,969 sqft,Punggol Drive,,3 beds,2 baths,north-east,2025-02-26
+876,436A FERNVALE ROAD,"S$ 680,000",HDB 4-Room,Sengkang,2008,S$ 658 psf,"1,033 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-02-26
+877,997C BUANGKOK CRESCENT,"S$ 680,000",HDB 4-Room,Hougang,2017,S$ 679 psf,"1,001 sqft",Buangkok Crescent,3 beds,2 baths,north-east,2025-02-26
+878,217 SERANGOON AVENUE 4,"S$ 550,000",HDB 3-Room,Serangoon,1984,S$ 763 psf,721 sqft,Serangoon Avenue 4,2 beds,2 baths,north-east,2025-02-26
+879,612D PUNGGOL DRIVE,"S$ 725,000",HDB 4-Room,Punggol,2011,S$ 724 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-02-26
+880,658C PUNGGOL EAST,"S$ 675,000",HDB 4-Room,19,S$ 674 psf,"1,001 sqft",Punggol East,,3 beds,2 baths,north-east,2025-03-19
+881,265E COMPASSVALE BOW,"S$ 740,000",HDB 4PA (Premium Apartment),Sengkang,S$ 747 psf,990 sqft,Compassvale Bow,,3 beds,2 baths,north-east,2025-03-19
+882,994C BUANGKOK LINK,"S$ 675,000",HDB 4-Room,19,S$ 674 psf,"1,001 sqft",Buangkok Link,,3 beds,2 baths,north-east,2025-03-19
+883,445A FERNVALE ROAD,"S$ 688,000",HDB 4-Room,Sengkang,2011,S$ 681 psf,"1,011 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-19
+884,470A UPPER SERANGOON CRESCENT,"S$ 780,000",HDB 4-Room,Serangoon,2014,S$ 788 psf,990 sqft,Upper Serangoon Crescent,3 beds,2 baths,north-east,2025-03-19
+885,289D PUNGGOL PLACE,"S$ 799,000",HDB 4PA (Premium Apartment),Punggol,2011,S$ 750 psf,"1,065 sqft",Punggol Place,3 beds,2 baths,north-east,2025-03-19
+886,166 HOUGANG AVENUE 1,"S$ 649,000",HDB 4-Room,Hougang,1996,S$ 597 psf,"1,087 sqft",Hougang Avenue 1,3 beds,2 baths,north-east,2025-03-19
+887,273D COMPASSVALE LINK,"S$ 758,000",HDB 4-Room,Sengkang,2008,S$ 766 psf,990 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-03-19
+888,458 HOUGANG AVENUE 10,"S$ 730,000",HDB 4-Room,Hougang,1990,S$ 652 psf,"1,119 sqft",Hougang Avenue 10,4 beds,2 baths,north-east,2025-03-19
+889,323C SUMANG WALK,"S$ 748,000",HDB 4-Room,Punggol,2018,S$ 747 psf,"1,001 sqft",Sumang Walk,3 beds,2 baths,north-east,2025-03-19
+890,994A BUANGKOK LINK,"S$ 688,888",HDB 4-Room,Hougang,2019,S$ 688 psf,"1,001 sqft",Buangkok Link,3 beds,2 baths,north-east,2025-03-19
+891,614A EDGEFIELD PLAINS,"S$ 675,000",HDB 4-Room,Punggol,2011,S$ 682 psf,990 sqft,Edgefield Plains,3 beds,2 baths,north-east,2025-03-19
+892,439 HOUGANG AVENUE 8,"S$ 718,888",HDB 4-Room,Hougang,1990,S$ 630 psf,"1,141 sqft",Hougang Avenue 8,3 beds,2 baths,north-east,2025-03-19
+893,266B PUNGGOL WAY,"S$ 688,888",HDB 4-Room,Punggol,2014,S$ 696 psf,990 sqft,Punggol Way,3 beds,2 baths,north-east,2025-03-19
+894,307 SERANGOON AVENUE 2,"S$ 690,000",HDB 4-Room,Serangoon,1984,S$ 704 psf,980 sqft,Serangoon Avenue 2,3 beds,2 baths,north-east,2025-03-19
+895,662C EDGEDALE PLAINS,"S$ 699,000",HDB 4PA (Premium Apartment),Punggol,2016,S$ 706 psf,990 sqft,Edgedale Plains,3 beds,2 baths,north-east,2025-03-19
+896,993A BUANGKOK LINK,"S$ 570,000",HDB 3-Room,Hougang,2019,S$ 779 psf,732 sqft,Buangkok Link,2 beds,2 baths,north-east,2025-03-19
+897,987A BUANGKOK GREEN,"S$ 650,000",HDB 4-Room,Hougang,2013,S$ 649 psf,"1,001 sqft",Buangkok Green,3 beds,2 baths,north-east,2025-03-19
+898,467A FERNVALE LINK,"S$ 548,888",HDB 3-Room,Sengkang,2015,S$ 751 psf,731 sqft,Fernvale Link,2 beds,2 baths,north-east,2025-03-19
+899,266B PUNGGOL WAY,"S$ 520,000",HDB 3-Room,Punggol,2014,S$ 711 psf,731 sqft,Punggol Way,2 beds,2 baths,north-east,2025-03-19
+900,24 HOUGANG AVENUE 3,"S$ 435,000",HDB 3-Room,Hougang,1977,S$ 603 psf,721 sqft,Hougang Avenue 3,2 beds,2 baths,north-east,2025-02-27
+901,411 SERANGOON CENTRAL,"S$ 899,000",HDB 4-Room,Serangoon,1988,S$ 811 psf,"1,108 sqft",Serangoon Central,3 beds,2 baths,north-east,2025-02-27
+902,272D SENGKANG CENTRAL,"S$ 880,000",HDB 4-Room,Sengkang,2008,S$ 908 psf,969 sqft,Sengkang Central,3 beds,2 baths,north-east,2025-02-27
+903,178D RIVERVALE CRESCENT,"S$ 648,888",HDB 4-Room,Sengkang,2013,S$ 648 psf,"1,001 sqft",Rivervale Crescent,3 beds,2 baths,north-east,2025-02-27
+904,331C ANCHORVALE STREET,"S$ 698,888",HDB 4-Room,Sengkang,2014,S$ 706 psf,990 sqft,Anchorvale Street,3 beds,2 baths,north-east,2025-02-27
+905,259B PUNGGOL FIELD,"S$ 780,000",HDB 4-Room,Punggol,2014,S$ 779 psf,"1,001 sqft",Punggol Field,3 beds,2 baths,north-east,2025-02-27
+906,932B HOUGANG AVENUE 9,"S$ 738,000",HDB 4-Room,Hougang,2016,S$ 745 psf,990 sqft,Hougang Avenue 9,2 beds,2 baths,north-east,2025-02-27
+907,305D PUNGGOL DRIVE,"S$ 678,000",HDB 4PA (Premium Apartment),Punggol,2010,S$ 677 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-02-27
+908,252 HOUGANG AVENUE 3,"S$ 599,000",HDB 4-Room,Hougang,1984,S$ 598 psf,"1,001 sqft",Hougang Avenue 3,3 beds,2 baths,north-east,2025-02-27
+909,220A SUMANG LANE,"S$ 680,000",HDB 4-Room,Punggol,2017,S$ 679 psf,"1,001 sqft",Sumang Lane,3 beds,2 baths,north-east,2025-02-27
+910,470B FERNVALE LINK,"S$ 688,000",HDB 4-Room,Sengkang,2015,S$ 687 psf,"1,001 sqft",Fernvale Link,3 beds,2 baths,north-east,2025-03-26
+911,613B PUNGGOL DRIVE,"S$ 650,000",HDB 4-Room,Punggol,2011,S$ 649 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-03-26
+912,988B BUANGKOK GREEN,"S$ 648,888",HDB 4-Room,Hougang,2013,S$ 648 psf,"1,001 sqft",Buangkok Green,3 beds,2 baths,north-east,2025-03-26
+913,208A PUNGGOL PLACE,"S$ 520,000",HDB 3-Room,Punggol,2013,S$ 721 psf,721 sqft,Punggol Place,2 beds,2 baths,north-east,2025-03-26
+914,174A HOUGANG AVENUE 1,"S$ 530,000",HDB 3-Room,Hougang,2013,S$ 746 psf,710 sqft,Hougang Avenue 1,2 beds,2 baths,north-east,2025-03-26
+915,226C SUMANG LANE,"S$ 800,000",HDB 4-Room,Punggol,2017,S$ 799 psf,"1,001 sqft",Sumang Lane,3 beds,2 baths,north-east,2025-03-26
+916,313A SUMANG LINK,"S$ 549,000",HDB 3-Room,Punggol,2014,S$ 750 psf,732 sqft,Sumang Link,2 beds,2 baths,north-east,2025-03-26
+917,188A RIVERVALE DRIVE,"S$ 598,000",HDB 4-Room,Sengkang,1998,S$ 585 psf,"1,022 sqft",Rivervale Drive,3 beds,2 baths,north-east,2025-03-26
+918,281B SENGKANG EAST AVENUE,"S$ 818,000",HDB 4-Room,Sengkang,2014,S$ 826 psf,990 sqft,Sengkang East Avenue,3 beds,2 baths,north-east,2025-03-26
+919,212C COMPASSVALE DRIVE,"S$ 670,000",HDB 4PA (Premium Apartment),Sengkang,2011,S$ 636 psf,"1,054 sqft",Compassvale Drive,3 beds,2 baths,north-east,2025-03-26
+920,996B BUANGKOK CRESCENT,"S$ 678,000",HDB 4-Room,19,S$ 685 psf,990 sqft,Buangkok Crescent,,3 beds,2 baths,north-east,2025-03-11
+921,221 SERANGOON AVENUE 4,"S$ 500,000",HDB 3-Room,Serangoon,1984,S$ 693 psf,721 sqft,Serangoon Avenue 4,2 beds,2 baths,north-east,2025-03-11
+922,410B FERNVALE ROAD,"S$ 720,000",HDB 4-Room,Sengkang,2011,S$ 705 psf,"1,022 sqft",Fernvale Road,3 beds,2 baths,north-east,2025-03-11
+923,135 LORONG AH SOO,"S$ 600,000",HDB 4-Room,Hougang,1984,S$ 536 psf,"1,119 sqft",Lorong Ah Soo,3 beds,2 baths,north-east,2025-03-11
+924,991B BUANGKOK LINK,"S$ 520,000",HDB 3-Room,Hougang,2018,S$ 711 psf,731 sqft,Buangkok Link,2 beds,2 baths,north-east,2025-03-11
+925,272D SENGKANG CENTRAL,"S$ 838,888",HDB 4PA (Premium Apartment),Sengkang,2008,S$ 866 psf,969 sqft,Sengkang Central,3 beds,2 baths,north-east,2025-03-11
+926,15 HOUGANG AVENUE 3,"S$ 498,000",HDB 4-Room,Hougang,1975,S$ 564 psf,883 sqft,Hougang Avenue 3,3 beds,1 bath,north-east,2025-03-11
+927,220 SERANGOON AVENUE 4,"S$ 668,000",HDB 4-Room,Serangoon,1984,S$ 682 psf,980 sqft,Serangoon Avenue 4,3 beds,2 baths,north-east,2025-03-11
+928,353B ANCHORVALE LANE,"S$ 780,000",HDB 4-Room,Sengkang,2019,S$ 779 psf,"1,001 sqft",Anchorvale Lane,4 beds,2 baths,north-east,2025-03-11
+929,268A COMPASSVALE LINK,"S$ 580,000",HDB 4PA (Premium Apartment),Sengkang,2004,S$ 599 psf,969 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-03-11
+930,232C SUMANG LANE,"S$ 398,000",HDB 3-Room,Punggol,2017,S$ 788 psf,505 sqft,Sumang Lane,1 bed,1 bath,north-east,2025-02-27
+931,213B COMPASSVALE LANE,"S$ 720,000",HDB 4PA (Premium Apartment),Sengkang,2011,S$ 676 psf,"1,065 sqft",Compassvale Lane,3 beds,2 baths,north-east,2025-02-27
+932,266B COMPASSVALE BOW,"S$ 698,000",HDB 4-Room,Sengkang,2006,S$ 705 psf,990 sqft,Compassvale Bow,3 beds,2 baths,north-east,2025-02-27
+933,216A COMPASSVALE DRIVE,"S$ 848,000",HDB 4PA (Premium Apartment),Sengkang,2015,S$ 857 psf,990 sqft,Compassvale Drive,3 beds,2 baths,north-east,2025-02-27
+934,170 HOUGANG AVENUE 1,"S$ 625,000",HDB 4-Room,Hougang,1996,S$ 575 psf,"1,087 sqft",Hougang Avenue 1,3 beds,2 baths,north-east,2025-02-27
+935,152 SERANGOON NORTH AVENUE 1,"S$ 475,000",HDB 3-Room,Serangoon,1985,S$ 689 psf,689 sqft,Serangoon North Avenue 1,2 beds,2 baths,north-east,2025-02-27
+936,322C SUMANG WALK,"S$ 588,000",HDB 3-Room,Punggol,2018,S$ 803 psf,732 sqft,Sumang Walk,2 beds,2 baths,north-east,2025-02-27
+937,614B EDGEFIELD PLAINS,"S$ 675,000",HDB 4-Room,Punggol,2011,S$ 682 psf,990 sqft,Edgefield Plains,3 beds,2 baths,north-east,2025-02-27
+938,684A EDGEDALE PLAINS,"S$ 750,000",HDB 4PA (Premium Apartment),Punggol,2017,S$ 749 psf,"1,001 sqft",Edgedale Plains,3 beds,2 baths,north-east,2025-02-27
+939,612D PUNGGOL DRIVE,"S$ 780,000",HDB 4-Room,Punggol,2011,S$ 779 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-02-27
+940,213B PUNGGOL WALK,"S$ 750,000",HDB 4-Room,Punggol,2013,S$ 750 psf,"1,000 sqft",Punggol Walk,3 beds,2 baths,north-east,2025-03-23
+941,642 HOUGANG AVENUE 8,"S$ 418,000",HDB 3-Room,Hougang,1986,S$ 637 psf,656 sqft,Hougang Avenue 8,2 beds,1 bath,north-east,2025-03-23
+942,671 HOUGANG AVENUE 8,"S$ 600,000",HDB 4-Room,Hougang,1987,S$ 536 psf,"1,120 sqft",Hougang Avenue 8,3 beds,2 baths,north-east,2025-03-23
+943,305D PUNGGOL DRIVE,"S$ 678,000",HDB 4PA (Premium Apartment),Punggol,2010,S$ 677 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-03-23
+944,421 HOUGANG AVENUE 10,"S$ 805,000",HDB 4-Room,Hougang,1988,S$ 662 psf,"1,216 sqft",Hougang Avenue 10,4 beds,2 baths,north-east,2025-03-23
+945,668A EDGEFIELD PLAINS,"S$ 680,000",HDB 4PA (Premium Apartment),Punggol,2015,S$ 679 psf,"1,001 sqft",Edgefield Plains,3 beds,2 baths,north-east,2025-03-23
+946,416A FERNVALE LINK,"S$ 668,000",HDB 4-Room,Sengkang,2014,S$ 667 psf,"1,001 sqft",Fernvale Link,3 beds,2 baths,north-east,2025-03-23
+947,296B COMPASSVALE CRESCENT,"S$ 600,000",HDB 4-Room,Sengkang,2000,S$ 620 psf,968 sqft,Compassvale Crescent,3 beds,2 baths,north-east,2025-03-23
+948,433A SENGKANG WEST WAY,"S$ 643,000",HDB 4-Room,Sengkang,2013,S$ 642 psf,"1,001 sqft",Sengkang West Way,3 beds,2 baths,north-east,2025-03-23
+949,401 SERANGOON AVENUE 1,"S$ 928,000",HDB 4-Room,Serangoon,1988,S$ 791 psf,"1,173 sqft",Serangoon Avenue 1,3 beds,2 baths,north-east,2025-03-23
+950,271C SENGKANG CENTRAL,"S$ 750,000",HDB 4PA (Premium Apartment),Sengkang,2008,S$ 749 psf,"1,001 sqft",Sengkang Central,3 beds,2 baths,north-east,2025-03-24
+951,604A PUNGGOL ROAD,"S$ 628,000",HDB 4-Room,Punggol,2010,S$ 634 psf,990 sqft,Punggol Road,3 beds,2 baths,north-east,2025-03-24
+952,406A FERNVALE ROAD,"S$ 599,999",HDB 4-Room,Sengkang,2002,S$ 620 psf,968 sqft,Fernvale Road,3 beds,2 baths,north-east,2025-03-24
+953,169B PUNGGOL FIELD,"S$ 699,000",HDB 4-Room,Punggol,2012,S$ 698 psf,"1,001 sqft",Punggol Field,3 beds,2 baths,north-east,2025-03-24
+954,450A SENGKANG WEST WAY,"S$ 630,000",HDB 4-Room,Sengkang,2012,S$ 636 psf,990 sqft,Sengkang West Way,3 beds,2 baths,north-east,2025-03-24
+955,338B ANCHORVALE CRESCENT,"S$ 780,000",HDB 4-Room,Sengkang,2017,S$ 779 psf,"1,001 sqft",Anchorvale Crescent,2 beds,2 baths,north-east,2025-03-24
+956,266B COMPASSVALE BOW,"S$ 710,000",HDB 4PA (Premium Apartment),Sengkang,S$ 717 psf,990 sqft,Compassvale Bow,,3 beds,2 baths,north-east,2025-03-24
+957,637A PUNGGOL DRIVE,"S$ 650,000",HDB 4-Room,Punggol,2003,S$ 657 psf,990 sqft,Punggol Drive,3 beds,2 baths,north-east,2025-03-24
+958,170 HOUGANG AVENUE 1,"S$ 688,000",HDB 4-Room,Hougang,1996,S$ 633 psf,"1,087 sqft",Hougang Avenue 1,3 beds,2 baths,north-east,2025-03-24
+959,418C FERNVALE LINK,"S$ 750,000",HDB 4-Room,Sengkang,2017,S$ 742 psf,"1,011 sqft",Fernvale Link,3 beds,2 baths,north-east,2025-03-24
+960,275A COMPASSVALE LINK,"S$ 828,000",HDB 4PA (Premium Apartment),Sengkang,2007,S$ 836 psf,990 sqft,Compassvale Link,3 beds,2 baths,north-east,2025-02-27
+961,209C COMPASSVALE LANE,"S$ 668,000",HDB 4-Room,Sengkang,2010,S$ 675 psf,990 sqft,Compassvale Lane,3 beds,2 baths,north-east,2025-02-27
+962,601C PUNGGOL CENTRAL,"S$ 648,000",HDB 4-Room,Punggol,2010,S$ 647 psf,"1,001 sqft",Punggol Central,3 beds,2 baths,north-east,2025-02-27
+963,667A PUNGGOL DRIVE,"S$ 698,000",HDB 4PA (Premium Apartment),Punggol,2014,S$ 697 psf,"1,001 sqft",Punggol Drive,3 beds,2 baths,north-east,2025-02-27
+964,259A COMPASSVALE ROAD,"S$ 580,000",HDB 4-Room,Sengkang,1999,S$ 599 psf,968 sqft,Compassvale Road,3 beds,2 baths,north-east,2025-02-27
+965,218 SERANGOON AVENUE 4,"S$ 480,000",HDB 3-Room,Serangoon,1984,S$ 666 psf,721 sqft,Serangoon Avenue 4,2 beds,2 baths,north-east,2025-02-27
+966,405B NORTHSHORE DRIVE,"S$ 700,000",HDB 4-Room,Punggol,2020,S$ 692 psf,"1,011 sqft",Northshore Drive,3 beds,2 baths,north-east,2025-02-27
+967,683B EDGEDALE PLAINS,"S$ 760,000",HDB 4PA (Premium Apartment),Punggol,2017,S$ 759 psf,"1,001 sqft",Edgedale Plains,3 beds,2 baths,north-east,2025-02-27
+968,116B RIVERVALE DRIVE,"S$ 595,000",HDB 4-Room,Sengkang,1998,S$ 582 psf,"1,022 sqft",Rivervale Drive,3 beds,2 baths,north-east,2025-02-27
+969,612C PUNGGOL DRIVE,"S$ 695,000",HDB 4-Room,Punggol,2011,S$ 694 psf,"1,001 sqft",Punggol Drive,2 beds,2 baths,north-east,2025-02-27
+970,304 SERANGOON AVENUE 2,"S$ 688,888",HDB 4-Room,Serangoon,1984,S$ 673 psf,"1,023 sqft",Serangoon Avenue 2,3 beds,2 baths,north-east,2025-02-27
+971,271C PUNGGOL WALK,"S$ 780,000",HDB 4-Room,Punggol,2012,S$ 779 psf,"1,001 sqft",Punggol Walk,3 beds,2 baths,north-east,2025-02-27
+972,269B PUNGGOL FIELD,"S$ 750,000",HDB 4PA (Premium Apartment),Punggol,2011,S$ 749 psf,"1,001 sqft",Punggol Field,3 beds,2 baths,north-east,2025-02-27
+973,296B COMPASSVALE CRESCENT,"S$ 600,000",HDB 4-Room,Sengkang,2000,S$ 620 psf,968 sqft,Compassvale Crescent,3 beds,2 baths,north-east,2025-02-27
+974,405B NORTHSHORE DRIVE,"S$ 820,000",HDB 4-Room,Punggol,2020,S$ 810 psf,"1,012 sqft",Northshore Drive,3 beds,2 baths,north-east,2025-02-27
+975,427 SERANGOON CENTRAL,"S$ 868,000",HDB 4-Room,Serangoon,1988,S$ 768 psf,"1,130 sqft",Serangoon Central,3 beds,2 baths,north-east,2025-02-27
+976,615A EDGEFIELD PLAINS,"S$ 679,000",HDB 4-Room,Punggol,2011,S$ 686 psf,990 sqft,Edgefield Plains,3 beds,2 baths,north-east,2025-02-27
+977,981C BUANGKOK CRESCENT,"S$ 598,000",HDB 4-Room,Hougang,2001,S$ 618 psf,968 sqft,Buangkok Crescent,3 beds,2 baths,north-east,2025-02-27
+978,241 HOUGANG STREET 22,"S$ 475,000",HDB 3-Room,Hougang,1984,S$ 532 psf,893 sqft,Hougang Street 22,2 beds,1 bath,north-east,2025-02-27
+979,302B PUNGGOL PLACE,"S$ 770,000",HDB 4-Room,Punggol,2009,S$ 769 psf,"1,001 sqft",Punggol Place,3 beds,2 baths,north-east,2025-02-27
+980,225 SERANGOON AVENUE 4,"S$ 500,000",HDB 3-Room,Serangoon,1984,S$ 693 psf,721 sqft,Serangoon Avenue 4,2 beds,2 baths,north-east,2025-03-27
+981,406A NORTHSHORE DRIVE,"S$ 798,000",HDB 4-Room,Punggol,2020,S$ 789 psf,"1,012 sqft",Northshore Drive,3 beds,2 baths,north-east,2025-03-27
+982,440C FERNVALE LINK,"S$ 750,000",HDB 4-Room,Sengkang,2014,S$ 758 psf,990 sqft,Fernvale Link,3 beds,2 baths,north-east,2025-03-27
+983,475A UPPER SERANGOON CRESCENT,"S$ 828,000",HDB 4-Room,Serangoon,2014,S$ 836 psf,990 sqft,Upper Serangoon Crescent,3 beds,2 baths,north-east,2025-03-27
+984,627 HOUGANG AVENUE 8,"S$ 550,000",HDB 4-Room,Hougang,1986,S$ 608 psf,904 sqft,Hougang Avenue 8,3 beds,2 baths,north-east,2025-03-27
+985,433A SENGKANG WEST WAY,"S$ 680,000",HDB 4-Room,Sengkang,2013,S$ 679 psf,"1,001 sqft",Sengkang West Way,3 beds,2 baths,north-east,2025-03-27
+986,365C UPPER SERANGOON ROAD,"S$ 798,000",HDB 4-Room,Serangoon,S$ 806 psf,990 sqft,Upper Serangoon Road,,3 beds,2 baths,north-east,2025-03-27
+987,670C EDGEFIELD PLAINS,"S$ 699,999",HDB 4-Room,Punggol,2015,S$ 699 psf,"1,001 sqft",Edgefield Plains,3 beds,2 baths,north-east,2025-03-27
+988,978D BUANGKOK CRESCENT,"S$ 590,000",HDB 4-Room,Hougang,2001,S$ 609 psf,969 sqft,Buangkok Crescent,3 beds,2 baths,north-east,2025-03-27
+989,1 LORONG LEW LIAN,"S$ 500,000",HDB 3-Room,Serangoon,1977,S$ 726 psf,689 sqft,Lorong Lew Lian,2 beds,1 bath,north-east,2025-03-27
+990,203A COMPASSVALE ROAD,"S$ 590,000",HDB 4-Room,Sengkang,1999,S$ 596 psf,990 sqft,Compassvale Road,3 beds,2 baths,north-east,2025-03-19
+991,282B SENGKANG EAST AVENUE,"S$ 888,000",HDB 4PA (Premium Apartment),Sengkang,2014,S$ 897 psf,990 sqft,Sengkang East Avenue,3 beds,2 baths,north-east,2025-03-19
+992,180A RIVERVALE CRESCENT,"S$ 530,000",HDB 3-Room,Sengkang,2012,S$ 735 psf,721 sqft,Rivervale Crescent,2 beds,2 baths,north-east,2025-03-19
+993,439A SENGKANG WEST AVENUE,"S$ 708,000",HDB 4-Room,Sengkang,2009,S$ 700 psf,"1,011 sqft",Sengkang West Avenue,3 beds,2 baths,north-east,2025-03-19
+994,173 HOUGANG AVENUE 1,"S$ 628,000",HDB 4-Room,Hougang,1996,S$ 572 psf,"1,098 sqft",Hougang Avenue 1,3 beds,2 baths,north-east,2025-03-19
+995,266B COMPASSVALE BOW,"S$ 710,000",HDB 4-Room,19,99 years,S$ 717 psf,990 sqft,Compassvale Bow,3 beds,2 baths,north-east,2025-03-19
+996,204B COMPASSVALE DRIVE,"S$ 630,000",HDB 4-Room,Sengkang,1999,S$ 650 psf,969 sqft,Compassvale Drive,3 beds,2 baths,north-east,2025-03-19
