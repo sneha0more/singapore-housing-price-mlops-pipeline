@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743944982043
+current_stage: None
+description: ''
+last_updated_timestamp: 1743944982043
+name: linear_reg_model
+run_id: aa35d823471a4d57b1fccc3a36c2d3d8
+run_link: ''
+source: mlflow-artifacts:/962538904060235529/aa35d823471a4d57b1fccc3a36c2d3d8/artifacts/linear_reg_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/962538904060235529/aa35d823471a4d57b1fccc3a36c2d3d8/artifacts/linear_reg_model
+user_id: null
+version: 3

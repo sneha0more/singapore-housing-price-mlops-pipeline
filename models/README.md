@@ -10,16 +10,16 @@ This folder contains everything needed to set up and load the ML models and MLfl
 
 2. Each script trains the model and logs it to MLflow.
 
-3. Everyone uses the same tracking URI (http://localhost:5000).
+3. Everyone uses the same tracking URI.
 
-4. Once all models are trained, we use `compare_models.py` and use tracking URI (http://localhost:5000) to compare them side-by-side.
+4. Once all models are trained, we use `compare_models.py` and use tracking URI to compare them side-by-side.
 
 ---
 
 ## Setup Steps 
 
 ### Requirements
-- Ensure that you have set up docker and MySQL
+- Ensure that you have set up docker and MySQL. Refer to instructions in housing_loader_package folder.
 
 ### How to Build Your Model Script 
 
@@ -36,7 +36,7 @@ This folder contains everything needed to set up and load the ML models and MLfl
     - Set your experiment name 
 
     ```python
-    mlflow.set_tracking_uri('http://localhost:5000') 
+    mlflow.set_tracking_uri('http://127.0.0.1:5000') 
     mlflow.set_experiment('your_model_name')
     ```
     
@@ -52,12 +52,12 @@ This folder contains everything needed to set up and load the ML models and MLfl
 1. Run this to start a local MLflow Tracking Server
 
 ```bash
-mlflow ui --port 5000
+python -m mlflow server --host 127.0.0.1 --port 5000 
 ```
 
 2. Run your model script locally 
 
-3. Proceed to the uri ('http://localhost:5000') 
+3. Proceed to the uri ('http://127.0.0.1:5000') 
 
 4. You can find your model under the 'Models' tab 
 
@@ -74,26 +74,27 @@ All model scripts should be in `/models` folder, and tracking uris in every scri
 
 Run this to start a MLflow Tracking Server
 ```bash
-mlflow ui --host 0.0.0.0 --port 5000
+python -m mlflow server --host 127.0.0.1 --port 5000 
 ```
 
 Run all scripts in `/models` folder 
 
 - Important: Note down the model uri for each model ran, 'runs:/xyz123/model_name' in the output 
 
-Open MLflow UI through the uri ('http://localhost:5000') 
+Open MLflow UI through the uri ('http://127.0.0.1:5000') 
 
 Check that all models are logged under 'Experiments' tab on the UI
 - Select all the experiments and click on 'Chart View' icon to compare metrics across different models  
 
 Write in all the model uris in `compare_models.py` and run the script 
 
-The prediction results of each model will be saved as a csv file. 
+The prediction results of all models will be saved as a csv file. 
 
 ---
 ## Folder Contents
 
-- `*_model.csv`: Script for each model 
+- `baseline_model.py`: Script for baseline model 
+- `alternative_model_*.py`: Scripts for alternative models
 - `compare_models.py`: Script to compare all models
 - `requirements.txt`: Python packages
 

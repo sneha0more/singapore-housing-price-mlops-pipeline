@@ -1,0 +1,48 @@
+artifact_path: linear_reg_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+is_signature_from_type_hint: false
+mlflow_version: 2.21.2
+model_size_bytes: 160611
+model_uuid: d6859e3e5b19420b85918800b68f5f06
+prompts: null
+run_id: 664e8da235cd4727827117460bc3a1ac
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "build_year", "required": true}, {"type": "double",
+    "name": "flat_age", "required": true}, {"type": "double", "name": "lease_remaining",
+    "required": true}, {"type": "long", "name": "is_central", "required": true}, {"type":
+    "long", "name": "is_mature_town", "required": true}, {"type": "integer", "name":
+    "district_Bedok, Upper East Coast, Eastwood, Kew Drive", "required": true}, {"type":
+    "integer", "name": "district_Geylang, Eunos", "required": true}, {"type": "integer",
+    "name": "district_Jurong", "required": true}, {"type": "integer", "name": "district_Katong,
+    Joo Chiat, Amber Road", "required": true}, {"type": "integer", "name": "district_Seletar",
+    "required": true}, {"type": "integer", "name": "district_Serangoon Garden, Hougang,
+    Ponggol", "required": true}, {"type": "integer", "name": "district_Tampines, Pasir
+    Ris", "required": true}, {"type": "integer", "name": "region_East", "required":
+    true}, {"type": "integer", "name": "region_North", "required": true}, {"type":
+    "integer", "name": "region_West", "required": true}, {"type": "integer", "name":
+    "area_Central", "required": true}, {"type": "integer", "name": "area_East", "required":
+    true}, {"type": "integer", "name": "area_Hougang", "required": true}, {"type":
+    "integer", "name": "area_Punggol", "required": true}, {"type": "integer", "name":
+    "area_Sengkang", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-06 13:05:02.114510'
