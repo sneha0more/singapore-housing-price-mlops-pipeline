@@ -16,7 +16,7 @@ df = pd.read_sql("SELECT * FROM housing_data", engine)
 
 X = df[df.columns[1:]]
 Y = df['price']
-
+print(X)
 # -------------- Feature Selection -------------------
 # calculate the correlation matrix between the features and the target variable:
 corr_matrix = df.corr()
