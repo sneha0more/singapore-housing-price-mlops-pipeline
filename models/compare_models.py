@@ -89,18 +89,9 @@ def main():
     df_results = pd.DataFrame(results)
     print(df_results.to_string(index=False))
 
-    # df_results.to_csv("model_comparison_results.csv", index=False)
-    # print("\nSaved results to model_comparison_results.csv")
+    df_results.to_csv("model_comparison_results.csv", index=False)
+    print("\nSaved results to model_comparison_results.csv")
 
 
 if __name__ == "__main__":
     main()
-
-#------ How to use this script ------ # 
-# Run in terminal 
-# python compare_models.py \
-#   --model_uris runs:/d470d0645a9243679c26f647df7a6159/linear_reg_model\
-#   --X_test_path data/X_test.csv \
-#   --y_test_path data/y_test.csv
-
-# **change args in model_uris for each model ** 
