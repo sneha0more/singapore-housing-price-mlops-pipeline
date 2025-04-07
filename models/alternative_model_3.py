@@ -60,7 +60,7 @@ mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Local server URI
 mlflow.set_experiment("RandomForest Model")  # Log experiment name
 
 # Start MLflow run for model training
-with mlflow.start_run(run_name="Baseline Model - Random Forest Model"):
+with mlflow.start_run(run_name="Alternative Model 3- Random Forest Model"):
     model = RandomForestRegressor()  # Random Forest regressor
     model.fit(X_train_scaled, y_train)
     y_pred = model.predict(X_test_scaled)

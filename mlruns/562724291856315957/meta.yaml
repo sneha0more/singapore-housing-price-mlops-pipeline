@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/562724291856315957
+creation_time: 1744016813266
+experiment_id: '562724291856315957'
+last_update_time: 1744016813266
+lifecycle_stage: active
+name: XGBoost Model

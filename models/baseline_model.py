@@ -61,7 +61,6 @@ with mlflow.start_run(run_name="Baseline Model - Linear Regression Model"):
     mlflow.log_metric("R-squared error", r2)
     mlflow.log_metric("Relative error of RMSE to Average house prices", rmse_percent)
     mlflow.log_metric("Relative error of MAE to Average house prices", mae_percent)
-    # mlflow.sklearn.log_model(model, "model")
 
     # Set a tag to identify the experiment run
     mlflow.set_tag("Training Info", "Baseline Model- Linear Regression Model")

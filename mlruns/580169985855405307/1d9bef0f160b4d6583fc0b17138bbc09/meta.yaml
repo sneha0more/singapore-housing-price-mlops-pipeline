@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/580169985855405307/1d9bef0f160b4d6583fc0b17138bbc09/artifacts
+end_time: 1744017051848
+entry_point_name: ''
+experiment_id: '580169985855405307'
+lifecycle_stage: active
+run_id: 1d9bef0f160b4d6583fc0b17138bbc09
+run_name: Baseline Model - LightGBM Model
+run_uuid: 1d9bef0f160b4d6583fc0b17138bbc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017039212
+status: 3
+tags: []
+user_id: USER

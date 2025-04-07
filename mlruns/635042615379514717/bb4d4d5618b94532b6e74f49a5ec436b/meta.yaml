@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635042615379514717/bb4d4d5618b94532b6e74f49a5ec436b/artifacts
+end_time: 1744017292365
+entry_point_name: ''
+experiment_id: '635042615379514717'
+lifecycle_stage: active
+run_id: bb4d4d5618b94532b6e74f49a5ec436b
+run_name: Baseline Model - Random Forest Model
+run_uuid: bb4d4d5618b94532b6e74f49a5ec436b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017279398
+status: 3
+tags: []
+user_id: USER

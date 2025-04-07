@@ -61,7 +61,7 @@ mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Local server URI
 mlflow.set_experiment("LightGBM Model")  # Log experiment name
 
 # Start MLflow run for model training
-with mlflow.start_run(run_name="Baseline Model - LightGBM Model"):
+with mlflow.start_run(run_name="Alternative Model 2 - LightGBM Model"):
     model = lgb.LGBMRegressor()  # LightGBM regressor
     model.fit(X_train_scaled, y_train)
     y_pred = model.predict(X_test_scaled)

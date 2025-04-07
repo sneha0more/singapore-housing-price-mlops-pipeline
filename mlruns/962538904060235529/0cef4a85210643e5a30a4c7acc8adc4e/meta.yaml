@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/962538904060235529/0cef4a85210643e5a30a4c7acc8adc4e/artifacts
+end_time: 1744034984397
+entry_point_name: ''
+experiment_id: '962538904060235529'
+lifecycle_stage: active
+run_id: 0cef4a85210643e5a30a4c7acc8adc4e
+run_name: Baseline Model - Linear Regression Model
+run_uuid: 0cef4a85210643e5a30a4c7acc8adc4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744034974709
+status: 3
+tags: []
+user_id: USER
