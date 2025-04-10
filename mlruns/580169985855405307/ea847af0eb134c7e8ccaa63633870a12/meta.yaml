@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/580169985855405307/ea847af0eb134c7e8ccaa63633870a12/artifacts
+end_time: 1744266675153
+entry_point_name: ''
+experiment_id: '580169985855405307'
+lifecycle_stage: active
+run_id: ea847af0eb134c7e8ccaa63633870a12
+run_name: Alternative Model 2 - LightGBM Model
+run_uuid: ea847af0eb134c7e8ccaa63633870a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744266672738
+status: 3
+tags: []
+user_id: limjingyun

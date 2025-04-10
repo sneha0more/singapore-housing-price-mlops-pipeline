@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/562724291856315957/5aa6ccad4d1643089777be5bdb92bf74/artifacts
+end_time: 1744266184049
+entry_point_name: ''
+experiment_id: '562724291856315957'
+lifecycle_stage: active
+run_id: 5aa6ccad4d1643089777be5bdb92bf74
+run_name: Alternative Model 1 - XGBoost Model
+run_uuid: 5aa6ccad4d1643089777be5bdb92bf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744266181981
+status: 3
+tags: []
+user_id: limjingyun

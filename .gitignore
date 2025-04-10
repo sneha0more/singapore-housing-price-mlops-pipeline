@@ -1,3 +1,4 @@
 # Ignore __pycache__ folder inside the dags directory
 airflow/dags/__pycache__/
 python3venv/test_scraping.py
+venv
