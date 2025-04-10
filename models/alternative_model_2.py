@@ -34,7 +34,9 @@ df_subset['is_central'] = label_encoder.fit_transform(df_subset['is_central'])
 df_subset['is_mature_town'] = label_encoder.fit_transform(df_subset['is_mature_town'])
 
 # Now, perform feature selection after encoding
-X = df_subset.drop('price', axis=1)  # Features
+columns_to_drop = ['price', 'price_per_sqft', 'price_per_bedroom', 'lease_price_interaction']
+X = df_subset.drop(columns_to_drop, axis=1)  # Features
+
 Y = df_subset['price']  # Target
 print(X)
 print(X.dtypes)
@@ -127,3 +129,4 @@ with mlflow.start_run(run_name="Alternative Model 2 - LightGBM Model"):
     print(model_info.model_uri)
 
 
+X_test.to_csv('TEST.csv', index=False)

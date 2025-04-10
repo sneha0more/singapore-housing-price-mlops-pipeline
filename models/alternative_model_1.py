@@ -32,7 +32,8 @@ df_subset['is_central'] = label_encoder.fit_transform(df_subset['is_central'])
 df_subset['is_mature_town'] = label_encoder.fit_transform(df_subset['is_mature_town'])
 
 # Now, perform feature selection after encoding
-X = df_subset.drop('price', axis=1)  # Features
+columns_to_drop = ['price', 'price_per_sqft', 'price_per_bedroom', 'lease_price_interaction']
+X = df_subset.drop(columns_to_drop, axis=1)  # Features
 Y = df_subset['price']  # Target
 print(X)
 print(X.dtypes)
@@ -132,3 +133,6 @@ lower_bound, upper_bound = bootstrap_prediction_interval(model, X_train_scaled, 
 X_test['Predicted Price'] = y_pred
 X_test['Lower Bound'] = lower_bound
 X_test['Upper Bound'] = upper_bound
+
+print(X_test)
+

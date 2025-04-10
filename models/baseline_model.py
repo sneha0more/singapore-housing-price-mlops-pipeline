@@ -18,7 +18,9 @@ df = pd.read_sql("SELECT * FROM housing_data", engine)
 
 df_subset = df.drop(columns=['id', 'block', 'street', 'scraped_date', 'scraped_month', 'scraped_year'])
 
-X = df_subset.drop('price', axis=1)
+columns_to_drop = ['price', 'price_per_sqft', 'price_per_bedroom', 'lease_price_interaction']
+X = df_subset.drop(columns_to_drop, axis=1)  # Features
+
 Y = df_subset['price']
 
 # -------------- Feature Selection -------------------
