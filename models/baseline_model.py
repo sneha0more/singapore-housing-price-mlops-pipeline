@@ -36,7 +36,7 @@ print("Selected features:", selected_features)
 X_selected = X_number[selected_features]
 X_train, X_test, y_train, y_test = train_test_split(X_selected, Y, test_size=0.30, random_state=42)
 
-mlflow.set_tracking_uri(uri = "http://localhost:5000")  # Replace with host machine IP
+mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Replace with host machine IP
 mlflow.set_experiment("Linear Regression Model")   # Log experiment name
 
 with mlflow.start_run(run_name="Baseline Model - Linear Regression Model"):

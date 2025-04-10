@@ -13,6 +13,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import resample
 import scipy.stats as stats
+import joblib
 
 # Collecting data from database housing_db
 engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
@@ -47,6 +48,8 @@ selector.fit(X, Y)
 selected_features = X.columns[selector.support_]
 print("Selected features:", selected_features)
 
+joblib.dump(selected_features.tolist(), "models_dump_for_Registry/selected_features.joblib")
+
 # Train-test split
 X_selected = X[selected_features]
 X_train, X_test, y_train, y_test = train_test_split(X_selected, Y, test_size=0.30, random_state=42)
@@ -55,6 +58,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_selected, Y, test_size=0.3
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)  # Fit and transform on training data
 X_test_scaled = scaler.transform(X_test)  # Only transform test data (do not fit again)
+joblib.dump(scaler, "models_dump_for_Registry/scaler.joblib")
 
 # Set tracking URI for MLflow
 mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Local server URI
@@ -97,6 +101,11 @@ with mlflow.start_run(run_name="Alternative Model 2 - LightGBM Model"):
         input_example=X_test_scaled,
         registered_model_name="lightgbm_model"
     )
+
+    print(f"Model URI: {model_info.model_uri}")
+    print(f"Run ID: {model_info.run_id}")
+    print(f"Artifact path: {model_info.artifact_path}") 
+
     # Calculate residuals (differences between actual and predicted values)
     residuals = y_test - y_pred
 

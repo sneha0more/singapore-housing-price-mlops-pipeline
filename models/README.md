@@ -100,3 +100,53 @@ The prediction results of all models will be saved as a csv file.
 
 ---
 
+## 🚀 Running MLflow Tracking & Model Registry
+
+This project uses **MLflow** with a **SQLite backend** and **local artifact storage** for tracking experiments and managing models.
+
+### ✅ Prerequisites
+
+- Python ≥ 3.9
+- Required Python packages:
+  ```bash
+  pip install -r requirements.txt
+  ```
+- SQLite is automatically used by MLflow via `mlflow.db` (no setup required)
+
+---
+
+### ⚙️ Launch MLflow Server
+
+Start MLflow using the provided shell script:
+
+```bash
+bash launch.sh
+```
+
+This runs:
+
+```bash
+mlflow server \
+  --backend-store-uri sqlite:///mlflow.db \
+  --default-artifact-root ./mlruns \
+  --host 127.0.0.1 \
+  --port 5000
+```
+
+---
+
+### 🌐 Access MLflow UI
+
+Open in your browser:
+
+```
+http://127.0.0.1:5000
+```
+
+Use the UI to:
+- Track and compare experiments
+- Register and stage models
+- Log metrics like MAE, RMSE, R-squared
+
+---
+

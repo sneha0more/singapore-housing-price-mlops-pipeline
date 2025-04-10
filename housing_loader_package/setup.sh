@@ -2,6 +2,12 @@
 
 echo "Starting Housing Data Loader Setup..."
 
+echo "Setting up environment..."
+pip install pymysql
+
+echo "Loading housing data to MySQL..."
+python3 housing_loader_package/load_to_mysql.py
+
 # Step 1: Start Docker container for MySQL
 echo "Launching MySQL container with Docker Compose..."
 docker-compose up -d
