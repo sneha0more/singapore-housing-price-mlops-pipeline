@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635042615379514717/14996cecc7124ff5b360d18664797e16/artifacts
+end_time: 1744266355086
+entry_point_name: ''
+experiment_id: '635042615379514717'
+lifecycle_stage: active
+run_id: 14996cecc7124ff5b360d18664797e16
+run_name: Alternative Model 3- Random Forest Model
+run_uuid: 14996cecc7124ff5b360d18664797e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744266352645
+status: 3
+tags: []
+user_id: limjingyun

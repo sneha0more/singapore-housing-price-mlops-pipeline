@@ -1,0 +1,40 @@
+artifact_path: linear_reg_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.3
+model_size_bytes: 105441
+model_uuid: f812996f5f404c2697ff275fa4950bc5
+prompts: null
+run_id: 7ce937dc4e9f404ab3a47581358cc80b
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "build_year", "required": true}, {"type": "long",
+    "name": "size_sqft", "required": true}, {"type": "long", "name": "n_bedrooms",
+    "required": true}, {"type": "long", "name": "n_bathrooms", "required": true},
+    {"type": "double", "name": "flat_age", "required": true}, {"type": "double", "name":
+    "lease_remaining", "required": true}, {"type": "double", "name": "size_per_room",
+    "required": true}, {"type": "double", "name": "bed_bath_ratio", "required": true},
+    {"type": "long", "name": "is_central", "required": true}, {"type": "long", "name":
+    "is_mature_town", "required": true}, {"type": "double", "name": "age_size_interaction",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-10 06:28:32.990080'
