@@ -1,3 +1,7 @@
+from preprocessing import preprocess_user_input 
+from predictor import predict_price
+import pandas as pd
+
 import streamlit as st
 
 st.set_page_config(page_title="Housing Price Prediction", page_icon="🏡")
@@ -106,5 +110,62 @@ run_model = st.button("Run Model")
 
 # Result display (placeholder output)
 if run_model:
-    st.markdown("### Recommended Listing Price")
-    st.markdown("## **<span style='color:orange'>895,239 - 930,020</span>**", unsafe_allow_html=True)
+    region_map = {
+        "Bukit Merah": "Central", "Queenstown": "Central", "Kallang/Whampoa": "Central", "Toa Payoh": "Central",
+        "Bedok": "East", "Marine Parade": "East", "Pasir Ris": "East", "Tampines": "East",
+        "Hougang": "North-East", "Sengkang": "North-East", "Punggol": "North-East", "Serangoon": "North-East",
+        "Bishan": "North", "Ang Mo Kio": "North", "Yishun": "North", "Woodlands": "North", "Sembawang": "North",
+        "Clementi": "West", "Jurong West": "West", "Jurong East": "West", "Bukit Panjang": "West", "Bukit Batok": "West", "Choa Chu Kang": "West"
+    }
+    inferred_region = region_map.get(area, "Unknown")
+
+    input_dict = {
+        'build_year': int(build_year),
+        'size_sqft': float(size_sqft),
+        'n_bedrooms': int(n_bedrooms),
+        'n_bathrooms': int(n_bathrooms),
+        'area': area,
+        'district': district,
+        'region': inferred_region,  # You can derive this with a helper
+        'n_rooms': hdb_type
+    }
+
+# Preprocess the input
+    df_input = preprocess_user_input(input_dict)
+
+# Predict using the model
+    try:
+        predicted_price = predict_price(df_input)
+
+        # Calculate ±5% range
+        lower = int(predicted_price * 0.95)
+        upper = int(predicted_price * 1.05)
+
+        # Styled property listing output
+        st.markdown("### 💰 Recommended Listing Price Range")
+        st.markdown(
+            f"<div style='font-size:32px; font-weight:bold; color:#ff7e00;'>"
+            f"${lower:,.0f} – ${upper:,.0f} SGD"
+            f"</div>",
+            unsafe_allow_html=True
+        )
+
+        # Optional subtitle
+        st.markdown(
+            "<span style='font-size:14px; color:gray;'>Estimated based on similar listings and resale trends</span>",
+            unsafe_allow_html=True
+        )
+
+    except Exception as e:
+        st.error(f"Prediction failed: {e}")
+        st.markdown("### Recommended Listing Price")
+        st.markdown("## **<span style='color:orange'>895,239 - 930,020</span>**", unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
