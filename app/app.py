@@ -147,10 +147,11 @@ if run_model:
                 lower = r["price_range"]["lower"]
                 upper = r["price_range"]["upper"]
 
-                st.markdown("### 💰 Recommended Listing Price Range")
+
+                st.markdown("### 💰 Recommended Listing Price Range (in SGD)")
                 st.markdown(
                     f"<div style='font-size:32px; font-weight:bold; color:#ff7e00;'>"
-                    f"${lower:,.0f} – ${upper:,.0f} SGD"
+                    f"${lower:,.0f} – ${upper:,.0f}"
                     f"</div>",
                     unsafe_allow_html=True
                 )
