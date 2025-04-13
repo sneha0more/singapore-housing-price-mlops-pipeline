@@ -5,8 +5,7 @@ st.set_page_config(page_title="Housing Price Prediction", page_icon="🏡")
 
 st.markdown("## **Housing Price Prediction Model 🏡**")
 st.markdown(
-    "This model outputs a recommended listing price for sellers "
-    "based on the characteristics of their HDB flat."
+    "This model outputs a recommended listing price for sellers based on the characteristics of their HDB flat based on recent listing data on Edgeprop."
 )
 st.markdown("### Input Flat Characteristics")
 
