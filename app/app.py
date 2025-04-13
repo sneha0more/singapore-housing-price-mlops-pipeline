@@ -142,7 +142,7 @@ if run_model:
             if response.status_code == 200:
                 r = response.json()
                 prediction = r["predicted_price"]
-                st.success(f"💰 Estimated Price: ${prediction:,.2f}")
+                #st.success(f"💰 Estimated Price: ${prediction:,.2f}")
 
                 lower = r["price_range"]["lower"]
                 upper = r["price_range"]["upper"]
