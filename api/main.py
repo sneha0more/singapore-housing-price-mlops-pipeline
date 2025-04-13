@@ -2,15 +2,16 @@ print("✅ FastAPI app is starting...")
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+import traceback
 import pandas as pd
+from predictor import predict_price
+from preprocessing import preprocess_user_input
 
 app = FastAPI()
 
 @app.get("/")
 def home():
     return {"message": "🏡 Housing Price Prediction API is live!"}
-
-
 
 class InputData(BaseModel):
     build_year: int
@@ -26,8 +27,7 @@ class InputData(BaseModel):
 def predict(data: InputData):
     try:
         # Import inside the function to avoid crashing app during startup
-        from .predictor import predict_price
-        from .preprocessing import preprocess_user_input
+
 
         input_dict = data.dict()
         df_input = preprocess_user_input(input_dict)
@@ -41,4 +41,6 @@ def predict(data: InputData):
             }
         }
     except Exception as e:
+        print("❌ Backend exception:")
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=f"Prediction failed: {str(e)}")

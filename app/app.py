@@ -1,8 +1,8 @@
-from preprocessing import preprocess_user_input 
-from predictor import predict_price
-import pandas as pd
+# from preprocessing import preprocess_user_input 
+# from predictor import predict_price
 
 import streamlit as st
+import requests
 
 st.set_page_config(page_title="Housing Price Prediction", page_icon="🏡")
 
@@ -130,42 +130,35 @@ if run_model:
         'n_rooms': hdb_type
     }
 
-# Preprocess the input
-    df_input = preprocess_user_input(input_dict)
-
 # Predict using the model
     try:
-        predicted_price = predict_price(df_input)
+        response = requests.post("http://localhost:8000/predict", json=input_dict)
+        if response.status_code == 200:
+            r = response.json()
+            prediction = r["predicted_price"]
+            st.success(f"💰 Estimated Price: ${prediction:,.2f}")
+            
+            # Calculate ±5% range
+            lower = r["price_range"]["lower"]
+            upper = r["price_range"]["upper"]
 
-        # Calculate ±5% range
-        lower = int(predicted_price * 0.95)
-        upper = int(predicted_price * 1.05)
+            # Styled property listing output
+            st.markdown("### 💰 Recommended Listing Price Range")
+            st.markdown(
+                f"<div style='font-size:32px; font-weight:bold; color:#ff7e00;'>"
+                f"${lower:,.0f} – ${upper:,.0f} SGD"
+                f"</div>",
+                unsafe_allow_html=True
+            )
 
-        # Styled property listing output
-        st.markdown("### 💰 Recommended Listing Price Range")
-        st.markdown(
-            f"<div style='font-size:32px; font-weight:bold; color:#ff7e00;'>"
-            f"${lower:,.0f} – ${upper:,.0f} SGD"
-            f"</div>",
-            unsafe_allow_html=True
-        )
-
-        # Optional subtitle
-        st.markdown(
-            "<span style='font-size:14px; color:gray;'>Estimated based on similar listings and resale trends</span>",
-            unsafe_allow_html=True
-        )
+            # Optional subtitle
+            st.markdown(
+                "<span style='font-size:14px; color:gray;'>Estimated based on similar listings and resale trends</span>",
+                unsafe_allow_html=True
+            )
 
     except Exception as e:
         st.error(f"Prediction failed: {e}")
+        print("❌ Frontend exception:", e) 
         st.markdown("### Recommended Listing Price")
         st.markdown("## **<span style='color:orange'>895,239 - 930,020</span>**", unsafe_allow_html=True)
-
-
-
-
-
-
-
-
-

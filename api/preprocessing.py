@@ -40,7 +40,7 @@ def preprocess_user_input(input_dict):
             df[f"{col}_{val}"] = 1 if input_dict[col] == val else 0
 
    # ✅ Load expected feature list from model training
-    selected_features = joblib.load("/app/models/models_dump_for_Registry/selected_features.joblib")
+    selected_features = joblib.load("models_dump_for_Registry/selected_features.joblib")
 
     # Fill in any missing columns
     for col in selected_features:
