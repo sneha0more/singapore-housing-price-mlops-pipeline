@@ -50,7 +50,7 @@ selector.fit(X, Y)
 selected_features = X.columns[selector.support_]
 print("Selected features:", selected_features)
 
-joblib.dump(selected_features.tolist(), "models_dump_for_Registry/selected_features.joblib")
+joblib.dump(selected_features.tolist(), "../api/models_dump_for_Registry/selected_features.joblib")
 
 # Train-test split
 X_selected = X[selected_features]
@@ -60,7 +60,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_selected, Y, test_size=0.3
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)  # Fit and transform on training data
 X_test_scaled = scaler.transform(X_test)  # Only transform test data (do not fit again)
-joblib.dump(scaler, "models_dump_for_Registry/scaler.joblib")
+joblib.dump(scaler, "../api/models_dump_for_Registry/scaler.joblib")
 
 # Set tracking URI for MLflow
 mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Local server URI
