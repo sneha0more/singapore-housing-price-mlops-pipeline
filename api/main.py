@@ -5,8 +5,8 @@ from pydantic import BaseModel
 import traceback
 import pandas as pd
 
-from api.predictor import predict_price
-from api.preprocessing import preprocess_user_input
+from predictor import predict_price
+from preprocessing import preprocess_user_input
 import mysql.connector
 from mysql.connector import Error
 import os
