@@ -77,8 +77,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 # === Load saved assets ===
-selected_features = joblib.load("models_dump_for_Registry/selected_features.joblib")
-scaler = joblib.load("models_dump_for_Registry/scaler.joblib")
+selected_features = joblib.load("../api/models_dump_for_Registry/selected_features.joblib")
+scaler = joblib.load("../api/models_dump_for_Registry/scaler.joblib")
 
 # === Step 1: Load data from MySQL ===
 engine = create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
