@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.feature_selection import RFE
 from sklearn.model_selection import train_test_split
 import datetime
+import os
 
 
 #BEST_RUN_ID = "1d9bef0f160b4d6583fc0b17138bbc09"  
@@ -76,9 +77,16 @@ from sqlalchemy import create_engine
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
+selected_features_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../api/models_dump_for_Registry/selected_features.joblib"))
+# Get absolute path to this script's folder
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Build absolute path to target directory
+output_dir_1 = os.path.join(BASE_DIR, "../api/models_dump_for_Registry/selected_features.joblib")
+output_dir_2 = os.path.join(BASE_DIR, "../api/models_dump_for_Registry/scaler.joblib")
+
 # === Load saved assets ===
-selected_features = joblib.load("../api/models_dump_for_Registry/selected_features.joblib")
-scaler = joblib.load("../api/models_dump_for_Registry/scaler.joblib")
+selected_features = joblib.load(output_dir_1)
+scaler = joblib.load(output_dir_2)
 
 # === Step 1: Load data from MySQL ===
 engine = create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
