@@ -42,7 +42,7 @@ def preprocess_user_input(input_dict):
 
     # ✅ Load expected feature list from model training
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    JoblibsPath = os.path.join(BASE_DIR, "../api/models_dump_for_Registry/selected_features.joblib")
+    JoblibsPath = os.path.join(BASE_DIR, "models_dump_for_Registry/selected_features.joblib")
     selected_features =joblib.load(JoblibsPath)
     #joblib.load("models_dump_for_Registry/selected_features.joblib")
 
