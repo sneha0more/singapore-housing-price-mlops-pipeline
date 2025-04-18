@@ -14,6 +14,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.utils import resample
 import scipy.stats as stats
 import joblib
+import os
 
 # Collecting data from database housing_db
 engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
@@ -49,8 +50,14 @@ selector.fit(X, Y)
 # Get the selected features from RFE
 selected_features = X.columns[selector.support_]
 print("Selected features:", selected_features)
+# Get absolute path to this script's folder
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-joblib.dump(selected_features.tolist(), "../api/models_dump_for_Registry/selected_features.joblib")
+# Build absolute path to target directory
+output_dir = os.path.join(BASE_DIR, "../api/models_dump_for_Registry")
+os.makedirs(output_dir, exist_ok=True)
+
+joblib.dump(selected_features.tolist(), os.path.join(output_dir, "selected_features.joblib"))
 
 # Train-test split
 X_selected = X[selected_features]
@@ -60,7 +67,8 @@ X_train, X_test, y_train, y_test = train_test_split(X_selected, Y, test_size=0.3
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)  # Fit and transform on training data
 X_test_scaled = scaler.transform(X_test)  # Only transform test data (do not fit again)
-joblib.dump(scaler, "../api/models_dump_for_Registry/scaler.joblib")
+#joblib.dump(scaler, "../api/models_dump_for_Registry/scaler.joblib")
+joblib.dump(scaler, os.path.join(output_dir, "scaler.joblib"))
 
 # Set tracking URI for MLflow
 mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")  # Local server URI
