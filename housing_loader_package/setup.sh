@@ -18,7 +18,8 @@ sleep 10
 
 # Step 2: Create the housing_data table
 echo "Creating table in MySQL..."
-docker exec -i mysql_housing mysql -u root -proot housing_db < housing_loader_package/create_table.sql
+docker exec -i mysql_housing_v2 mysql -u root -proot housing_db < housing_loader_package/create_table.sql
+docker exec -i mysql_housing_v2 mysql -u root -proot housing_db < housing_loader_package/create_input_table.sql
 
 # Step 3: Install Python dependencies
 echo "Installing Python dependencies..."

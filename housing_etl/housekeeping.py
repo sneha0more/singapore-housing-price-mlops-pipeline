@@ -6,7 +6,8 @@ TARGET_DB_CONFIG = {
     "host": "localhost",
     "user": "root",
     "password": "root",
-    "database": "housing_db"
+    "database": "housing_db",
+    "port": 3307  # Specify the port if it's different from the default
 }
 
 def housekeeping():

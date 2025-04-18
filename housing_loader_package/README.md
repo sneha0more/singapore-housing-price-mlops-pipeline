@@ -9,7 +9,7 @@ This folder contains everything needed to set up and load the housing price data
 ### Requirements
 - Docker & Docker Compose installed
 - Python 3.9+ and pip
-- MySQL port 3306 **must be free**
+- MySQL port 3307 **must be free**   <span style='color:red'>(note the change)</span>
 
 ---
 
@@ -25,7 +25,7 @@ docker-compose up -d
 
 This will launch a MySQL container with:
 - Host: `localhost`
-- Port: `3306`
+- Port: `3307` <span style='color:red'>(note the change)</span>
 - DB: `housing_db`
 - User: `root` / Password: `root`
 
@@ -41,13 +41,17 @@ This will:
 - Install required Python packages
 - Load data from `enhanced_data.csv`
 
+<span style='color:red'>NEW!</span>
+- Create the `input_data` table
+- Load data from `user_input_data.csv`
+
 ---
 
 ### Verify Data in MySQL
 
 Run:
 ```bash
-docker exec -it mysql_housing mysql -u root -proot housing_db
+docker exec -it mysql_housing_v2 mysql -u root -proot housing_db
 ```
 
 Inside MySQL:

@@ -10,6 +10,7 @@ TARGET_DB_CONFIG = {
     "user": "root",
     "password": "root",
     "database": "housing_db",
+    "port": 3307
 }
 
 def generate_drift_report(incoming_df, output_path):

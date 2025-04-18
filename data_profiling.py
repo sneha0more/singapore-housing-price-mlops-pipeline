@@ -8,7 +8,7 @@ import os
 
 # Step 1: Connect to the database
 print("Connecting to the database...")
-engine = create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
+engine = create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
 df = pd.read_sql("SELECT * FROM housing_data", engine)
 print(f"Data loaded successfully. Shape: {df.shape}")
 

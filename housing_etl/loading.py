@@ -7,6 +7,7 @@ TARGET_DB_CONFIG = {
     "password": "root",
     "database": "housing_db",
     # "port": 3306  # optional, default is 3306
+    "port": 3307
 }
 
 def load_to_db(df):
