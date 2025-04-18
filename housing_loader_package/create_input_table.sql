@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS input_data (
+  build_year INT,
+  size_sqft INT,
+  size_per_room DECIMAL(10, 2),
+  bed_bath_ratio DECIMAL(5, 2),
+  is_central BOOLEAN,
+  is_mature_town BOOLEAN,
+  age_size_interaction DECIMAL(10, 2),
+  n_rooms_HDB_4_Room INT,
+  n_rooms_HDB_5PA_Premium_Apartment INT,
+  district_Balestier_Toa_Payoh_Serangoon BOOLEAN,
+  district_Geylang_Eunos BOOLEAN,
+  district_Hillview_Dairy_Farm_Bukit_Panjang_Choa_Chu_Kang BOOLEAN,
+  district_Jurong BOOLEAN,
+  district_Queenstown_Tiong_Bahru BOOLEAN,
+  district_Telok_Blangah_Harbourfront BOOLEAN,
+  region_East BOOLEAN,
+  region_North BOOLEAN,
+  region_West BOOLEAN,
+  area_Hougang BOOLEAN,
+  area_Marine_Parade BOOLEAN,
+  input_datetime DATETIME
+);

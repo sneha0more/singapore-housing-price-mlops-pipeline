@@ -89,7 +89,7 @@ selected_features = joblib.load(output_dir_1)
 scaler = joblib.load(output_dir_2)
 
 # === Step 1: Load data from MySQL ===
-engine = create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
+engine = create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
 df = pd.read_sql("SELECT * FROM housing_data", con=engine)
 
 # === Step 2: Preprocess data ===
