@@ -24,8 +24,13 @@ model_uri = f"runs:/{latest.run_id}/{latest.source.split('/')[-1]}"
 # 🔥 This is where you use the model URI!
 try:
     model = mlflow.pyfunc.load_model(model_uri)
-    selected_features = joblib.load("models_dump_for_Registry/selected_features.joblib")
-    scaler = joblib.load("models_dump_for_Registry/scaler.joblib")
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    JoblibsPath = os.path.join(BASE_DIR, "models_dump_for_Registry/selected_features.joblib")
+    selected_features =joblib.load(JoblibsPath)
+    #selected_features = joblib.load("models_dump_for_Registry/selected_features.joblib")
+    #scaler = joblib.load("models_dump_for_Registry/scaler.joblib")
+    JoblibsPath2 = os.path.join(BASE_DIR, "models_dump_for_Registry/scaler.joblib")
+    scaler =joblib.load(JoblibsPath2)
 except Exception as e:
     print("❌ Error loading model or files:", e)
 
