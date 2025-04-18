@@ -61,7 +61,10 @@ pydantic_core==2.33.1
 pydeck==0.9.1
 PyMySQL==1.1.1
 pyparsing==3.2.3
+pylint==3.1.0
+pylint-report==2.4.2
 pytest==8.3.5
+pytest-html==4.1.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.2
