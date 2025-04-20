@@ -59,6 +59,7 @@ Inside MySQL:
 ```sql
 SHOW TABLES;
 SELECT COUNT(*) FROM housing_data;
+SELECT COUNT(*) FROM input_data;
 SELECT * FROM housing_data LIMIT 5;
 ```
 
@@ -67,7 +68,9 @@ SELECT * FROM housing_data LIMIT 5;
 ## Folder Contents
 
 - `enhanced_data.csv`: Cleaned housing price dataset
+- `user_input_data.csv`: simulated user input dataset
 - `create_table.sql`: SQL to create the target table
+- `create__input_table.sql`: SQL to create the user input table
 - `load_to_mysql.py`: Script to insert CSV into MySQL
 - `setup.sh`: One-click setup script
 - `requirements.txt`: Python packages

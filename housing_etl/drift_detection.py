@@ -6,10 +6,10 @@ from sqlalchemy import create_engine
 from sqlalchemy import text
 
 TARGET_DB_CONFIG = {
-    "host": "mysql_housing_v2",
+    "host": "localhost",
     "user": "root",
     "password": "root",
-    "database": "housing_db"
+    "database": "housing_db",
 }
 
 def generate_drift_report(incoming_df, output_path):

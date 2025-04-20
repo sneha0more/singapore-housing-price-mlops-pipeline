@@ -2,12 +2,12 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 TARGET_DB_CONFIG = {
-    "host": "localhost",
+    "host": "mysql_housing_v2",
     "user": "root",
     "password": "root",
     "database": "housing_db",
     # "port": 3306  # optional, default is 3306
-    "port": 3307
+    "port": 3306
 }
 
 def load_to_db(df):

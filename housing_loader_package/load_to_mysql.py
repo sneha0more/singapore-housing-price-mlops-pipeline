@@ -3,7 +3,8 @@ import os
 from sqlalchemy import create_engine
 
 # MySQL database connection configuration
-engine = create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
+engine = create_engine("mysql+pymysql://root:root@mysql_housing_v2/housing_db")
+
 
 # Load cleaned CSV
 csv_path = os.path.join(os.path.dirname(__file__), "enhanced_data.csv")

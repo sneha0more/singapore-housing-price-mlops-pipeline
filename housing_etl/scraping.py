@@ -10,8 +10,14 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def scrape_edgeprop_properties():
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
-    options.add_argument("--window-size=1920,1080")
+    options.add_argument('--headless')  # ← important
+    options.add_argument('--no-sandbox')  # ← important for Docker
+    options.add_argument('--disable-dev-shm-usage')  # ← use /tmp instead of /dev/shm
+    options.add_argument('--disable-gpu')  # ← optional but safe
+    options.add_argument('--remote-debugging-port=9222')  # ← useful for DevTools
+    options.add_argument('--disable-extensions')
+    options.add_argument('--window-size=1920,1080')
+
     driver = webdriver.Chrome(options=options)
 
     
