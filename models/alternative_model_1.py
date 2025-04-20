@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.utils import resample
 
 # Collecting data from database housing_db
-engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
+engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
 df = pd.read_sql("SELECT * FROM housing_data", engine)
 
 print(df.dtypes)

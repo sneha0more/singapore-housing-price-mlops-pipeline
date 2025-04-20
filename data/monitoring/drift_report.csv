@@ -1,0 +1,8 @@
+column,test,statistic,p_value,drift_detected
+build_year,KS-test,0.3132,0.0,True
+size_sqft,KS-test,0.2239,0.0088,True
+size_per_room,KS-test,0.9221,0.0,True
+bed_bath_ratio,KS-test,0.7865,0.0,True
+is_central,KS-test,0.1869,0.0453,True
+is_mature_town,KS-test,0.0856,0.807,False
+age_size_interaction,KS-test,0.2924,0.0002,True

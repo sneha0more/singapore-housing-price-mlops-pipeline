@@ -9,7 +9,7 @@ import sqlalchemy
 import mlflow
 
 # Collecting data from database housing_db
-engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
+engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
 df = pd.read_sql("SELECT * FROM housing_data", engine)
 df_subset = df.drop(columns=['id', 'block', 'street', 'scraped_date', 'scraped_month', 'scraped_year'])
 

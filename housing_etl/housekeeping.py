@@ -3,10 +3,11 @@ import mysql.connector
 from airflow.models import Variable
 
 TARGET_DB_CONFIG = {
-    "host": "localhost",
+    "host": "mysql_housing_v2",
     "user": "root",
     "password": "root",
-    "database": "housing_db"
+    "database": "housing_db",
+    "port": 3306  # MySQL default internal port (not 3307 inside Docker)
 }
 
 def housekeeping():

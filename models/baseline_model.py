@@ -13,7 +13,7 @@ from sklearn.utils import resample
 from sklearn.metrics import root_mean_squared_error, mean_absolute_error, r2_score
 
 # Collecting data from database housing_db
-engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3306/housing_db")
+engine = sqlalchemy.create_engine("mysql+pymysql://root:root@localhost:3307/housing_db")
 df = pd.read_sql("SELECT * FROM housing_data", engine)
 
 df_subset = df.drop(columns=['id', 'block', 'street', 'scraped_date', 'scraped_month', 'scraped_year'])

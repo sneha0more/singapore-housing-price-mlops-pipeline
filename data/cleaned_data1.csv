@@ -1,407 +1,406 @@
 title,price,hdb_type,area,year,price_per_sqft,size_sqft,road_name,n_bedrooms,n_bathrooms,district,region,scraped_date
-335A SMITH STREET,558000.0,HDB 3-Room,Central Area,1983.0,865.0,645.0,Smith Street,2,2,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-03 02:55:46
-538 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1978.0,961.0,645.0,Upper Cross Street,2,1,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-03 02:55:46
-538 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1978.0,960.0,646.0,Upper Cross Street,2,1,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-03 02:55:46
-533 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1979.0,895.0,693.0,Upper Cross Street,2,2,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-03 02:55:46
-3 TANJONG PAGAR PLAZA,565000.0,HDB 3-Room,Central Area,1976.0,890.0,635.0,Tanjong Pagar Plaza,2,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-17 CANTONMENT CLOSE,1080000.0,HDB 4-Room,Bukit Merah,2000.0,1115.0,969.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-110 SPOTTISWOODE PARK ROAD,900000.0,HDB 5-Room,Bukit Merah,1977.0,680.0,1323.0,Spottiswoode Park Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-5 TANJONG PAGAR PLAZA,600000.0,HDB 3-Room,Central Area,1976.0,945.0,635.0,Tanjong Pagar Plaza,2,1,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-6 EVERTON PARK,990000.0,HDB 5-Room,Bukit Merah,1965.0,667.0,1485.0,Everton Park,4,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-PINNACLE @ DUXTON,1465000.0,HDB 5-Room,2,2009.0,1284.0,1141.0,1 Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-334 KRETA AYER ROAD,800000.0,HDB 4-Room,Central Area,1980.0,896.0,893.0,Kreta Ayer Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-18 CANTONMENT CLOSE,948000.0,HDB 4-Room,Bukit Merah,2000.0,1175.0,807.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-PINNACLE @ DUXTON,1450000.0,HDB 4PA (Premium Apartment),2,2009.0,1389.0,1044.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-2 TANJONG PAGAR PLAZA,638000.0,HDB 3-Room,Central Area,1976.0,847.0,753.0,Tanjong Pagar Plaza,2,1,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-16 CANTONMENT CLOSE,680000.0,HDB 3-Room,Bukit Merah,2000.0,1053.0,646.0,Cantonment Close,2,1,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-7 TANJONG PAGAR PLAZA,850000.0,HDB 4-Room,Central Area,1979.0,951.0,894.0,Tanjong Pagar Plaza,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-2 TANJONG PAGAR PLAZA,635000.0,HDB 3-Room,Central Area,1976.0,797.0,797.0,Tanjong Pagar Plaza,2,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-11 CANTONMENT CLOSE,1130000.0,HDB 4-Room,Bukit Merah,2000.0,1167.0,968.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-PINNACLE @ DUXTON,1520000.0,HDB 5-Room,2,2009.0,1333.0,1140.0,1 Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-2 TANJONG PAGAR PLAZA,550000.0,HDB 3-Room,Central Area,1976.0,866.0,635.0,Tanjong Pagar Plaza,2,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-PINNACLE @ DUXTON,1633000.0,HDB 5-Room,2,2009.0,1445.0,1130.0,1G Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-PINNACLE @ DUXTON,1480000.0,HDB 4-Room,2,2009.0,1462.0,1012.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-11 CANTONMENT CLOSE,1130000.0,HDB 4-Room,Bukit Merah,2000.0,1166.0,969.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-03 02:55:46
-61C STRATHMORE AVENUE,820000.0,HDB 3-Room,Queenstown,2010.0,1104.0,743.0,Strathmore Avenue,2,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-87 ZION ROAD,1158000.0,HDB 5-Room,Bukit Merah,1974.0,944.0,1227.0,Zion Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-95 HAVELOCK ROAD,1100000.0,HDB 5-Room,Bukit Merah,1982.0,866.0,1270.0,Havelock Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-19 QUEEN'S CLOSE,1330000.0,HDB 5-Room,Queenstown,1994.0,965.0,1378.0,Queen's Close,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-10B BOON TIONG ROAD,1280000.0,HDB 4-Room,Bukit Merah,2014.0,1368.0,936.0,Boon Tiong Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-78 DAWSON ROAD,1120000.0,HDB 4-Room,Queenstown,2019.0,1183.0,947.0,Dawson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-119C KIM TIAN ROAD,1150000.0,HDB 5-Room,Bukit Merah,2001.0,971.0,1184.0,Kim Tian Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-41A MARGARET DRIVE,850000.0,HDB 3-Room,Queenstown,2021.0,1254.0,678.0,Margaret Drive,2,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-119D KIM TIAN ROAD,800000.0,HDB 4-Room,Bukit Merah,2000.0,800.0,1000.0,Kim Tian Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-7 COMMONWEALTH AVENUE,1300000.0,HDB 5-Room,Queenstown,1994.0,951.0,1367.0,Commonwealth Avenue,4,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-133 CLARENCE LANE,1290000.0,HDB 5-Room,Queenstown,1994.0,991.0,1302.0,Clarence Lane,4,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-54 HAVELOCK ROAD,1100000.0,HDB 4-Room,Bukit Merah,2011.0,1087.0,1012.0,Havelock Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-42A MARGARET DRIVE,1780000.0,HDB 5PA (Premium Apartment),Queenstown,2021.0,1490.0,1195.0,Margaret Drive,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-10B BOON TIONG ROAD,1150000.0,HDB 4-Room,Bukit Merah,2014.0,1229.0,936.0,Boon Tiong Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-88 DAWSON ROAD,1380000.0,HDB 4PA (Premium Apartment),Queenstown,2015.0,1474.0,936.0,Dawson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-52 STRATHMORE AVENUE,1099000.0,HDB 4-Room,Queenstown,2005.0,1134.0,969.0,Strathmore Avenue,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-119C KIM TIAN ROAD,799000.0,HDB 4-Room,Bukit Merah,2001.0,854.0,936.0,Kim Tian Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-50 STRATHMORE AVENUE,958000.0,HDB 4-Room,Queenstown,2004.0,989.0,969.0,Strathmore Avenue,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-33 MARGARET DRIVE,1550000.0,HDB 5PA (Premium Apartment),Queenstown,2021.0,1334.0,1162.0,Margaret Drive,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-95C HENDERSON ROAD,1200000.0,HDB 4-Room,Bukit Merah,2018.0,1199.0,1001.0,Henderson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-03 02:55:46
-111A DEPOT ROAD,970000.0,HDB 5-Room,Bukit Merah,2004.0,784.0,1238.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-104 BUKIT PURMEI ROAD,650000.0,HDB 4-Room,Bukit Merah,1983.0,575.0,1130.0,Bukit Purmei Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-109 BUKIT PURMEI ROAD,590888.0,HDB 3-Room,Bukit Merah,1984.0,742.0,796.0,Bukit Purmei Road,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-92B TELOK BLANGAH STREET 31,720000.0,HDB 3-Room,Bukit Merah,2017.0,984.0,732.0,Telok Blangah Street 31,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-28 TELOK BLANGAH RISE,410000.0,HDB 3-Room,Bukit Merah,1975.0,544.0,753.0,Telok Blangah Rise,2,1,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-92B TELOK BLANGAH STREET 31,915000.0,HDB 4-Room,Bukit Merah,2017.0,914.0,1001.0,Telok Blangah Street 31,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-103 BUKIT PURMEI ROAD,488888.0,HDB 3-Room,Bukit Merah,1982.0,678.0,721.0,Bukit Purmei Road,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-91A TELOK BLANGAH STREET 31,739999.0,HDB 3-Room,Bukit Merah,2017.0,1011.0,732.0,Telok Blangah Street 31,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-58 TELOK BLANGAH HEIGHTS,630000.0,HDB 4-Room,Bukit Merah,1976.0,643.0,980.0,Telok Blangah Heights,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-17A TELOK BLANGAH CRESCENT,800000.0,HDB 4-Room,Bukit Merah,2000.0,750.0,1066.0,Telok Blangah Crescent,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-54 TELOK BLANGAH DRIVE,410000.0,HDB 3-Room,Bukit Merah,1977.0,522.0,785.0,Telok Blangah Drive,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-114 BUKIT PURMEI ROAD,698000.0,HDB 4-Room,Bukit Merah,1984.0,623.0,1120.0,Bukit Purmei Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-103B DEPOT ROAD,850000.0,HDB 4-Room,Bukit Merah,1999.0,878.0,968.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-111 BUKIT PURMEI ROAD,795000.0,HDB 4-Room,Bukit Merah,1984.0,710.0,1119.0,Bukit Purmei Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-17A TELOK BLANGAH CRESCENT,800000.0,HDB 4-Room,Bukit Merah,2000.0,743.0,1076.0,Telok Blangah Crescent,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-110A DEPOT ROAD,1000000.0,HDB 4-Room,Bukit Merah,2016.0,1010.0,990.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-67 TELOK BLANGAH DRIVE,920000.0,HDB 5-Room,Bukit Merah,1977.0,724.0,1270.0,Telok Blangah Drive,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-92B TELOK BLANGAH STREET 31,1099999.0,HDB 4-Room,Bukit Merah,2017.0,1100.0,1000.0,Telok Blangah Street 31,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-37 TELOK BLANGAH RISE,900000.0,HDB 5-Room,Bukit Merah,1976.0,691.0,1302.0,Telok Blangah Rise,3,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-6 TELOK BLANGAH CRESCENT,360000.0,HDB 3-Room,Bukit Merah,1974.0,514.0,700.0,Telok Blangah Crescent,2,2,"Telok Blangah, Harbourfront",Central,2025-04-03 02:55:46
-208A CLEMENTI AVENUE 6,1050000.0,HDB 4-Room,Clementi,2016.0,1049.0,1001.0,Clementi Avenue 6,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-103 CLEMENTI STREET 14,999999.0,HDB 5-Room,Clementi,1984.0,756.0,1323.0,Clementi Street 14,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-103 CLEMENTI STREET 14,890000.0,HDB 5-Room,Clementi,1984.0,673.0,1323.0,Clementi Street 14,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-311B CLEMENTI AVENUE 4,1020000.0,HDB 4-Room,Clementi,2015.0,1185.0,861.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-312C CLEMENTI AVENUE 4,1300000.0,HDB 5-Room,Clementi,2016.0,1078.0,1206.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-431 CLEMENTI AVENUE 3,555000.0,HDB 3-Room,Clementi,1978.0,629.0,882.0,Clementi Avenue 3,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-312A CLEMENTI AVENUE 4,1350000.0,HDB 5-Room,Clementi,2016.0,1110.0,1216.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-375 CLEMENTI AVENUE 4,618000.0,HDB 3-Room,Clementi,1980.0,709.0,872.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-103 CLEMENTI STREET 14,999999.0,HDB 5-Room,Clementi,1984.0,756.0,1323.0,Clementi Street 14,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-373 CLEMENTI AVENUE 4,620000.0,HDB 4-Room,Clementi,1981.0,633.0,980.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-362 CLEMENTI AVENUE 2,688000.0,HDB 4-Room,Clementi,1977.0,695.0,990.0,Clementi Avenue 2,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-418 CLEMENTI AVENUE 1,1088888.0,HDB 4-Room,Clementi,2011.0,1012.0,1076.0,Clementi Avenue 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-339 CLEMENTI AVENUE 5,530000.0,HDB 3-Room,Clementi,1978.0,600.0,883.0,Clementi Avenue 5,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-301 CLEMENTI AVENUE 4,668888.0,HDB 4-Room,Clementi,1978.0,676.0,990.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-12 DOVER CLOSE EAST,888888.0,HDB 5-Room,Queenstown,1977.0,706.0,1259.0,Dover Close East,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-377 CLEMENTI AVENUE 5,620000.0,HDB 4-Room,Clementi,1980.0,633.0,979.0,Clementi Avenue 5,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-711 CLEMENTI WEST STREET 2,388000.0,HDB 3-Room,Clementi,1979.0,538.0,721.0,Clementi West Street 2,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-325 CLEMENTI AVENUE 5,480000.0,HDB 3-Room,Clementi,1977.0,666.0,721.0,Clementi Avenue 5,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-03 02:55:46
-468 NORTH BRIDGE ROAD,530000.0,HDB 3-Room,Kallang/Whampoa,1978.0,820.0,646.0,North Bridge Road,2,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-264 WATERLOO STREET,638888.0,HDB 3-Room,Central Area,1978.0,873.0,732.0,Waterloo Street,2,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-15 BEACH ROAD,600000.0,HDB 4-Room,Kallang/Whampoa,1974.0,724.0,829.0,Beach Road,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-6 BEACH ROAD,350000.0,HDB 2-Room,Kallang/Whampoa,1968.0,774.0,452.0,Beach Road,1,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-462 CRAWFORD LANE,450000.0,HDB 3-Room,Kallang/Whampoa,1980.0,698.0,645.0,Crawford Lane,2,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-461 CRAWFORD LANE,980000.0,HDB 5-Room,Kallang/Whampoa,1981.0,746.0,1313.0,Crawford Lane,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-12 NORTH BRIDGE ROAD,858000.0,HDB 5-Room,Kallang/Whampoa,1974.0,699.0,1227.0,North Bridge Road,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-1 BEACH ROAD,540000.0,HDB 3-Room,Kallang/Whampoa,1970.0,678.0,796.0,Beach Road,2,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-262 WATERLOO STREET,1188000.0,HDB 4-Room,Central Area,1978.0,1347.0,882.0,Waterloo Street,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-467 NORTH BRIDGE ROAD,950000.0,HDB 5-Room,Kallang/Whampoa,1978.0,736.0,1291.0,North Bridge Road,4,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-15 BEACH ROAD,738888.0,HDB 4-Room,Kallang/Whampoa,1974.0,891.0,829.0,Beach Road,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-3 BEACH ROAD,460000.0,HDB 3-Room,Kallang/Whampoa,1970.0,630.0,730.0,Beach Road,2,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-232 BAIN STREET,880000.0,HDB 4-Room,Central Area,1979.0,997.0,883.0,Bain Street,3,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-9 SELEGIE ROAD,370000.0,HDB 2-Room,Central Area,1963.0,764.0,484.0,Selegie Road,1,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-1 BEACH ROAD,728888.0,HDB 4-Room,Kallang/Whampoa,1970.0,880.0,828.0,Beach Road,3,1,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-15 BEACH ROAD,700000.0,HDB 4-Room,Kallang/Whampoa,1974.0,99.0,845.0,828 sqft,3,2,"Middle Road, Golden Mile",Central,2025-04-03 02:55:46
-50 DORSET ROAD,615000.0,HDB 3-Room,Kallang/Whampoa,1978.0,697.0,882.0,Dorset Road,2,2,Little India,Central,2025-04-03 02:55:46
-30 KELANTAN ROAD,515000.0,HDB 3-Room,Central Area,1980.0,725.0,710.0,Kelantan Road,2,2,Little India,Central,2025-04-03 02:55:46
-663 BUFFALO ROAD,620000.0,HDB 4-Room,Central Area,1981.0,703.0,882.0,Buffalo Road,3,2,Little India,Central,2025-04-03 02:55:46
-13 FARRER PARK ROAD,998000.0,HDB 5-Room,Kallang/Whampoa,2002.0,851.0,1173.0,Farrer Park Road,3,2,Little India,Central,2025-04-03 02:55:46
-10 GLOUCESTER ROAD,550000.0,HDB 3-Room,Kallang/Whampoa,1976.0,763.0,721.0,Gloucester Road,2,2,Little India,Central,2025-04-03 02:55:46
-639 ROWELL ROAD,1100000.0,HDB 5-Room,Central Area,1982.0,735.0,1496.0,Rowell Road,3,2,Little India,Central,2025-04-03 02:55:46
-13 FARRER PARK ROAD,895000.0,HDB 4-Room,Kallang/Whampoa,2002.0,925.0,968.0,Farrer Park Road,3,2,Little India,Central,2025-04-03 02:55:46
-639 ROWELL ROAD,1100000.0,HDB 5-Room,Central Area,1982.0,735.0,1496.0,Rowell Road,3,2,Little India,Central,2025-04-03 02:55:46
-639 ROWELL ROAD,790000.0,HDB 4-Room,Central Area,1982.0,680.0,1162.0,Rowell Road,3,2,Little India,Central,2025-04-03 02:55:46
-29 KELANTAN ROAD,460000.0,HDB 3-Room,Central Area,1977.0,657.0,700.0,Kelantan Road,2,1,Little India,Central,2025-04-03 02:55:46
-29 KELANTAN ROAD,518000.0,HDB 3-Room,Central Area,1977.0,741.0,699.0,Kelantan Road,2,2,Little India,Central,2025-04-03 02:55:46
-49 DORSET ROAD,830000.0,HDB 4-Room,Kallang/Whampoa,1978.0,728.0,1140.0,Dorset Road,3,2,Little India,Central,2025-04-03 02:55:46
-684 RACE COURSE ROAD,590000.0,HDB 3-Room,Kallang/Whampoa,1985.0,870.0,678.0,Race Course Road,2,2,Little India,Central,2025-04-03 02:55:46
-46 OWEN ROAD,2400000.0,HDB 4-Room,Kallang/Whampoa,1978.0,1474.0,1628.0,Owen Road,3,3,Little India,Central,2025-04-03 02:55:46
-15 FARRER PARK ROAD,680000.0,HDB 3-Room,Kallang/Whampoa,2002.0,1019.0,667.0,Farrer Park Road,2,2,Little India,Central,2025-04-03 02:55:46
-683 TESSENSOHN ROAD,800000.0,HDB 4-Room,Kallang/Whampoa,1985.0,721.0,1109.0,Tessensohn Road,3,2,Little India,Central,2025-04-03 02:55:46
-807 KING GEORGE'S AVENUE,1100000.0,HDB 5-Room,Kallang/Whampoa,1980.0,889.0,1238.0,King George's Avenue,3,2,Little India,Central,2025-04-03 02:55:46
-12 FARRER PARK ROAD,925000.0,HDB 4-Room,Kallang/Whampoa,2002.0,956.0,968.0,Farrer Park Road,3,2,Little India,Central,2025-04-03 02:55:46
-805 KING GEORGE'S AVENUE,350000.0,HDB 2-Room,Kallang/Whampoa,1980.0,740.0,473.0,King George's Avenue,1,1,Little India,Central,2025-04-03 02:55:46
-50 DORSET ROAD,750000.0,HDB 4-Room,Kallang/Whampoa,1978.0,758.0,990.0,Dorset Road,3,2,Little India,Central,2025-04-03 02:55:46
-30 HOLLAND CLOSE,1280000.0,HDB 5-Room,Queenstown,1995.0,951.0,1346.0,Holland Close,4,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-3 HOLLAND CLOSE,1280000.0,HDB 5-Room,Queenstown,1997.0,959.0,1335.0,Holland Close,4,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-22 GHIM MOH LINK,1280000.0,HDB 5-Room,Queenstown,2011.0,1053.0,1216.0,Ghim Moh Link,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-3 QUEEN'S ROAD,680000.0,HDB 4-Room,Bukit Timah,1973.0,694.0,980.0,Queen's Road,3,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-3 GHIM MOH ROAD,480000.0,HDB 3-Room,Queenstown,1975.0,587.0,818.0,Ghim Moh Road,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-11 HOLLAND DRIVE,548000.0,HDB 3-Room,Queenstown,1974.0,783.0,700.0,Holland Drive,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-21 HOLLAND DRIVE,998000.0,HDB 5-Room,Queenstown,1974.0,793.0,1259.0,Holland Drive,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-4 QUEEN'S ROAD,528000.0,HDB 3-Room,Bukit Timah,1973.0,673.0,785.0,Queen's Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-8 GHIM MOH ROAD,950000.0,HDB 5-Room,Queenstown,1976.0,755.0,1259.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-18A HOLLAND DRIVE,1288888.0,HDB 4-Room,Queenstown,2010.0,1302.0,990.0,Holland Drive,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-6 HOLLAND CLOSE,495000.0,HDB 3-Room,Queenstown,1973.0,707.0,700.0,Holland Close,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-8 EMPRESS ROAD,499999.0,HDB 3-Room,Bukit Timah,1975.0,714.0,700.0,Empress Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-19 GHIM MOH ROAD,448000.0,HDB 3-Room,Queenstown,1976.0,641.0,699.0,Ghim Moh Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-3 GHIM MOH ROAD,480000.0,HDB 3-Room,Queenstown,1975.0,587.0,818.0,Ghim Moh Road,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-96 DAWSON ROAD,1680000.0,HDB 4PA (Premium Apartment),Queenstown,2020.0,1814.0,926.0,Dawson Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-7 GHIM MOH ROAD,850000.0,HDB 5-Room,Queenstown,1976.0,675.0,1259.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-13 HOLLAND DRIVE,760000.0,HDB 4-Room,Queenstown,1974.0,803.0,947.0,Holland Drive,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-9 HOLLAND AVENUE,598888.0,HDB 3-Room,Queenstown,1973.0,763.0,785.0,Holland Avenue,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-13 GHIM MOH ROAD,1150000.0,HDB 5-Room,Queenstown,1976.0,869.0,1323.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-03 02:55:46
-69 MOULMEIN ROAD,628000.0,HDB 4-Room,Kallang/Whampoa,1972.0,695.0,904.0,Moulmein Road,3,2,"Watten Estate, Novena, Thomson",Central,2025-04-03 02:55:46
-69 MOULMEIN ROAD,623888.0,HDB 4-Room,Kallang/Whampoa,1972.0,690.0,904.0,Moulmein Road,3,2,"Watten Estate, Novena, Thomson",Central,2025-04-03 02:55:46
-108 JALAN RAJAH,1030000.0,HDB Exec Maisonette,Kallang/Whampoa,1983.0,626.0,1646.0,Jalan Rajah,3,3,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-80B LORONG 4 TOA PAYOH,968000.0,HDB 4-Room,Toa Payoh,1994.0,865.0,1119.0,Lorong 4 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-112 LORONG 1 TOA PAYOH,410000.0,HDB 3-Room,Toa Payoh,1967.0,587.0,699.0,Lorong 1 Toa Payoh,2,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-143 LORONG 2 TOA PAYOH,1099999.0,HDB 5-Room,Toa Payoh,2000.0,929.0,1184.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-130B LORONG 1 TOA PAYOH,1140000.0,HDB 4-Room,Toa Payoh,2017.0,1139.0,1001.0,Lorong 1 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-237 LORONG 1 TOA PAYOH,1050000.0,HDB Exec Maisonette,Toa Payoh,1986.0,668.0,1572.0,Lorong 1 Toa Payoh,4,3,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-103 JALAN RAJAH,1038888.0,HDB 5-Room,Kallang/Whampoa,1983.0,694.0,1496.0,Jalan Rajah,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-131A LORONG 1 TOA PAYOH,820000.0,HDB 3-Room,Toa Payoh,2017.0,1120.0,732.0,Lorong 1 Toa Payoh,2,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-34 JALAN BAHAGIA,320000.0,HDB 3-Room,Kallang/Whampoa,1963.0,531.0,603.0,Jalan Bahagia,2,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-156 LORONG 1 TOA PAYOH,920000.0,HDB 4-Room,Toa Payoh,1997.0,846.0,1087.0,Lorong 1 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-12 LORONG 7 TOA PAYOH,380000.0,HDB 3-Room,Toa Payoh,1969.0,535.0,710.0,Lorong 7 Toa Payoh,2,1,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-122 LORONG 2 TOA PAYOH,820000.0,HDB 4-Room,Toa Payoh,1998.0,762.0,1076.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-117A JALAN TENTERAM,799000.0,HDB 4-Room,Kallang/Whampoa,2016.0,798.0,1001.0,Jalan Tenteram,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-18 LORONG 7 TOA PAYOH,600000.0,HDB 3-Room,Toa Payoh,1969.0,1000.0,600.0,Lorong 7 Toa Payoh,2,1,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-38B BENDEMEER ROAD,728888.0,HDB 3-Room,Kallang/Whampoa,2010.0,981.0,743.0,Bendemeer Road,2,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-155 LORONG 1 TOA PAYOH,855000.0,HDB 4-Room,Toa Payoh,1998.0,787.0,1087.0,Lorong 1 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-139A LORONG 1A TOA PAYOH,1146000.0,HDB 4PA (Premium Apartment),Toa Payoh,2012.0,1169.0,980.0,Lorong 1A Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-142 LORONG 2 TOA PAYOH,938000.0,HDB 4-Room,Toa Payoh,1999.0,872.0,1076.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-117A JALAN TENTERAM,920000.0,HDB 4-Room,Kallang/Whampoa,2016.0,919.0,1001.0,Jalan Tenteram,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-03 02:55:46
-32 BALAM ROAD,348888.0,HDB 3-Room,Geylang,1965.0,569.0,613.0,Balam Road,2,1,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1188888.0,HDB 4-Room,2020,2020.0,1188.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-19 JOO SENG ROAD,840000.0,HDB 5-Room,Toa Payoh,1987.0,651.0,1291.0,Joo Seng Road,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1088000.0,HDB 4-Room,2019,2019.0,1087.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1100000.0,HDB 4-Room,2020,2020.0,1099.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1038000.0,HDB 4-Room,2019,2019.0,1037.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1130000.0,HDB 4-Room,2020,2020.0,1129.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1150000.0,HDB 4-Room,2020,2020.0,1149.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-105A BIDADARI PARK DRIVE,1190000.0,HDB 4-Room,2019,2019.0,1176.0,1012.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1098000.0,HDB 4-Room,2019,2019.0,1097.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-7 UPPER ALJUNIED LANE,625000.0,HDB 3-Room,Toa Payoh,2015.0,854.0,732.0,Upper Aljunied Lane,2,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1100000.0,HDB 4-Room,2020,2020.0,1099.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1198000.0,HDB 4-Room,2019,2019.0,1197.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-102B BIDADARI PARK DRIVE,1120000.0,HDB 4-Room,2020,2020.0,1119.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1098000.0,HDB 4-Room,2019,2019.0,1097.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-44 CIRCUIT ROAD,308000.0,HDB 2-Room,Geylang,1964.0,681.0,452.0,Circuit Road,1,1,"Macpherson, Braddell",East,2025-04-03 02:55:46
-106B BIDADARI PARK DRIVE,1168000.0,HDB 4-Room,2019,2019.0,1154.0,1012.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-118A ALKAFF CRESCENT,1088000.0,HDB 4-Room,2019,2019.0,1087.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-03 02:55:46
-82A CIRCUIT ROAD,1100000.0,HDB 4-Room,Geylang,2019.0,1099.0,1001.0,Circuit Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-32 CASSIA CRESCENT,468000.0,HDB 3-Room,Geylang,1980.0,639.0,732.0,Cassia Crescent,2,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-83B CIRCUIT ROAD,1100000.0,HDB 4-Room,Geylang,2019.0,1099.0,1001.0,Circuit Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-333 UBI AVENUE 1,998000.0,HDB Exec Maisonette,Geylang,1985.0,635.0,1572.0,Ubi Avenue 1,4,3,"Geylang, Eunos",East,2025-04-03 02:55:46
-3B UPPER BOON KENG ROAD,1300000.0,HDB 5-Room,Kallang/Whampoa,2005.0,1098.0,1184.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-2A UPPER BOON KENG ROAD,1120000.0,HDB 5-Room,Kallang/Whampoa,2006.0,946.0,1184.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-848 SIMS AVENUE,3800000.0,HDB 5-Room,Geylang,1985.0,2041.0,1862.0,Sims Avenue,4,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-45 JALAN TIGA,980000.0,HDB 5-Room,Geylang,2003.0,828.0,1184.0,Jalan Tiga,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-15 UPPER BOON KENG ROAD,560000.0,HDB 4-Room,Kallang/Whampoa,1974.0,591.0,947.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-638 BEDOK RESERVOIR ROAD,1099999.0,HDB Exec Apartment,Bedok,1992.0,700.0,1571.0,Bedok Reservoir Road,4,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-112 ALJUNIED CRESCENT,600000.0,HDB 3-Room,Geylang,1979.0,688.0,872.0,Aljunied Crescent,2,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-640 BEDOK RESERVOIR ROAD,1080000.0,HDB Exec Apartment,Bedok,1993.0,697.0,1550.0,Bedok Reservoir Road,4,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-83B CIRCUIT ROAD,1100000.0,HDB 4-Room,Geylang,2019.0,1099.0,1001.0,Circuit Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-318 UBI AVENUE 1,680888.0,HDB 4-Room,Geylang,1985.0,608.0,1119.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-346 UBI AVENUE 1,625000.0,HDB 4-Room,Geylang,1985.0,559.0,1119.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-126 ALJUNIED ROAD,850000.0,HDB 5-Room,Geylang,1982.0,653.0,1302.0,Aljunied Road,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-45 JALAN TIGA,928000.0,HDB 4-Room,Geylang,2003.0,927.0,1001.0,Jalan Tiga,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-314 UBI AVENUE 1,535000.0,HDB 4-Room,Geylang,1985.0,592.0,904.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-03 02:55:46
-59 MARINE TERRACE,508888.0,HDB 3-Room,Marine Parade,1974.0,727.0,700.0,Marine Terrace,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-2 MARINE TERRACE,850000.0,HDB 5-Room,Marine Parade,1974.0,658.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-14 MARINE TERRACE,928888.0,HDB 5-Room,Marine Parade,1974.0,707.0,1313.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-77 MARINE DRIVE,980000.0,HDB 5-Room,Marine Parade,1976.0,759.0,1291.0,Marine Drive,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-35 MARINE CRESCENT,658000.0,HDB 4-Room,Marine Parade,1974.0,746.0,882.0,Marine Crescent,3,1,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-2 MARINE TERRACE,1000000.0,HDB 5-Room,Marine Parade,1974.0,774.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-18 MARINE TERRACE,680000.0,HDB 4-Room,Marine Parade,1974.0,718.0,947.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-77 MARINE DRIVE,980000.0,HDB 5-Room,Marine Parade,1976.0,759.0,1291.0,Marine Drive,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-81 MARINE PARADE CENTRAL,4500000.0,HDB 3-Room,Marine Parade,1976.0,2947.0,1527.0,Marine Parade Central,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-47 MARINE CRESCENT,528000.0,HDB 3-Room,Marine Parade,1974.0,754.0,700.0,Marine Crescent,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-2 MARINE TERRACE,958888.0,HDB 5-Room,Marine Parade,1974.0,742.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-10 HAIG ROAD,438000.0,HDB 3-Room,Geylang,1976.0,626.0,700.0,Haig Road,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-65 MARINE DRIVE,478000.0,HDB 3-Room,Marine Parade,1975.0,683.0,700.0,Marine Drive,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-44 MARINE CRESCENT,800000.0,HDB 5-Room,Marine Parade,1975.0,620.0,1291.0,Marine Crescent,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-6 MARINE TERRACE,480000.0,HDB 3-Room,Marine Parade,1974.0,686.0,700.0,Marine Terrace,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-14 KAMPONG ARANG ROAD,880000.0,HDB 4-Room,Kallang/Whampoa,1964.0,665.0,1324.0,Kampong Arang Road,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-57 MARINE TERRACE,530000.0,HDB 3-Room,Marine Parade,1974.0,757.0,700.0,Marine Terrace,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-64 MARINE DRIVE,480000.0,HDB 3-Room,Marine Parade,1975.0,744.0,645.0,Marine Drive,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-44 MARINE CRESCENT,800000.0,HDB 5-Room,Marine Parade,1975.0,620.0,1291.0,Marine Crescent,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-03 02:55:46
-4 BEDOK SOUTH AVENUE 1,440000.0,HDB 3-Room,Bedok,1975.0,561.0,785.0,Bedok South Avenue 1,3,1,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-21 BEDOK SOUTH ROAD,860000.0,HDB 5-Room,Bedok,1975.0,683.0,1259.0,Bedok South Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-5 BEDOK SOUTH AVENUE 2,549999.0,HDB 4-Room,Bedok,1975.0,623.0,883.0,Bedok South Avenue 2,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-706 BEDOK NORTH ROAD,598000.0,HDB 4-Room,Bedok,1980.0,610.0,980.0,Bedok North Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-11 CHAI CHEE ROAD,950000.0,HDB 5-Room,Bedok,1999.0,736.0,1291.0,Chai Chee Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-748A BEDOK RESERVOIR CRESCENT,868000.0,HDB 4-Room,Bedok,2014.0,927.0,936.0,Bedok Reservoir Crescent,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-54 NEW UPPER CHANGI ROAD,699999.0,HDB 5-Room,Bedok,1976.0,551.0,1270.0,New Upper Changi Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-107 BEDOK RESERVOIR ROAD,599999.0,HDB 4-Room,Bedok,1985.0,613.0,979.0,Bedok Reservoir Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-221A BEDOK CENTRAL,958000.0,HDB 4-Room,Bedok,2008.0,918.0,1044.0,Bedok Central,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-554 BEDOK NORTH STREET 3,450000.0,HDB 3-Room,Bedok,1979.0,616.0,731.0,Bedok North Street 3,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-431A BEDOK NORTH ROAD,980000.0,HDB 4-Room,Bedok,2019.0,968.0,1012.0,Bedok North Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-10E BEDOK SOUTH AVENUE 2,1088000.0,HDB Exec Apartment,Bedok,1992.0,692.0,1572.0,Bedok South Avenue 2,4,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-766 BEDOK RESERVOIR VIEW,695000.0,HDB 4PA (Premium Apartment),Bedok,1999.0,615.0,1130.0,Bedok Reservoir View,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-706 BEDOK NORTH ROAD,620000.0,HDB 4-Room,Bedok,1980.0,633.0,980.0,Bedok North Road,4,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-769 BEDOK RESERVOIR VIEW,748000.0,HDB 4PA (Premium Apartment),Bedok,1999.0,662.0,1130.0,Bedok Reservoir View,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-516 BEDOK NORTH AVENUE 2,880000.0,HDB 5-Room,Bedok,1978.0,687.0,1281.0,Bedok North Avenue 2,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-161 BEDOK SOUTH AVENUE 3,1159000.0,HDB Exec Maisonette,Bedok,1985.0,714.0,1624.0,Bedok South Avenue 3,3,3,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-180 BEDOK NORTH ROAD,720000.0,HDB 4-Room,Bedok,2004.0,727.0,990.0,Bedok North Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-114 BEDOK NORTH STREET 2,350000.0,HDB 2-Room,Bedok,1977.0,740.0,473.0,Bedok North Street 2,1,1,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-96 BEDOK NORTH AVENUE 4,699900.0,HDB 5-Room,Bedok,1978.0,529.0,1324.0,Bedok North Avenue 4,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-03 02:55:46
-5 CHANGI VILLAGE ROAD,500000.0,HDB 3-Room,Pasir Ris,1978.0,627.0,797.0,Changi Village Road,2,2,"Loyang, Changi",East,2025-04-03 02:55:46
-4 CHANGI VILLAGE ROAD,340000.0,HDB 3-Room,Pasir Ris,1975.0,427.0,797.0,Changi Village Road,2,1,"Loyang, Changi",East,2025-04-03 02:55:46
-895 TAMPINES STREET 81,1080000.0,HDB Exec Maisonette,Tampines,1988.0,687.0,1572.0,Tampines Street 81,3,3,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-601D TAMPINES AVENUE 9,818888.0,HDB 4-Room,Tampines,2018.0,827.0,990.0,Tampines Avenue 9,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-606D TAMPINES STREET 61,815000.0,HDB 4-Room,Tampines,2018.0,823.0,990.0,Tampines Street 61,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-741 TAMPINES STREET 72,690000.0,HDB 4-Room,Tampines,1996.0,641.0,1076.0,Tampines Street 72,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-873 TAMPINES STREET 84,768000.0,HDB 5-Room,Tampines,1988.0,590.0,1302.0,Tampines Street 84,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-498J TAMPINES STREET 45,1299000.0,HDB Exec Maisonette,Tampines,1995.0,821.0,1582.0,Tampines Street 45,5,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-609B TAMPINES NORTH DRIVE 1,850000.0,HDB 5-Room,Tampines,2019.0,699.0,1216.0,Tampines North Drive 1,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-614B TAMPINES NORTH DRIVE 1,838000.0,HDB 5-Room,Tampines,2019.0,689.0,1216.0,Tampines North Drive 1,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-548 PASIR RIS STREET 51,1100000.0,HDB Exec Apartment,Pasir Ris,1991.0,710.0,1550.0,Pasir Ris Street 51,4,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-168A SIMEI LANE,980000.0,HDB 5-Room,Tampines,2011.0,753.0,1302.0,Simei Lane,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-167C SIMEI LANE,960000.0,HDB 5-Room,Tampines,2011.0,833.0,1152.0,Simei Lane,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-747 PASIR RIS STREET 71,735000.0,HDB 5-Room,Pasir Ris,1994.0,565.0,1302.0,Pasir Ris Street 71,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-774 PASIR RIS STREET 71,660888.0,HDB 4-Room,Pasir Ris,1995.0,591.0,1119.0,Pasir Ris Street 71,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-530D PASIR RIS DRIVE 1,950000.0,HDB 5-Room,Pasir Ris,2015.0,841.0,1130.0,Pasir Ris Drive 1,4,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-530A PASIR RIS DRIVE 1,870000.0,HDB 4PA (Premium Apartment),Pasir Ris,2015.0,940.0,926.0,Pasir Ris Drive 1,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-534 PASIR RIS DRIVE 1,1250000.0,HDB Exec Maisonette,Pasir Ris,1992.0,785.0,1593.0,Pasir Ris Drive 1,4,3,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-606A TAMPINES STREET 61,780000.0,HDB 4-Room,Tampines,2018.0,788.0,990.0,Tampines Street 61,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-776 PASIR RIS STREET 71,650000.0,HDB 4-Room,Pasir Ris,1995.0,570.0,1141.0,Pasir Ris Street 71,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-519B TAMPINES CENTRAL 8,880000.0,HDB 4-Room,Tampines,2014.0,973.0,904.0,Tampines Central 8,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-168C SIMEI LANE,870000.0,HDB 4-Room,Tampines,2011.0,860.0,1012.0,Simei Lane,3,2,"Tampines, Pasir Ris",East,2025-04-03 02:55:46
-127 RIVERVALE STREET,680000.0,HDB 5-Room,Sengkang,1998.0,527.0,1291.0,Rivervale Street,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-996B BUANGKOK CRESCENT,630000.0,HDB 4-Room,Hougang,2018.0,629.0,1001.0,Buangkok Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-127 RIVERVALE STREET,600000.0,HDB 4-Room,Sengkang,1998.0,558.0,1076.0,Rivervale Street,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-273B PUNGGOL PLACE,940000.0,HDB 5PA (Premium Apartment),Punggol,2011.0,774.0,1215.0,Punggol Place,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-215B COMPASSVALE DRIVE,777888.0,HDB 4PA (Premium Apartment),Sengkang,2015.0,786.0,990.0,Compassvale Drive,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-978C BUANGKOK CRESCENT,700000.0,HDB 5-Room,Hougang,2001.0,591.0,1184.0,Buangkok Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-996A BUANGKOK CRESCENT,629999.0,HDB 4-Room,Hougang,2018.0,629.0,1001.0,Buangkok Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-282C SENGKANG EAST AVENUE,780000.0,HDB 4PA (Premium Apartment),Sengkang,2014.0,788.0,990.0,Sengkang East Avenue,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-997A BUANGKOK CRESCENT,648888.0,HDB 4-Room,Hougang,2017.0,648.0,1001.0,Buangkok Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-356A ANCHORVALE LANE,760000.0,HDB 4-Room,Sengkang,2019.0,759.0,1001.0,Anchorvale Lane,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-356A ANCHORVALE LANE,720000.0,HDB 4-Room,Sengkang,2019.0,719.0,1001.0,Anchorvale Lane,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-144 RIVERVALE DRIVE,600000.0,HDB 4-Room,Sengkang,1998.0,558.0,1076.0,Rivervale Drive,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-238 HOUGANG AVENUE 1,1200000.0,HDB Exec Maisonette,Hougang,1983.0,808.0,1485.0,Hougang Avenue 1,4,3,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-105B EDGEFIELD PLAINS,650000.0,HDB 5-Room,Punggol,2001.0,549.0,1184.0,Edgefield Plains,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-475A UPPER SERANGOON CRESCENT,830000.0,HDB 4PA (Premium Apartment),Serangoon,2014.0,838.0,990.0,Upper Serangoon Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-645 PUNGGOL CENTRAL,780000.0,HDB 5PA (Premium Apartment),Punggol,2003.0,659.0,1184.0,Punggol Central,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-524 HOUGANG AVENUE 6,638000.0,HDB 4-Room,Hougang,1986.0,565.0,1130.0,Hougang Avenue 6,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-211C PUNGGOL WALK,688000.0,HDB 4-Room,Punggol,2013.0,695.0,990.0,Punggol Walk,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-183A RIVERVALE CRESCENT,660000.0,HDB 5-Room,Sengkang,2001.0,557.0,1184.0,Rivervale Crescent,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-259C PUNGGOL FIELD,860000.0,HDB 5-Room,Punggol,2014.0,707.0,1216.0,Punggol Field,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-03 02:55:46
-405 SIN MING AVENUE,1050000.0,HDB 5-Room,Bishan,1985.0,813.0,1292.0,Sin Ming Avenue,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-504 ANG MO KIO AVENUE 8,1300000.0,HDB Exec Apartment,Ang Mo Kio,1979.0,741.0,1754.0,Ang Mo Kio Avenue 8,5,4,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-443 ANG MO KIO AVENUE 10,999999.0,HDB 5-Room,Ang Mo Kio,1978.0,693.0,1442.0,Ang Mo Kio Avenue 10,4,4,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-403 ANG MO KIO AVENUE 10,400000.0,HDB 3-Room,Ang Mo Kio,1978.0,555.0,721.0,Ang Mo Kio Avenue 10,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-501 ANG MO KIO AVENUE 5,838000.0,HDB 5-Room,Ang Mo Kio,1980.0,644.0,1302.0,Ang Mo Kio Avenue 5,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-588A ANG MO KIO STREET 52,1200000.0,HDB 5PA (Premium Apartment),Ang Mo Kio,2011.0,995.0,1206.0,Ang Mo Kio Street 52,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-115 BISHAN STREET 12,590000.0,HDB 3-Room,Bishan,1985.0,858.0,688.0,Bishan Street 12,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-307C ANG MO KIO AVENUE 1,580000.0,HDB 3-Room,Ang Mo Kio,2010.0,792.0,732.0,Ang Mo Kio Avenue 1,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-228 BISHAN STREET 23,880000.0,HDB 4-Room,Bishan,1989.0,724.0,1216.0,Bishan Street 23,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-130 BISHAN STREET 12,660000.0,HDB 4-Room,Bishan,1985.0,730.0,904.0,Bishan Street 12,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-216 ANG MO KIO AVENUE 1,468000.0,HDB 3-Room,Ang Mo Kio,1975.0,595.0,786.0,Ang Mo Kio Avenue 1,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-166 BISHAN STREET 13,799000.0,HDB 4-Room,Bishan,1987.0,720.0,1109.0,Bishan Street 13,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-637 ANG MO KIO AVENUE 6,490000.0,HDB 3-Room,Ang Mo Kio,1979.0,556.0,882.0,Ang Mo Kio Avenue 6,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-182 ANG MO KIO AVENUE 5,1068000.0,HDB 5-Room,Ang Mo Kio,1980.0,730.0,1464.0,Ang Mo Kio Avenue 5,4,4,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-221 ANG MO KIO AVENUE 1,899000.0,HDB 5-Room,Ang Mo Kio,1976.0,658.0,1367.0,Ang Mo Kio Avenue 1,4,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-160 BISHAN STREET 13,1288000.0,HDB Exec Maisonette,Bishan,1987.0,831.0,1550.0,Bishan Street 13,4,3,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-551 ANG MO KIO AVENUE 10,750000.0,HDB 5-Room,Ang Mo Kio,1980.0,591.0,1270.0,Ang Mo Kio Avenue 10,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-618 ANG MO KIO AVENUE 4,1000000.0,HDB 5-Room,Ang Mo Kio,1995.0,698.0,1432.0,Ang Mo Kio Avenue 4,3,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-116 BISHAN STREET 12,550000.0,HDB 3-Room,Bishan,1985.0,730.0,753.0,Bishan Street 12,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-185 BISHAN STREET 13,599999.0,HDB 3-Room,Bishan,1986.0,871.0,689.0,Bishan Street 13,2,2,"Bishan, Ang Mo Kio",Central,2025-04-03 02:55:46
-7 TOH YI DRIVE,1490000.0,HDB Exec Maisonette,Bukit Timah,1989.0,948.0,1571.0,Toh Yi Drive,4,3,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,907.0,1378.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1280000.0,HDB 5-Room,Bukit Timah,1988.0,928.0,1380.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,908.0,1376.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-11 TOH YI DRIVE,1150000.0,HDB 5-Room,Bukit Timah,1988.0,876.0,1313.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-5 TOH YI DRIVE,1388000.0,HDB 5-Room,Bukit Timah,1989.0,1057.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1300000.0,HDB 5-Room,Bukit Timah,1988.0,990.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1190000.0,HDB 5-Room,Bukit Timah,1988.0,864.0,1378.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-15 TOH YI DRIVE,1320000.0,HDB Exec Maisonette,Bukit Timah,1987.0,840.0,1571.0,Toh Yi Drive,4,3,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-14 TOH YI DRIVE,1190000.0,HDB 5-Room,Bukit Timah,1987.0,906.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-4 TOH YI DRIVE,940000.0,HDB 4-Room,Bukit Timah,1988.0,840.0,1119.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1180000.0,HDB 5-Room,Bukit Timah,1988.0,857.0,1377.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1180000.0,HDB 5-Room,Bukit Timah,1988.0,857.0,1377.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-7 TOH YI DRIVE,1280000.0,HDB Exec Apartment,Bukit Timah,1989.0,815.0,1571.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,908.0,1377.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-03 02:55:46
-263 BOON LAY DRIVE,599000.0,HDB 4-Room,Jurong West,1994.0,511.0,1173.0,Boon Lay Drive,3,2,Jurong,West,2025-04-03 02:55:46
-22 TEBAN GARDENS ROAD,700000.0,HDB 4-Room,Jurong East,2012.0,707.0,990.0,Teban Gardens Road,3,2,Jurong,West,2025-04-03 02:55:46
-285C TOH GUAN ROAD,1088000.0,HDB Exec Maisonette,Jurong East,1997.0,702.0,1550.0,Toh Guan Road,4,3,Jurong,West,2025-04-03 02:55:46
-313 JURONG EAST STREET 32,399000.0,HDB 3-Room,Jurong East,1983.0,501.0,797.0,Jurong East Street 32,2,2,Jurong,West,2025-04-03 02:55:46
-608 JURONG WEST STREET 65,815000.0,HDB Exec Apartment,Jurong West,1999.0,570.0,1431.0,Jurong West Street 65,4,2,Jurong,West,2025-04-03 02:55:46
-929 JURONG WEST STREET 92,490000.0,HDB 4-Room,Jurong West,1986.0,442.0,1109.0,Jurong West Street 92,3,2,Jurong,West,2025-04-03 02:55:46
-691 JURONG WEST CENTRAL 1,738000.0,HDB 5PA (Premium Apartment),Jurong West,1997.0,581.0,1270.0,Jurong West Central 1,3,2,Jurong,West,2025-04-03 02:55:46
-471 JURONG WEST STREET 41,1000000.0,HDB Exec Maisonette,Jurong West,1984.0,624.0,1603.0,Jurong West Street 41,4,3,Jurong,West,2025-04-03 02:55:46
-470 JURONG WEST STREET 41,1000000.0,HDB Exec Maisonette,Jurong West,1984.0,615.0,1625.0,Jurong West Street 41,4,3,Jurong,West,2025-04-03 02:55:46
-556 JURONG WEST STREET 42,820000.0,HDB Exec Maisonette,Jurong West,1984.0,512.0,1603.0,Jurong West Street 42,4,3,Jurong,West,2025-04-03 02:55:46
-322A JURONG EAST STREET 31,918000.0,HDB Exec Maisonette,Jurong East,1984.0,572.0,1604.0,Jurong East Street 31,4,3,Jurong,West,2025-04-03 02:55:46
-322A JURONG EAST STREET 31,918888.0,HDB Exec Maisonette,Jurong East,1984.0,581.0,1582.0,Jurong East Street 31,4,3,Jurong,West,2025-04-03 02:55:46
-697A JURONG WEST CENTRAL 3,1000000.0,HDB 5-Room,Jurong West,2016.0,822.0,1216.0,Jurong West Central 3,3,2,Jurong,West,2025-04-03 02:55:46
-407 JURONG WEST STREET 42,820000.0,HDB Exec Maisonette,Jurong West,1983.0,485.0,1690.0,Jurong West Street 42,4,3,Jurong,West,2025-04-03 02:55:46
-407 JURONG WEST STREET 42,800000.0,HDB Exec Maisonette,Jurong West,1983.0,496.0,1614.0,Jurong West Street 42,4,3,Jurong,West,2025-04-03 02:55:46
-866 JURONG WEST STREET 81,580000.0,HDB 5-Room,Jurong West,1994.0,428.0,1356.0,Jurong West Street 81,3,2,Jurong,West,2025-04-03 02:55:46
-726 JURONG WEST AVENUE 5,850000.0,HDB Exec Maisonette,Jurong West,1990.0,534.0,1593.0,Jurong West Avenue 5,4,3,Jurong,West,2025-04-03 02:55:46
-658C JURONG WEST STREET 65,650000.0,HDB 5-Room,Jurong West,2000.0,539.0,1205.0,Jurong West Street 65,3,2,Jurong,West,2025-04-03 02:55:46
-468 JURONG WEST STREET 41,530000.0,HDB 4-Room,Jurong West,1984.0,503.0,1054.0,Jurong West Street 41,3,2,Jurong,West,2025-04-03 02:55:46
-611 BUKIT PANJANG RING ROAD,768888.0,HDB 5-Room,Bukit Panjang,2000.0,643.0,1195.0,Bukit Panjang Ring Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-630 SENJA ROAD,758000.0,HDB 5PA (Premium Apartment),Bukit Panjang,,640.0,1184.0,Senja Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-463B BUKIT BATOK STREET 41,850000.0,HDB 5-Room,Bukit Batok,2019.0,699.0,1216.0,Bukit Batok Street 41,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-503 JELAPANG ROAD,950000.0,HDB Exec Maisonette,Bukit Panjang,1996.0,609.0,1560.0,Jelapang Road,4,3,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-171 BUKIT BATOK WEST AVENUE 8,535000.0,HDB 4-Room,Bukit Batok,1984.0,482.0,1109.0,Bukit Batok West Avenue 8,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-204 CHOA CHU KANG AVENUE 1,895000.0,HDB Exec Maisonette,Choa Chu Kang,1989.0,558.0,1603.0,Choa Chu Kang Avenue 1,4,3,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-157 JALAN TECK WHYE,520000.0,HDB 4-Room,Choa Chu Kang,1996.0,531.0,979.0,Jalan Teck Whye,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-463A BUKIT BATOK STREET 41,758000.0,HDB 5-Room,Bukit Batok,2019.0,623.0,1216.0,Bukit Batok Street 41,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-340 BUKIT BATOK STREET 34,575000.0,HDB 4-Room,Bukit Batok,1985.0,518.0,1109.0,Bukit Batok Street 34,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-387 BUKIT BATOK WEST AVENUE 5,738888.0,HDB 5-Room,Bukit Batok,2004.0,582.0,1270.0,Bukit Batok West Avenue 5,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-656 CHOA CHU KANG CRESCENT,858000.0,HDB Exec Apartment,Choa Chu Kang,1998.0,565.0,1518.0,Choa Chu Kang Crescent,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-284 CHOA CHU KANG AVENUE 3,599000.0,HDB 4-Room,Choa Chu Kang,1990.0,506.0,1184.0,Choa Chu Kang Avenue 3,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-609 BUKIT PANJANG RING ROAD,730000.0,HDB 5-Room,Bukit Panjang,2000.0,617.0,1184.0,Bukit Panjang Ring Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-319 BUKIT BATOK STREET 33,500000.0,HDB 4-Room,Bukit Batok,1985.0,553.0,904.0,Bukit Batok Street 33,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-449A BUKIT BATOK WEST AVENUE 9,708000.0,HDB 4-Room,Bukit Batok,2017.0,707.0,1001.0,Bukit Batok West Avenue 9,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-687C CHOA CHU KANG DRIVE,650000.0,HDB 5-Room,Choa Chu Kang,2000.0,549.0,1184.0,Choa Chu Kang Drive,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-550B SEGAR ROAD,740000.0,HDB 5-Room,Bukit Panjang,2014.0,609.0,1216.0,Segar Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-214 CHOA CHU KANG CENTRAL,940000.0,HDB Exec Maisonette,Choa Chu Kang,1989.0,594.0,1582.0,Choa Chu Kang Central,4,3,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-450B BUKIT BATOK WEST AVENUE 6,868000.0,HDB 5-Room,Bukit Batok,2017.0,714.0,1216.0,Bukit Batok West Avenue 6,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-296C BUKIT BATOK STREET 22,998000.0,HDB 5PA (Premium Apartment),Bukit Batok,2017.0,807.0,1237.0,Bukit Batok Street 22,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-03 02:55:46
-538 WOODLANDS DRIVE 16,628000.0,HDB 4-Room,Woodlands,1998.0,584.0,1076.0,Woodlands Drive 16,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-690D WOODLANDS DRIVE 75,618000.0,HDB 5PA (Premium Apartment),Woodlands,2001.0,522.0,1184.0,Woodlands Drive 75,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-424 WOODLANDS STREET 41,595000.0,HDB 4-Room,Woodlands,1996.0,547.0,1087.0,Woodlands Street 41,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-436 WOODLANDS STREET 41,525000.0,HDB 4-Room,Woodlands,1985.0,581.0,904.0,Woodlands Street 41,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-336 WOODLANDS AVENUE 1,520000.0,HDB 4-Room,Woodlands,1984.0,582.0,893.0,Woodlands Avenue 1,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-889D WOODLANDS DRIVE 50,725000.0,HDB 5-Room,Woodlands,2015.0,596.0,1216.0,Woodlands Drive 50,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-515 WOODLANDS DRIVE 14,608888.0,HDB 4-Room,Woodlands,1998.0,529.0,1152.0,Woodlands Drive 14,2,3,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-680 WOODLANDS AVENUE 6,740000.0,HDB 5-Room,Woodlands,1997.0,568.0,1302.0,Woodlands Avenue 6,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-603 WOODLANDS DRIVE 42,575000.0,HDB 4-Room,Woodlands,1995.0,524.0,1098.0,Woodlands Drive 42,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-688F WOODLANDS DRIVE 75,575000.0,HDB 4PA (Premium Apartment),Woodlands,2002.0,593.0,969.0,Woodlands Drive 75,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-783C WOODLANDS RISE,780000.0,HDB 5-Room,Woodlands,2017.0,641.0,1216.0,Woodlands Rise,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-620 WOODLANDS DRIVE 52,550000.0,HDB 4-Room,Woodlands,1997.0,556.0,990.0,Woodlands Drive 52,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-889A WOODLANDS DRIVE 50,640000.0,HDB 4-Room,Woodlands,2015.0,640.0,1000.0,Woodlands Drive 50,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-436 WOODLANDS STREET 41,525000.0,HDB 4-Room,Woodlands,1985.0,581.0,904.0,Woodlands Street 41,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-850 WOODLANDS STREET 82,1250000.0,HDB Exec Apartment,Woodlands,1985.0,649.0,1926.0,Woodlands Street 82,6,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-685C WOODLANDS DRIVE 73,720000.0,HDB 5-Room,Woodlands,2001.0,592.0,1216.0,Woodlands Drive 73,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-673 WOODLANDS DRIVE 71,788000.0,HDB 5-Room,Woodlands,1998.0,666.0,1184.0,Woodlands Drive 71,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-643 WOODLANDS RING ROAD,650000.0,HDB 4-Room,Woodlands,1997.0,598.0,1087.0,Woodlands Ring Road,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-702 WOODLANDS DRIVE 40,575000.0,HDB 4-Room,Woodlands,1995.0,524.0,1097.0,Woodlands Drive 40,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-689B WOODLANDS DRIVE 75,580000.0,HDB 4PA (Premium Apartment),Woodlands,2002.0,599.0,968.0,Woodlands Drive 75,3,2,"Kranji, Woodgrove",North,2025-04-03 02:55:46
-467A ADMIRALTY DRIVE,610000.0,HDB 5PA (Premium Apartment),Sembawang,2000.0,493.0,1237.0,Admiralty Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-128C CANBERRA STREET,749999.0,HDB 5-Room,Sembawang,2017.0,617.0,1216.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-470 SEMBAWANG DRIVE,580000.0,HDB 5-Room,Sembawang,1999.0,490.0,1184.0,Sembawang Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-128C CANBERRA STREET,750000.0,HDB 5-Room,Sembawang,2017.0,617.0,1216.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-469 ADMIRALTY DRIVE,688000.0,HDB 5-Room,Sembawang,1999.0,542.0,1270.0,Admiralty Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-107A CANBERRA STREET,660000.0,HDB 4-Room,Sembawang,2017.0,659.0,1001.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-120B CANBERRA CRESCENT,820000.0,HDB 5-Room,Sembawang,2016.0,674.0,1216.0,Canberra Crescent,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-121A CANBERRA STREET,750000.0,HDB 5-Room,Sembawang,2016.0,617.0,1216.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-127 YISHUN STREET 11,538000.0,HDB 4-Room,Yishun,1983.0,515.0,1044.0,Yishun Street 11,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-828 YISHUN STREET 81,999999.0,HDB Exec Apartment,Yishun,1987.0,654.0,1528.0,Yishun Street 81,4,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-504D MONTREAL DRIVE,550000.0,HDB 4-Room,Sembawang,1999.0,562.0,979.0,Montreal Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-102A CANBERRA STREET,650000.0,HDB 4-Room,Sembawang,2019.0,649.0,1001.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-470 SEMBAWANG DRIVE,590000.0,HDB 5-Room,Sembawang,1999.0,498.0,1184.0,Sembawang Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-792 YISHUN RING ROAD,799000.0,HDB Exec Apartment,Yishun,1986.0,523.0,1528.0,Yishun Ring Road,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-873 YISHUN STREET 81,638000.0,HDB 4-Room,Yishun,1987.0,570.0,1120.0,Yishun Street 81,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-104A CANBERRA STREET,737000.0,HDB 4-Room,Sembawang,2017.0,736.0,1001.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-469B ADMIRALTY DRIVE,598000.0,HDB 4PA (Premium Apartment),Sembawang,1999.0,545.0,1098.0,Admiralty Drive,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-123 YISHUN STREET 11,490000.0,HDB 3-Room,Yishun,1984.0,562.0,872.0,Yishun Street 11,2,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-750 YISHUN STREET 72,600000.0,HDB 4-Room,Yishun,1983.0,606.0,990.0,Yishun Street 72,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-126D CANBERRA STREET,830000.0,HDB 5-Room,Sembawang,2019.0,665.0,1249.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-03 02:55:46
-445B FERNVALE ROAD,408888.0,HDB 2-Room,Sengkang,2011.0,810.0,505.0,Fernvale Road,1,1,Seletar,North East,2025-04-03 02:55:46
-448B SENGKANG WEST WAY,388000.0,HDB 2-Room,Sengkang,2013.0,784.0,495.0,Sengkang West Way,1,1,Seletar,North East,2025-04-03 02:55:46
-409A FERNVALE ROAD,708000.0,HDB 5-Room,Sengkang,2004.0,572.0,1237.0,Fernvale Road,3,2,Seletar,North East,2025-04-03 02:55:46
-441D FERNVALE ROAD,738000.0,HDB 4-Room,Sengkang,2010.0,737.0,1001.0,Fernvale Road,3,2,Seletar,North East,2025-04-03 02:55:46
-436B FERNVALE ROAD,650000.0,HDB 4-Room,Sengkang,2008.0,629.0,1033.0,Fernvale Road,3,2,Seletar,North East,2025-04-03 02:55:46
-404B FERNVALE LANE,640000.0,HDB 5-Room,Sengkang,2003.0,522.0,1227.0,Fernvale Lane,3,2,Seletar,North East,2025-04-03 02:55:46
-408A FERNVALE ROAD,740000.0,HDB 5PA (Premium Apartment),Sengkang,2004.0,598.0,1237.0,Fernvale Road,3,2,Seletar,North East,2025-04-03 02:55:46
-457B SENGKANG WEST ROAD,399000.0,HDB 2-Room,Sengkang,2019.0,773.0,516.0,Sengkang West Road,1,1,Seletar,North East,2025-04-03 02:55:46
-440A FERNVALE LINK,648000.0,HDB 4-Room,Sengkang,2014.0,655.0,990.0,Fernvale Link,3,2,Seletar,North East,2025-04-03 02:55:46
-415A FERNVALE LINK,780000.0,HDB 5-Room,Sengkang,2014.0,641.0,1216.0,Fernvale Link,3,2,Seletar,North East,2025-04-03 02:55:46
-404B FERNVALE LANE,620000.0,HDB 5PA (Premium Apartment),Sengkang,2003.0,505.0,1227.0,Fernvale Lane,3,2,Seletar,North East,2025-04-03 02:55:46
-470B FERNVALE LINK,540000.0,HDB 3-Room,Sengkang,2015.0,738.0,732.0,Fernvale Link,2,2,Seletar,North East,2025-04-03 02:55:46
-472C FERNVALE STREET,650000.0,HDB 4-Room,Sengkang,2015.0,649.0,1001.0,Fernvale Street,3,2,Seletar,North East,2025-04-03 02:55:46
-416B FERNVALE LINK,798000.0,HDB 5-Room,Sengkang,2014.0,662.0,1206.0,Fernvale Link,3,2,Seletar,North East,2025-04-03 02:55:46
-469A SENGKANG WEST WAY,688000.0,HDB 4-Room,Sengkang,2015.0,687.0,1001.0,Sengkang West Way,3,2,Seletar,North East,2025-04-03 02:55:46
-455A SENGKANG WEST AVENUE,599000.0,HDB 4-Room,Sengkang,2019.0,598.0,1001.0,Sengkang West Avenue,3,2,Seletar,North East,2025-04-03 02:55:46
-467A FERNVALE LINK,380000.0,HDB 2-Room,Sengkang,2015.0,751.0,506.0,Fernvale Link,1,1,Seletar,North East,2025-04-03 02:55:46
-445A FERNVALE ROAD,688000.0,HDB 4-Room,Sengkang,2011.0,681.0,1011.0,Fernvale Road,3,2,Seletar,North East,2025-04-03 02:55:46
+538 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1978.0,961.0,645.0,Upper Cross Street,2,1,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+335A SMITH STREET,560000.0,HDB 3-Room,Central Area,1983.0,868.0,645.0,Smith Street,2,2,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+538 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1978.0,960.0,646.0,Upper Cross Street,2,1,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+533 UPPER CROSS STREET,620000.0,HDB 3-Room,Central Area,1979.0,895.0,693.0,Upper Cross Street,2,2,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+335A SMITH STREET,538000.0,HDB 3-Room,Central Area,1983.0,834.0,645.0,Smith Street,2,2,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+32 NEW MARKET ROAD,450000.0,HDB 2-Room,Central Area,1968.0,804.0,560.0,New Market Road,2,1,"Raffles Place, Cecil, Marina, People's Park",Central,2025-04-19 13:25:28
+6 EVERTON PARK,990000.0,HDB 5-Room,Bukit Merah,1965.0,667.0,1485.0,Everton Park,4,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1280000.0,HDB 4-Room,2,2009.0,1265.0,1012.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1465000.0,HDB 5-Room,2,2009.0,1284.0,1141.0,1 Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1430000.0,HDB 4PA (Premium Apartment),2,2009.0,1370.0,1044.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+13 CANTONMENT CLOSE,1120000.0,HDB 4-Room,Bukit Merah,2000.0,1156.0,969.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+2 TANJONG PAGAR PLAZA,550000.0,HDB 3-Room,Central Area,1976.0,866.0,635.0,Tanjong Pagar Plaza,2,1,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1450000.0,HDB 4-Room,2,2009.0,1449.0,1001.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1420000.0,HDB 4-Room,2,2009.0,1419.0,1001.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+4 EVERTON PARK,988000.0,HDB 5-Room,Bukit Merah,1965.0,98800.0,10.0,Everton Park,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+18 CANTONMENT CLOSE,1068888.0,HDB 4-Room,Bukit Merah,2000.0,1103.0,969.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+2 TANJONG PAGAR PLAZA,635000.0,HDB 3-Room,Central Area,1976.0,843.0,753.0,Tanjong Pagar Plaza,2,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+11 CANTONMENT CLOSE,1130000.0,HDB 4-Room,Bukit Merah,2000.0,1167.0,968.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1450000.0,HDB 4-Room,2,2009.0,1433.0,1012.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+1A CANTONMENT ROAD,1450000.0,HDB 4-Room,Central Area,2009.0,1404.0,1033.0,Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+PINNACLE @ DUXTON,1450000.0,HDB 4-Room,2,2009.0,1404.0,1033.0,1A Cantonment Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+7 TANJONG PAGAR PLAZA,880000.0,HDB 4-Room,Central Area,1979.0,985.0,893.0,Tanjong Pagar Plaza,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+17 CANTONMENT CLOSE,1080000.0,HDB 4-Room,Bukit Merah,2000.0,1115.0,969.0,Cantonment Close,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+3 TANJONG PAGAR PLAZA,565000.0,HDB 3-Room,Central Area,1976.0,890.0,635.0,Tanjong Pagar Plaza,2,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+110 SPOTTISWOODE PARK ROAD,900000.0,HDB 5-Room,Bukit Merah,1977.0,680.0,1323.0,Spottiswoode Park Road,3,2,"Anson, Tanjong Pagar",Central,2025-04-19 13:25:28
+61C STRATHMORE AVENUE,800000.0,HDB 3-Room,Queenstown,2010.0,1077.0,743.0,Strathmore Avenue,2,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+95 HAVELOCK ROAD,1100000.0,HDB 5-Room,Bukit Merah,1982.0,866.0,1270.0,Havelock Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+87 ZION ROAD,1158000.0,HDB 5-Room,Bukit Merah,1974.0,944.0,1227.0,Zion Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+48 STRATHMORE AVENUE,1088000.0,HDB 4-Room,Queenstown,2005.0,1124.0,968.0,Strathmore Avenue,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+46 LENGKOK BAHRU,720000.0,HDB 4-Room,Bukit Merah,1983.0,650.0,1108.0,Lengkok Bahru,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+88 DAWSON ROAD,1080000.0,HDB 4PA (Premium Apartment),Queenstown,2015.0,1209.0,893.0,Dawson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+88 DAWSON ROAD,1180000.0,HDB 4PA (Premium Apartment),Queenstown,2015.0,1321.0,893.0,Dawson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+75B REDHILL ROAD,1230000.0,HDB 5-Room,Bukit Merah,2005.0,994.0,1238.0,Redhill Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+45 KIM CHENG STREET,776000.0,HDB 3-Room,Bukit Merah,1949.0,819.0,947.0,Kim Cheng Street,2,1,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+95 HAVELOCK ROAD,1100000.0,HDB 5-Room,Bukit Merah,1982.0,866.0,1270.0,Havelock Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+148 MEI LING STREET,1200000.0,HDB Exec Apartment,Queenstown,1994.0,743.0,1614.0,Mei Ling Street,4,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+96A HENDERSON ROAD,1450000.0,HDB 5-Room,Bukit Merah,2018.0,1192.0,1216.0,Henderson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+86 DAWSON ROAD,1058000.0,HDB 4-Room,Queenstown,2015.0,1185.0,893.0,Dawson Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+95 COMMONWEALTH DRIVE,390000.0,HDB 3-Room,Queenstown,1964.0,533.0,732.0,Commonwealth Drive,2,1,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+141 JALAN BUKIT MERAH,420000.0,HDB 3-Room,Bukit Merah,1978.0,583.0,720.0,Jalan Bukit Merah,2,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+36 MARGARET DRIVE,1468000.0,HDB 4-Room,Queenstown,2021.0,1587.0,925.0,Margaret Drive,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+40A MARGARET DRIVE,1725000.0,HDB 5-Room,Queenstown,2021.0,1483.0,1163.0,Margaret Drive,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+43 LENGKOK BAHRU,668000.0,HDB 4-Room,Bukit Merah,1986.0,739.0,904.0,Lengkok Bahru,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+53 HAVELOCK ROAD,1100000.0,HDB 4-Room,Bukit Merah,2011.0,1087.0,1012.0,Havelock Road,3,2,"Queenstown, Tiong Bahru",Central,2025-04-19 13:25:28
+111A DEPOT ROAD,970000.0,HDB 5-Room,Bukit Merah,2004.0,784.0,1238.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+110 BUKIT PURMEI ROAD,580000.0,HDB 3-Room,Bukit Merah,1984.0,730.0,794.0,Bukit Purmei Road,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+110A DEPOT ROAD,958888.0,HDB 4-Room,Bukit Merah,2016.0,969.0,990.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+74 TELOK BLANGAH HEIGHTS,880000.0,HDB 5-Room,Bukit Merah,1977.0,699.0,1259.0,Telok Blangah Heights,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+53 TELOK BLANGAH DRIVE,790000.0,HDB 5-Room,Bukit Merah,1977.0,612.0,1291.0,Telok Blangah Drive,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+113 BUKIT PURMEI ROAD,768000.0,HDB 4-Room,Bukit Merah,1984.0,693.0,1108.0,Bukit Purmei Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+80C TELOK BLANGAH STREET 31,798000.0,HDB 3PA (Premium Apartment),Bukit Merah,2011.0,1092.0,731.0,Telok Blangah Street 31,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+103A DEPOT ROAD,850000.0,HDB 4-Room,Bukit Merah,1999.0,877.0,969.0,Depot Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+70C TELOK BLANGAH HEIGHTS,988000.0,HDB 4-Room,Bukit Merah,2016.0,987.0,1001.0,Telok Blangah Heights,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+34 TELOK BLANGAH WAY,508000.0,HDB 4-Room,Bukit Merah,1975.0,575.0,883.0,Telok Blangah Way,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+17 TELOK BLANGAH CRESCENT,840000.0,HDB 4-Room,Bukit Merah,2000.0,773.0,1086.0,Telok Blangah Crescent,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+90B TELOK BLANGAH STREET 31,1058888.0,HDB 4-Room,Bukit Merah,2017.0,1058.0,1001.0,Telok Blangah Street 31,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+53 TELOK BLANGAH DRIVE,860000.0,HDB 5-Room,Bukit Merah,1977.0,677.0,1270.0,Telok Blangah Drive,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+92A TELOK BLANGAH STREET 31,800000.0,HDB 3-Room,Bukit Merah,2017.0,1093.0,732.0,Telok Blangah Street 31,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+42 TELOK BLANGAH RISE,418000.0,HDB 3-Room,Bukit Merah,1975.0,555.0,753.0,Telok Blangah Rise,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+113 BUKIT PURMEI ROAD,768000.0,HDB 4-Room,Bukit Merah,1984.0,693.0,1109.0,Bukit Purmei Road,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+102 BUKIT PURMEI ROAD,528000.0,HDB 3-Room,Bukit Merah,1983.0,673.0,785.0,Bukit Purmei Road,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+42 TELOK BLANGAH RISE,430000.0,HDB 3-Room,Bukit Merah,1975.0,677.0,635.0,Telok Blangah Rise,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+60 TELOK BLANGAH HEIGHTS,440000.0,HDB 3-Room,Bukit Merah,1976.0,610.0,721.0,Telok Blangah Heights,2,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+59 TELOK BLANGAH HEIGHTS,670000.0,HDB 4-Room,Bukit Merah,1976.0,684.0,979.0,Telok Blangah Heights,3,2,"Telok Blangah, Harbourfront",Central,2025-04-19 13:25:28
+610 CLEMENTI WEST STREET 1,588000.0,HDB 4-Room,Clementi,1982.0,525.0,1119.0,Clementi West Street 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+377 CLEMENTI AVENUE 5,620000.0,HDB 4-Room,Clementi,1980.0,633.0,979.0,Clementi Avenue 5,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+611 CLEMENTI WEST STREET 1,440000.0,HDB 3-Room,Clementi,1983.0,552.0,797.0,Clementi West Street 1,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+510 WEST COAST DRIVE,380000.0,HDB 3-Room,Clementi,1977.0,527.0,721.0,West Coast Drive,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+416 CLEMENTI AVENUE 1,1350000.0,HDB 5-Room,Clementi,2012.0,1063.0,1270.0,Clementi Avenue 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+333 CLEMENTI AVENUE 2,750000.0,HDB 4-Room,Clementi,1977.0,758.0,990.0,Clementi Avenue 2,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+20 DOVER CRESCENT,446000.0,HDB 3-Room,Queenstown,1975.0,637.0,700.0,Dover Crescent,2,1,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+416 CLEMENTI AVENUE 1,1350000.0,HDB 5-Room,Clementi,2012.0,1063.0,1270.0,Clementi Avenue 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+416 CLEMENTI AVENUE 1,1099000.0,HDB 5-Room,Clementi,2012.0,844.0,1302.0,Clementi Avenue 1,4,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+715 CLEMENTI WEST STREET 2,538888.0,HDB 4-Room,Clementi,1981.0,550.0,980.0,Clementi West Street 2,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+311A CLEMENTI AVENUE 4,928000.0,HDB 4-Room,Clementi,2015.0,1078.0,861.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+337 CLEMENTI AVENUE 2,860000.0,HDB 5-Room,Clementi,1978.0,671.0,1281.0,Clementi Avenue 2,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+115 CLEMENTI STREET 13,1090000.0,HDB Exec Maisonette,Clementi,1984.0,693.0,1572.0,Clementi Street 13,3,3,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+714 CLEMENTI WEST STREET 2,490000.0,HDB 3-Room,Clementi,1980.0,556.0,882.0,Clementi West Street 2,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+416 CLEMENTI AVENUE 1,1350000.0,HDB 5-Room,Clementi,2012.0,1063.0,1270.0,Clementi Avenue 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+20 DOVER CRESCENT,445000.0,HDB 3-Room,Queenstown,1975.0,636.0,700.0,Dover Crescent,2,1,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+311C CLEMENTI AVENUE 4,688000.0,HDB 3-Room,Clementi,2015.0,1067.0,645.0,Clementi Avenue 4,2,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+311A CLEMENTI AVENUE 4,1380000.0,HDB 5-Room,Clementi,2015.0,1221.0,1130.0,Clementi Avenue 4,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+416 CLEMENTI AVENUE 1,1350000.0,HDB 5-Room,Clementi,2012.0,1063.0,1270.0,Clementi Avenue 1,3,2,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West,2025-04-19 13:25:28
+9 SELEGIE ROAD,458000.0,HDB 3-Room,Central Area,1963.0,761.0,602.0,Selegie Road,2,1,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+468 NORTH BRIDGE ROAD,530000.0,HDB 3-Room,Kallang/Whampoa,1978.0,820.0,646.0,North Bridge Road,2,1,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+468 NORTH BRIDGE ROAD,530000.0,HDB 3-Room,Kallang/Whampoa,1978.0,822.0,645.0,North Bridge Road,2,1,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+461 CRAWFORD LANE,980000.0,HDB 5-Room,Kallang/Whampoa,1981.0,746.0,1313.0,Crawford Lane,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+1 BEACH ROAD,540000.0,HDB 3-Room,Kallang/Whampoa,1970.0,678.0,796.0,Beach Road,2,1,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+15 BEACH ROAD,600000.0,HDB 4-Room,Kallang/Whampoa,1974.0,724.0,829.0,Beach Road,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+15 BEACH ROAD,730000.0,HDB 4-Room,Kallang/Whampoa,1974.0,881.0,829.0,Beach Road,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+468 NORTH BRIDGE ROAD,480000.0,HDB 3-Room,Kallang/Whampoa,1978.0,743.0,646.0,North Bridge Road,2,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+15 BEACH ROAD,730000.0,HDB 4-Room,Kallang/Whampoa,1974.0,882.0,828.0,Beach Road,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+264 WATERLOO STREET,750000.0,HDB 3-Room,Central Area,1978.0,1025.0,732.0,Waterloo Street,2,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+262 WATERLOO STREET,1188000.0,HDB 4-Room,Central Area,1978.0,1347.0,882.0,Waterloo Street,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+3 BEACH ROAD,460000.0,HDB 3-Room,Kallang/Whampoa,1970.0,630.0,730.0,Beach Road,2,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+12 NORTH BRIDGE ROAD,858000.0,HDB 5-Room,Kallang/Whampoa,1974.0,699.0,1227.0,North Bridge Road,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+264 WATERLOO STREET,638888.0,HDB 3-Room,Central Area,1978.0,873.0,732.0,Waterloo Street,2,1,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+15 BEACH ROAD,700000.0,HDB 4-Room,Kallang/Whampoa,1974.0,99.0,845.0,828 sqft,3,2,"Middle Road, Golden Mile",Central,2025-04-19 13:25:28
+50 DORSET ROAD,615000.0,HDB 3-Room,Kallang/Whampoa,1978.0,697.0,882.0,Dorset Road,2,2,Little India,Central,2025-04-19 13:25:28
+663 BUFFALO ROAD,620000.0,HDB 4-Room,Central Area,1981.0,702.0,883.0,Buffalo Road,3,2,Little India,Central,2025-04-19 13:25:28
+13 FARRER PARK ROAD,998000.0,HDB 5-Room,Kallang/Whampoa,2002.0,851.0,1173.0,Farrer Park Road,3,2,Little India,Central,2025-04-19 13:25:28
+13 FARRER PARK ROAD,998000.0,HDB 5-Room,Kallang/Whampoa,2002.0,851.0,1173.0,Farrer Park Road,3,2,Little India,Central,2025-04-19 13:25:28
+813 JELLICOE ROAD,999000.0,HDB 4-Room,Kallang/Whampoa,2001.0,1019.0,980.0,Jellicoe Road,3,2,Little India,Central,2025-04-19 13:25:28
+15 FARRER PARK ROAD,700000.0,HDB 3-Room,Kallang/Whampoa,2002.0,1049.0,667.0,Farrer Park Road,2,2,Little India,Central,2025-04-19 13:25:28
+683 TESSENSOHN ROAD,800000.0,HDB 4-Room,Kallang/Whampoa,1985.0,721.0,1109.0,Tessensohn Road,3,2,Little India,Central,2025-04-19 13:25:28
+48A DORSET ROAD,996677.0,HDB 5-Room,Kallang/Whampoa,1975.0,792.0,1259.0,Dorset Road,3,2,Little India,Central,2025-04-19 13:25:28
+13 FARRER PARK ROAD,1030000.0,HDB 4-Room,Kallang/Whampoa,2002.0,1064.0,968.0,Farrer Park Road,3,2,Little India,Central,2025-04-19 13:25:28
+813 JELLICOE ROAD,999000.0,HDB 4-Room,Kallang/Whampoa,2001.0,1031.0,969.0,Jellicoe Road,3,2,Little India,Central,2025-04-19 13:25:28
+816 JELLICOE ROAD,988000.0,HDB 4-Room,Kallang/Whampoa,2001.0,1080.0,915.0,Jellicoe Road,3,2,Little India,Central,2025-04-19 13:25:28
+807 KING GEORGE'S AVENUE,1100000.0,HDB 5-Room,Kallang/Whampoa,1980.0,889.0,1238.0,King George's Avenue,3,2,Little India,Central,2025-04-19 13:25:28
+642 ROWELL ROAD,1155000.0,HDB 5-Room,Central Area,1982.0,783.0,1475.0,Rowell Road,5,2,Little India,Central,2025-04-19 13:25:28
+805 KING GEORGE'S AVENUE,350000.0,HDB 2-Room,Kallang/Whampoa,1980.0,740.0,473.0,King George's Avenue,1,1,Little India,Central,2025-04-19 13:25:28
+38 CAMBRIDGE ROAD,920000.0,HDB 5-Room,Kallang/Whampoa,1997.0,713.0,1291.0,Cambridge Road,3,2,Little India,Central,2025-04-19 13:25:28
+636 VEERASAMY ROAD,648000.0,HDB 3-Room,Central Area,1984.0,669.0,968.0,Veerasamy Road,2,2,Little India,Central,2025-04-19 13:25:28
+49 DORSET ROAD,499000.0,HDB 3-Room,Kallang/Whampoa,1978.0,682.0,732.0,Dorset Road,2,2,Little India,Central,2025-04-19 13:25:28
+15 FARRER PARK ROAD,700000.0,HDB 3-Room,Kallang/Whampoa,2002.0,1049.0,667.0,Farrer Park Road,2,2,Little India,Central,2025-04-19 13:25:28
+684 RACE COURSE ROAD,775000.0,HDB 4-Room,Kallang/Whampoa,1985.0,699.0,1109.0,Race Course Road,3,2,Little India,Central,2025-04-19 13:25:28
+672B KLANG LANE,730000.0,HDB 4-Room,Central Area,2000.0,798.0,915.0,Klang Lane,3,2,Little India,Central,2025-04-19 13:25:28
+30 HOLLAND CLOSE,1280000.0,HDB 5-Room,Queenstown,1995.0,951.0,1346.0,Holland Close,4,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+8 EMPRESS ROAD,450000.0,HDB 3-Room,Bukit Timah,1975.0,643.0,700.0,Empress Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+19 GHIM MOH ROAD,459000.0,HDB 3-Room,Queenstown,1976.0,656.0,700.0,Ghim Moh Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+13 GHIM MOH ROAD,990000.0,HDB 5-Room,Queenstown,1976.0,736.0,1345.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+1 GHIM MOH ROAD,465000.0,HDB 3-Room,Queenstown,1975.0,664.0,700.0,Ghim Moh Road,3,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+96 DAWSON ROAD,1680000.0,HDB 4PA (Premium Apartment),Queenstown,2020.0,1814.0,926.0,Dawson Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+7 GHIM MOH ROAD,850000.0,HDB 5-Room,Queenstown,1976.0,675.0,1259.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+21 GHIM MOH ROAD,413888.0,HDB 3-Room,Queenstown,1976.0,591.0,700.0,Ghim Moh Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+13 HOLLAND DRIVE,760000.0,HDB 4-Room,Queenstown,1974.0,803.0,947.0,Holland Drive,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+96 DAWSON ROAD,1700000.0,HDB 5PA (Premium Apartment),Queenstown,2020.0,1463.0,1162.0,Dawson Road,4,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+9 HOLLAND AVENUE,568888.0,HDB 3-Room,Queenstown,1973.0,725.0,785.0,Holland Avenue,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+13 GHIM MOH ROAD,1150000.0,HDB 5-Room,Queenstown,1976.0,869.0,1323.0,Ghim Moh Road,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+4 QUEEN'S ROAD,550000.0,HDB 3-Room,Bukit Timah,1973.0,701.0,785.0,Queen's Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+19 GHIM MOH ROAD,445000.0,HDB 3-Room,Queenstown,1976.0,636.0,700.0,Ghim Moh Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+27 GHIM MOH LINK,770000.0,HDB 3-Room,Queenstown,2011.0,1068.0,721.0,Ghim Moh Link,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+1 GHIM MOH ROAD,430000.0,HDB 3-Room,Queenstown,1975.0,614.0,700.0,Ghim Moh Road,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+32 HOLLAND CLOSE,450000.0,HDB 3-Room,Queenstown,1973.0,709.0,635.0,Holland Close,2,1,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+20 HOLLAND DRIVE,1080000.0,HDB 5-Room,Queenstown,1974.0,858.0,1259.0,Holland Drive,3,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+8 EMPRESS ROAD,480000.0,HDB 3-Room,Bukit Timah,1975.0,686.0,700.0,Empress Road,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+94 DAWSON ROAD,920000.0,HDB 3PA (Premium Apartment),Queenstown,2020.0,1357.0,678.0,Dawson Road,2,2,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central,2025-04-19 13:25:28
+69 MOULMEIN ROAD,628000.0,HDB 4-Room,Kallang/Whampoa,1972.0,695.0,904.0,Moulmein Road,3,2,"Watten Estate, Novena, Thomson",Central,2025-04-19 13:25:28
+69 MOULMEIN ROAD,623888.0,HDB 4-Room,Kallang/Whampoa,1972.0,690.0,904.0,Moulmein Road,3,2,"Watten Estate, Novena, Thomson",Central,2025-04-19 13:25:28
+147 LORONG 2 TOA PAYOH,1060000.0,HDB 4-Room,Toa Payoh,2004.0,1082.0,980.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+108 JALAN RAJAH,1030000.0,HDB Exec Maisonette,Kallang/Whampoa,1983.0,626.0,1646.0,Jalan Rajah,3,3,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+138C LORONG 1A TOA PAYOH,1400000.0,HDB 5-Room,Toa Payoh,2012.0,1182.0,1184.0,Lorong 1A Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+58 JALAN MA'MOR,1650000.0,HDB 5-Room,Kallang/Whampoa,1959.0,881.0,1873.0,Jalan Ma'mor,4,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+18 JALAN TENTERAM,865000.0,HDB 5-Room,Kallang/Whampoa,1999.0,766.0,1129.0,Jalan Tenteram,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+79B TOA PAYOH CENTRAL,1080000.0,HDB 4-Room,Toa Payoh,2007.0,1102.0,980.0,Toa Payoh Central,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+214 LORONG 8 TOA PAYOH,498000.0,HDB 4-Room,Toa Payoh,1975.0,564.0,883.0,Lorong 8 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+139A LORONG 1A TOA PAYOH,1348888.0,HDB 5-Room,Toa Payoh,2012.0,1071.0,1259.0,Lorong 1A Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+243 KIM KEAT LINK,800000.0,HDB 5-Room,Toa Payoh,1988.0,559.0,1432.0,Kim Keat Link,4,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+100 LORONG 1 TOA PAYOH,418000.0,HDB 3-Room,Toa Payoh,1968.0,571.0,732.0,Lorong 1 Toa Payoh,2,1,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+131A LORONG 1 TOA PAYOH,1188000.0,HDB 4-Room,Toa Payoh,2017.0,1187.0,1001.0,Lorong 1 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+62 LORONG 4 TOA PAYOH,740000.0,HDB 4-Room,Toa Payoh,1998.0,688.0,1076.0,Lorong 4 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+93 WHAMPOA DRIVE,1199900.0,HDB 5-Room,Kallang/Whampoa,1973.0,736.0,1630.0,Whampoa Drive,6,3,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+152 LORONG 2 TOA PAYOH,909000.0,HDB 4-Room,Toa Payoh,2005.0,928.0,979.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+218 LORONG 8 TOA PAYOH,745000.0,HDB 5-Room,Toa Payoh,1977.0,592.0,1259.0,Lorong 8 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+142 LORONG 2 TOA PAYOH,1280000.0,HDB 5-Room,Toa Payoh,1999.0,1026.0,1248.0,Lorong 2 Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+38C BENDEMEER ROAD,950000.0,HDB 4-Room,Kallang/Whampoa,2010.0,992.0,958.0,Bendemeer Road,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+139A LORONG 1A TOA PAYOH,1146000.0,HDB 4PA (Premium Apartment),Toa Payoh,2012.0,1169.0,980.0,Lorong 1A Toa Payoh,3,2,"Balestier, Toa Payoh, Serangoon",Central,2025-04-19 13:25:28
+32 BALAM ROAD,348888.0,HDB 3-Room,Geylang,1965.0,569.0,613.0,Balam Road,2,1,"Macpherson, Braddell",East,2025-04-19 13:25:28
+140 POTONG PASIR AVENUE 3,598000.0,HDB 3-Room,Toa Payoh,1984.0,751.0,796.0,Potong Pasir Avenue 3,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+14 JOO SENG ROAD,830000.0,HDB 5-Room,Toa Payoh,1983.0,584.0,1421.0,Joo Seng Road,5,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+118A ALKAFF CRESCENT,800000.0,HDB 3-Room,2019,2019.0,1093.0,732.0,Alkaff Crescent,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+102B BIDADARI PARK DRIVE,850000.0,HDB 3-Room,2020,2020.0,1161.0,732.0,Bidadari Park Drive,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+21 BALAM ROAD,380000.0,HDB 3-Room,Geylang,1965.0,588.0,646.0,Balam Road,2,1,"Macpherson, Braddell",East,2025-04-19 13:25:28
+32 BALAM ROAD,368000.0,HDB 3-Room,Geylang,1965.0,600.0,613.0,Balam Road,2,1,"Macpherson, Braddell",East,2025-04-19 13:25:28
+115A ALKAFF CRESCENT,1150000.0,HDB 4-Room,2019,2019.0,1149.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+102A BIDADARI PARK DRIVE,1228000.0,HDB 4PA (Premium Apartment),2020,2020.0,1227.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+7 UPPER ALJUNIED LANE,620000.0,HDB 3-Room,Toa Payoh,2015.0,847.0,732.0,Upper Aljunied Lane,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+49 CIRCUIT ROAD,330000.0,HDB 3-Room,Geylang,1964.0,547.0,603.0,Circuit Road,2,1,"Macpherson, Braddell",East,2025-04-19 13:25:28
+22 BALAM ROAD,320000.0,HDB 3-Room,Geylang,1965.0,496.0,645.0,Balam Road,2,1,"Macpherson, Braddell",East,2025-04-19 13:25:28
+134 POTONG PASIR AVENUE 3,599999.0,HDB 3-Room,Toa Payoh,1984.0,753.0,797.0,Potong Pasir Avenue 3,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+118A ALKAFF CRESCENT,838000.0,HDB 3-Room,2019,2019.0,1145.0,732.0,Alkaff Crescent,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+115C ALKAFF CRESCENT,1088000.0,HDB 4-Room,2019,2019.0,1087.0,1001.0,Alkaff Crescent,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+102B BIDADARI PARK DRIVE,1100000.0,HDB 4-Room,2020,2020.0,1099.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+117 POTONG PASIR AVENUE 1,630000.0,HDB 4-Room,Toa Payoh,1984.0,586.0,1076.0,Potong Pasir Avenue 1,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+102B BIDADARI PARK DRIVE,1150000.0,HDB 4-Room,2020,2020.0,1149.0,1001.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+106B BIDADARI PARK DRIVE,1078000.0,HDB 4-Room,2019,2019.0,1065.0,1012.0,Bidadari Park Drive,3,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+115C ALKAFF CRESCENT,1000000.0,HDB 3-Room,2019,2019.0,1366.0,732.0,Alkaff Crescent,2,2,"Macpherson, Braddell",East,2025-04-19 13:25:28
+341 UBI AVENUE 1,618000.0,HDB 4-Room,Geylang,1985.0,684.0,904.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+656 JALAN TENAGA,969000.0,HDB 5-Room,Bedok,1995.0,715.0,1356.0,Jalan Tenaga,4,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+124 GEYLANG EAST AVENUE 1,908000.0,HDB 5-Room,Geylang,1983.0,639.0,1421.0,Geylang East Avenue 1,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+99 ALJUNIED CRESCENT,520000.0,HDB 3-Room,Geylang,1977.0,589.0,883.0,Aljunied Crescent,2,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+34 CASSIA CRESCENT,520000.0,HDB 3-Room,Geylang,1980.0,721.0,721.0,Cassia Crescent,2,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+106 ALJUNIED CRESCENT,460000.0,HDB 3-Room,Geylang,1978.0,638.0,721.0,Aljunied Crescent,2,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+23 EUNOS CRESCENT,628000.0,HDB 4-Room,Geylang,1976.0,634.0,990.0,Eunos Crescent,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+311 UBI AVENUE 1,618000.0,HDB 4-Room,Geylang,1985.0,684.0,904.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+5 PINE CLOSE,945000.0,HDB 5-Room,Geylang,1998.0,770.0,1227.0,Pine Close,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+32 CASSIA CRESCENT,530000.0,HDB 3-Room,Geylang,1980.0,735.0,721.0,Cassia Crescent,2,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+330 UBI AVENUE 1,588000.0,HDB 4-Room,Geylang,1985.0,650.0,904.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+82B CIRCUIT ROAD,1080000.0,HDB 4-Room,Geylang,2019.0,1079.0,1001.0,Circuit Road,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+42A SIMS DRIVE,768000.0,HDB 5-Room,Geylang,1989.0,585.0,1313.0,Sims Drive,4,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+11 UPPER BOON KENG ROAD,499000.0,HDB 3-Room,Kallang/Whampoa,1973.0,621.0,804.0,Upper Boon Keng Road,2,1,"Geylang, Eunos",East,2025-04-19 13:25:28
+326 UBI AVENUE 1,1100000.0,HDB Exec Maisonette,Geylang,1985.0,701.0,1570.0,Ubi Avenue 1,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+655 JALAN TENAGA,888000.0,HDB 5-Room,Bedok,1995.0,650.0,1367.0,Jalan Tenaga,4,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+2A UPPER BOON KENG ROAD,840000.0,HDB 4-Room,Kallang/Whampoa,2006.0,868.0,968.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+2A UPPER BOON KENG ROAD,1120000.0,HDB 5-Room,Kallang/Whampoa,2006.0,946.0,1184.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+51 SIMS DRIVE,809000.0,HDB 5-Room,Geylang,1976.0,632.0,1280.0,Sims Drive,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+2A UPPER BOON KENG ROAD,1120000.0,HDB 5-Room,Kallang/Whampoa,2006.0,946.0,1184.0,Upper Boon Keng Road,3,2,"Geylang, Eunos",East,2025-04-19 13:25:28
+77 MARINE DRIVE,1100000.0,HDB 5-Room,Marine Parade,1976.0,838.0,1313.0,Marine Drive,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+2 MARINE TERRACE,898888.0,HDB 5-Room,Marine Parade,1974.0,696.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+77 MARINE DRIVE,1100000.0,HDB 5-Room,Marine Parade,1976.0,851.0,1292.0,Marine Drive,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+65 MARINE DRIVE,468000.0,HDB 3-Room,Marine Parade,1975.0,669.0,700.0,Marine Drive,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+12 MARINE TERRACE,888000.0,HDB 5-Room,Marine Parade,1974.0,687.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+6 MARINE TERRACE,480000.0,HDB 3-Room,Marine Parade,1974.0,686.0,700.0,Marine Terrace,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+44 MARINE CRESCENT,800000.0,HDB 5-Room,Marine Parade,1975.0,620.0,1291.0,Marine Crescent,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+8 JALAN BATU,358000.0,HDB 2-Room,Kallang/Whampoa,1963.0,694.0,516.0,Jalan Batu,1,1,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+31 MARINE CRESCENT,458000.0,HDB 3-Room,Marine Parade,1974.0,654.0,700.0,Marine Crescent,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+64 MARINE DRIVE,450000.0,HDB 3-Room,Marine Parade,1975.0,615.0,732.0,Marine Drive,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+12 MARINE TERRACE,1100000.0,HDB 5-Room,Marine Parade,1974.0,851.0,1292.0,Marine Terrace,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+75 MARINE DRIVE,700000.0,HDB 4-Room,Marine Parade,1975.0,793.0,883.0,Marine Drive,3,1,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+6 MARINE TERRACE,470000.0,HDB 3-Room,Marine Parade,1974.0,671.0,700.0,Marine Terrace,2,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+8 JALAN BATU,345000.0,HDB 2-Room,Kallang/Whampoa,1963.0,641.0,538.0,Jalan Batu,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+6 HAIG ROAD,808000.0,HDB 5-Room,Geylang,1976.0,653.0,1237.0,Haig Road,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+4 MARINE TERRACE,480000.0,HDB 3-Room,Marine Parade,1974.0,687.0,699.0,Marine Terrace,2,1,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+10 JALAN BATU,795000.0,HDB 4-Room,Kallang/Whampoa,1966.0,704.0,1130.0,Jalan Batu,3,2,"Katong, Joo Chiat, Amber Road",East,2025-04-19 13:25:28
+4 BEDOK SOUTH AVENUE 1,440000.0,HDB 3-Room,Bedok,1975.0,561.0,785.0,Bedok South Avenue 1,3,1,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+550 BEDOK NORTH AVENUE 1,430000.0,HDB 3-Room,Bedok,1979.0,596.0,721.0,Bedok North Avenue 1,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+709 BEDOK RESERVOIR ROAD,478000.0,HDB 3-Room,Bedok,1980.0,653.0,732.0,Bedok Reservoir Road,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+110 BEDOK NORTH ROAD,499000.0,HDB 3-Room,Bedok,1976.0,566.0,882.0,Bedok North Road,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+221B BEDOK CENTRAL,880000.0,HDB 4-Room,Bedok,2008.0,870.0,1011.0,Bedok Central,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+84 BEDOK NORTH STREET 4,880000.0,HDB 5-Room,Bedok,1977.0,610.0,1442.0,Bedok North Street 4,5,4,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+510 BEDOK NORTH STREET 3,599000.0,HDB 4-Room,Bedok,1979.0,618.0,969.0,Bedok North Street 3,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+147 BEDOK RESERVOIR ROAD,768000.0,HDB 5-Room,Bedok,1986.0,585.0,1313.0,Bedok Reservoir Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+27 NEW UPPER CHANGI ROAD,480000.0,HDB 3-Room,Bedok,1976.0,603.0,796.0,New Upper Changi Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+19 CHAI CHEE ROAD,403000.0,HDB 3-Room,Bedok,1972.0,577.0,699.0,Chai Chee Road,2,1,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+428 BEDOK NORTH ROAD,620000.0,HDB 4-Room,Bedok,1978.0,626.0,990.0,Bedok North Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+713 BEDOK RESERVOIR ROAD,470000.0,HDB 3-Room,Bedok,1980.0,642.0,732.0,Bedok Reservoir Road,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+43 BEDOK SOUTH ROAD,480000.0,HDB 4-Room,Bedok,1977.0,531.0,904.0,Bedok South Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+4 BEDOK SOUTH AVENUE 1,488000.0,HDB 3-Room,Bedok,1975.0,697.0,700.0,Bedok South Avenue 1,3,1,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+431A BEDOK NORTH ROAD,727000.0,HDB 3-Room,Bedok,2019.0,978.0,743.0,Bedok North Road,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+137 BEDOK RESERVOIR ROAD,1270000.0,HDB Exec Maisonette,Bedok,1986.0,792.0,1604.0,Bedok Reservoir Road,4,3,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+218 BEDOK NORTH STREET 1,488888.0,HDB 3-Room,Bedok,1979.0,678.0,721.0,Bedok North Street 1,2,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+431A BEDOK NORTH ROAD,925000.0,HDB 4-Room,Bedok,2019.0,914.0,1012.0,Bedok North Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+128 BEDOK RESERVOIR ROAD,600000.0,HDB 4-Room,Bedok,1986.0,664.0,904.0,Bedok Reservoir Road,3,2,"Bedok, Upper East Coast, Eastwood, Kew Drive",East,2025-04-19 13:25:28
+1 CHANGI VILLAGE ROAD,360000.0,HDB 3-Room,Pasir Ris,1975.0,507.0,710.0,Changi Village Road,2,1,"Loyang, Changi",East,2025-04-19 13:25:28
+5 CHANGI VILLAGE ROAD,500000.0,HDB 3-Room,Pasir Ris,1978.0,627.0,797.0,Changi Village Road,2,2,"Loyang, Changi",East,2025-04-19 13:25:28
+4 CHANGI VILLAGE ROAD,330000.0,HDB 3-Room,Pasir Ris,1975.0,414.0,797.0,Changi Village Road,2,1,"Loyang, Changi",East,2025-04-19 13:25:28
+604B TAMPINES AVENUE 9,896000.0,HDB 5-Room,Tampines,2018.0,743.0,1206.0,Tampines Avenue 9,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+895 TAMPINES STREET 81,1050000.0,HDB Exec Maisonette,Tampines,1988.0,668.0,1572.0,Tampines Street 81,3,3,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+257 TAMPINES STREET 21,799000.0,HDB 5-Room,Tampines,1983.0,614.0,1302.0,Tampines Street 21,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+250 TAMPINES STREET 21,680000.0,HDB 4-Room,Tampines,1983.0,614.0,1108.0,Tampines Street 21,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+408 PASIR RIS DRIVE 6,1238800.0,HDB Exec Maisonette,Pasir Ris,1989.0,788.0,1572.0,Pasir Ris Drive 6,3,3,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+104 PASIR RIS STREET 12,700000.0,HDB 5-Room,Pasir Ris,1988.0,533.0,1313.0,Pasir Ris Street 12,4,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+226 SIMEI STREET 4,1150000.0,HDB Exec Maisonette,Tampines,1987.0,732.0,1572.0,Simei Street 4,4,3,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+608A TAMPINES NORTH DRIVE 1,850000.0,HDB 5-Room,Tampines,2019.0,699.0,1216.0,Tampines North Drive 1,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+505 TAMPINES CENTRAL 1,710000.0,HDB 4-Room,Tampines,1989.0,687.0,1033.0,Tampines Central 1,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+432 TAMPINES STREET 41,768000.0,HDB 5-Room,Tampines,1985.0,585.0,1313.0,Tampines Street 41,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+837 TAMPINES STREET 83,580000.0,HDB 4-Room,Tampines,1984.0,642.0,904.0,Tampines Street 83,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+124 PASIR RIS STREET 11,635000.0,HDB 4-Room,Pasir Ris,1988.0,562.0,1130.0,Pasir Ris Street 11,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+240 TAMPINES STREET 21,669000.0,HDB 4-Room,Tampines,1983.0,598.0,1119.0,Tampines Street 21,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+708 TAMPINES STREET 71,680000.0,HDB 4-Room,Tampines,1996.0,632.0,1076.0,Tampines Street 71,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+134 PASIR RIS STREET 11,918000.0,HDB Exec Apartment,Pasir Ris,1993.0,561.0,1636.0,Pasir Ris Street 11,4,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+746 PASIR RIS STREET 71,820000.0,HDB 5-Room,Pasir Ris,1994.0,600.0,1367.0,Pasir Ris Street 71,4,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+271 TAMPINES STREET 21,750000.0,HDB 4-Room,Tampines,1984.0,600.0,1249.0,Tampines Street 21,3,2,"Tampines, Pasir Ris",East,2025-04-19 13:25:28
+127 RIVERVALE STREET,680000.0,HDB 5-Room,Sengkang,1998.0,527.0,1291.0,Rivervale Street,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+232C SUMANG LANE,528888.0,HDB 3-Room,Punggol,2017.0,724.0,731.0,Sumang Lane,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+641 HOUGANG AVENUE 8,718888.0,HDB 5-Room,Hougang,1986.0,557.0,1291.0,Hougang Avenue 8,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+642 HOUGANG AVENUE 8,430000.0,HDB 3-Room,Hougang,1986.0,657.0,654.0,Hougang Avenue 8,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+333B ANCHORVALE LINK,778000.0,HDB 5-Room,Sengkang,2014.0,645.0,1206.0,Anchorvale Link,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+514 SERANGOON NORTH AVENUE 4,788000.0,HDB 5-Room,Serangoon,1991.0,600.0,1313.0,Serangoon North Avenue 4,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+145 RIVERVALE DRIVE,800000.0,HDB 5-Room,Sengkang,1998.0,641.0,1248.0,Rivervale Drive,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+470B UPPER SERANGOON CRESCENT,599000.0,HDB 3-Room,Serangoon,2014.0,831.0,721.0,Upper Serangoon Crescent,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+310B PUNGGOL WALK,733800.0,HDB 4PA (Premium Apartment),Punggol,2015.0,741.0,990.0,Punggol Walk,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+168B PUNGGOL EAST,680000.0,HDB 4PA (Premium Apartment),Punggol,2007.0,687.0,990.0,Punggol East,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+535 SERANGOON NORTH AVENUE 4,1080000.0,HDB Exec Maisonette,Serangoon,1991.0,660.0,1636.0,Serangoon North Avenue 4,4,3,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+19 HOUGANG AVENUE 3,428000.0,HDB 3-Room,Hougang,1977.0,545.0,785.0,Hougang Avenue 3,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+401 HOUGANG AVENUE 10,488000.0,HDB 3-Room,Hougang,1984.0,667.0,732.0,Hougang Avenue 10,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+221 SERANGOON AVENUE 4,508000.0,HDB 3-Room,Serangoon,1984.0,705.0,721.0,Serangoon Avenue 4,2,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+614A EDGEFIELD PLAINS,708888.0,HDB 4-Room,Punggol,2011.0,716.0,990.0,Edgefield Plains,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+211C PUNGGOL WALK,688000.0,HDB 4-Room,Punggol,2013.0,695.0,990.0,Punggol Walk,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+170A PUNGGOL FIELD,660000.0,HDB 4-Room,Punggol,2012.0,667.0,990.0,Punggol Field,3,2,"Serangoon Garden, Hougang, Ponggol",North East,2025-04-19 13:25:28
+405 SIN MING AVENUE,1030000.0,HDB 5-Room,Bishan,1985.0,797.0,1292.0,Sin Ming Avenue,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+504 ANG MO KIO AVENUE 8,1300000.0,HDB Exec Apartment,Ang Mo Kio,1979.0,741.0,1754.0,Ang Mo Kio Avenue 8,5,4,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+601 ANG MO KIO AVENUE 5,440000.0,HDB 3-Room,Ang Mo Kio,1979.0,610.0,721.0,Ang Mo Kio Avenue 5,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+226 BISHAN STREET 23,878000.0,HDB 4-Room,Bishan,1990.0,800.0,1098.0,Bishan Street 23,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+307C ANG MO KIO AVENUE 1,1000000.0,HDB 4-Room,Ang Mo Kio,2010.0,1056.0,947.0,Ang Mo Kio Avenue 1,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+508 ANG MO KIO AVENUE 8,350000.0,HDB 2-Room,Ang Mo Kio,1979.0,738.0,474.0,Ang Mo Kio Avenue 8,1,1,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+214 ANG MO KIO AVENUE 3,528888.0,HDB 3-Room,Ang Mo Kio,1975.0,599.0,883.0,Ang Mo Kio Avenue 3,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+552 ANG MO KIO AVENUE 10,778000.0,HDB 5-Room,Ang Mo Kio,1979.0,608.0,1280.0,Ang Mo Kio Avenue 10,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+345 ANG MO KIO AVENUE 3,580000.0,HDB 3-Room,Ang Mo Kio,,612.0,947.0,Ang Mo Kio Avenue 3,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+286 BISHAN STREET 24,880000.0,HDB 4-Room,Bishan,1991.0,757.0,1162.0,Bishan Street 24,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+151 ANG MO KIO AVENUE 5,449000.0,HDB 3-Room,Ang Mo Kio,1980.0,613.0,732.0,Ang Mo Kio Avenue 5,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+621 ANG MO KIO AVENUE 9,499000.0,HDB 3-Room,Ang Mo Kio,1979.0,682.0,732.0,Ang Mo Kio Avenue 9,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+541 ANG MO KIO AVENUE 10,438000.0,HDB 3-Room,Ang Mo Kio,1979.0,598.0,732.0,Ang Mo Kio Avenue 10,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+268 BISHAN STREET 24,788000.0,HDB 4-Room,Bishan,1991.0,704.0,1119.0,Bishan Street 24,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+165 BISHAN STREET 13,998000.0,HDB 5-Room,Bishan,1987.0,767.0,1302.0,Bishan Street 13,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+308 SHUNFU ROAD,585000.0,HDB 3-Room,Bishan,1984.0,799.0,732.0,Shunfu Road,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+128 BISHAN STREET 12,1020000.0,HDB 5-Room,Bishan,1986.0,783.0,1302.0,Bishan Street 12,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+346 ANG MO KIO AVENUE 3,460000.0,HDB 3-Room,Ang Mo Kio,1977.0,585.0,786.0,Ang Mo Kio Avenue 3,2,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+144 BISHAN STREET 12,1088888.0,HDB 5-Room,Bishan,1987.0,822.0,1324.0,Bishan Street 12,3,2,"Bishan, Ang Mo Kio",Central,2025-04-19 13:25:28
+11 TOH YI DRIVE,1080000.0,HDB 5-Room,Bukit Timah,1988.0,823.0,1313.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+9 TOH YI DRIVE,1150000.0,HDB 4-Room,Bukit Timah,1988.0,1028.0,1119.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1300000.0,HDB 5-Room,Bukit Timah,1988.0,990.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1190000.0,HDB 5-Room,Bukit Timah,1988.0,864.0,1378.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+4 TOH YI DRIVE,1299000.0,HDB 5-Room,Bukit Timah,1988.0,989.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1180000.0,HDB 5-Room,Bukit Timah,1988.0,857.0,1377.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+14 TOH YI DRIVE,1190000.0,HDB 5-Room,Bukit Timah,1987.0,906.0,1313.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+7 TOH YI DRIVE,1490000.0,HDB Exec Maisonette,Bukit Timah,1989.0,948.0,1571.0,Toh Yi Drive,4,3,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,906.0,1379.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+7 TOH YI DRIVE,1280000.0,HDB Exec Apartment,Bukit Timah,1989.0,838.0,1528.0,Toh Yi Drive,5,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1180000.0,HDB 5-Room,Bukit Timah,1988.0,857.0,1377.0,Toh Yi Drive,3,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,908.0,1377.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+15 TOH YI DRIVE,1320000.0,HDB Exec Maisonette,Bukit Timah,1987.0,840.0,1571.0,Toh Yi Drive,4,3,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+7 TOH YI DRIVE,1280000.0,HDB Exec Apartment,Bukit Timah,1989.0,815.0,1571.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,907.0,1378.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1280000.0,HDB 5-Room,Bukit Timah,1988.0,928.0,1380.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+17 TOH YI DRIVE,1250000.0,HDB 5-Room,Bukit Timah,1988.0,908.0,1376.0,Toh Yi Drive,4,2,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West,2025-04-19 13:25:28
+854 JURONG WEST STREET 81,598888.0,HDB 5-Room,Jurong West,1994.0,449.0,1334.0,Jurong West Street 81,3,2,Jurong,West,2025-04-19 13:25:28
+906 JURONG WEST STREET 91,698888.0,HDB Exec Apartment,Jurong West,1988.0,461.0,1517.0,Jurong West Street 91,3,2,Jurong,West,2025-04-19 13:25:28
+279 TOH GUAN ROAD,680888.0,HDB 4-Room,Jurong East,1997.0,630.0,1080.0,Toh Guan Road,3,2,Jurong,West,2025-04-19 13:25:28
+204 JURONG EAST STREET 21,760000.0,HDB 5-Room,Jurong East,1982.0,574.0,1324.0,Jurong East Street 21,3,2,Jurong,West,2025-04-19 13:25:28
+687 JURONG WEST CENTRAL 1,660000.0,HDB 4-Room,Jurong West,1997.0,620.0,1065.0,Jurong West Central 1,3,2,Jurong,West,2025-04-19 13:25:28
+65 TEBAN GARDENS ROAD,608888.0,HDB 4-Room,Jurong East,2001.0,623.0,978.0,Teban Gardens Road,3,2,Jurong,West,2025-04-19 13:25:28
+765 JURONG WEST STREET 74,600000.0,HDB 4-Room,Jurong West,1995.0,526.0,1141.0,Jurong West Street 74,3,2,Jurong,West,2025-04-19 13:25:28
+683C JURONG WEST STREET 64,698888.0,HDB 5-Room,Jurong West,1999.0,585.0,1195.0,Jurong West Street 64,3,2,Jurong,West,2025-04-19 13:25:28
+693 JURONG WEST CENTRAL 1,650000.0,HDB 4PA (Premium Apartment),Jurong West,1996.0,570.0,1141.0,Jurong West Central 1,3,2,Jurong,West,2025-04-19 13:25:28
+187 BOON LAY AVENUE,368000.0,HDB 3-Room,Jurong West,1975.0,503.0,731.0,Boon Lay Avenue,2,2,Jurong,West,2025-04-19 13:25:28
+946 JURONG WEST STREET 91,530000.0,HDB 4-Room,Jurong West,1988.0,478.0,1108.0,Jurong West Street 91,3,2,Jurong,West,2025-04-19 13:25:28
+163 YUNG PING ROAD,938000.0,HDB Exec Maisonette,Jurong West,1995.0,577.0,1625.0,Yung Ping Road,4,3,Jurong,West,2025-04-19 13:25:28
+183A BOON LAY AVENUE,588000.0,HDB 4-Room,Jurong West,2013.0,594.0,990.0,Boon Lay Avenue,3,2,Jurong,West,2025-04-19 13:25:28
+863 JURONG WEST STREET 81,575000.0,HDB 5-Room,Jurong West,1994.0,435.0,1323.0,Jurong West Street 81,4,2,Jurong,West,2025-04-19 13:25:28
+313 JURONG EAST STREET 32,420888.0,HDB 3-Room,Jurong East,1983.0,529.0,795.0,Jurong East Street 32,2,2,Jurong,West,2025-04-19 13:25:28
+658A JURONG WEST STREET 65,740000.0,HDB 5-Room,Jurong West,1999.0,614.0,1205.0,Jurong West Street 65,3,2,Jurong,West,2025-04-19 13:25:28
+103 JURONG EAST STREET 13,740000.0,HDB 5-Room,Jurong East,1982.0,573.0,1292.0,Jurong East Street 13,3,2,Jurong,West,2025-04-19 13:25:28
+346 KANG CHING ROAD,700000.0,HDB 5-Room,Jurong West,1995.0,538.0,1302.0,Kang Ching Road,4,2,Jurong,West,2025-04-19 13:25:28
+272D JURONG WEST STREET 24,595000.0,HDB 5PA (Premium Apartment),Jurong West,2002.0,5174.0,115.0,Jurong West Street 24,3,2,Jurong,West,2025-04-19 13:25:28
+669D JURONG WEST STREET 64,745000.0,HDB Exec Apartment,Jurong West,1998.0,533.0,1399.0,Jurong West Street 64,4,2,Jurong,West,2025-04-19 13:25:28
+611 BUKIT PANJANG RING ROAD,768888.0,HDB 5-Room,Bukit Panjang,2000.0,643.0,1195.0,Bukit Panjang Ring Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+461 SEGAR ROAD,650000.0,HDB 4PA (Premium Apartment),Bukit Panjang,2014.0,649.0,1001.0,Segar Road,2,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+630 SENJA ROAD,758000.0,HDB 5PA (Premium Apartment),Bukit Panjang,,640.0,1184.0,Senja Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+135 BUKIT BATOK WEST AVENUE 6,428888.0,HDB 3-Room,Bukit Batok,1983.0,586.0,732.0,Bukit Batok West Avenue 6,2,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+389 BUKIT BATOK WEST AVENUE 5,638888.0,HDB 5-Room,Bukit Batok,2004.0,503.0,1270.0,Bukit Batok West Avenue 5,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+135 BUKIT BATOK WEST AVENUE 6,548888.0,HDB 4-Room,Bukit Batok,1983.0,548.0,1001.0,Bukit Batok West Avenue 6,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+290D BUKIT BATOK EAST AVENUE 3,595000.0,HDB 4-Room,Bukit Batok,1996.0,537.0,1108.0,Bukit Batok East Avenue 3,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+664 CHOA CHU KANG CRESCENT,699999.0,HDB 5-Room,Choa Chu Kang,1998.0,524.0,1335.0,Choa Chu Kang Crescent,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+219 PETIR ROAD,499000.0,HDB 3-Room,Bukit Panjang,1987.0,635.0,786.0,Petir Road,2,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+416 BUKIT BATOK WEST AVENUE 4,630000.0,HDB 4-Room,Bukit Batok,1985.0,569.0,1108.0,Bukit Batok West Avenue 4,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+670A CHOA CHU KANG CRESCENT,618000.0,HDB 4-Room,Choa Chu Kang,1997.0,552.0,1119.0,Choa Chu Kang Crescent,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+296C BUKIT BATOK STREET 22,1000000.0,HDB 5PA (Premium Apartment),Bukit Batok,2017.0,808.0,1238.0,Bukit Batok Street 22,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+182 JELEBU ROAD,850000.0,HDB 4-Room,Bukit Panjang,2001.0,867.0,980.0,Jelebu Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+548B SEGAR ROAD,528000.0,HDB 3-Room,Bukit Panjang,2014.0,732.0,721.0,Segar Road,2,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+613 CHOA CHU KANG STREET 62,700000.0,HDB 5-Room,Choa Chu Kang,1994.0,496.0,1410.0,Choa Chu Kang Street 62,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+519 JELAPANG ROAD,820000.0,HDB Exec Apartment,Bukit Panjang,1997.0,533.0,1539.0,Jelapang Road,4,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+488 SEGAR ROAD,398888.0,HDB 2-Room,Bukit Panjang,2013.0,788.0,506.0,Segar Road,1,1,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+501 JELAPANG ROAD,599000.0,HDB 4-Room,Bukit Panjang,1997.0,551.0,1087.0,Jelapang Road,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+112 BUKIT BATOK WEST AVENUE 6,599000.0,HDB 4-Room,Bukit Batok,1984.0,525.0,1141.0,Bukit Batok West Avenue 6,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+504 CHOA CHU KANG STREET 51,578000.0,HDB 4-Room,Choa Chu Kang,1993.0,497.0,1162.0,Choa Chu Kang Street 51,3,2,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",North,2025-04-19 13:25:28
+15 MARSILING LANE,386000.0,HDB 3-Room,Woodlands,1975.0,551.0,700.0,Marsiling Lane,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+865 WOODLANDS STREET 83,980000.0,HDB Exec Maisonette,Woodlands,1995.0,619.0,1582.0,Woodlands Street 83,4,3,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+821 WOODLANDS STREET 82,1299000.0,HDB Exec Apartment,Woodlands,1985.0,682.0,1905.0,Woodlands Street 82,4,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+606 WOODLANDS RING ROAD,588000.0,HDB 4-Room,Woodlands,1997.0,541.0,1087.0,Woodlands Ring Road,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+785C WOODLANDS RISE,630000.0,HDB 4-Room,Woodlands,2017.0,629.0,1001.0,Woodlands Rise,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+817 WOODLANDS STREET 82,808000.0,HDB Exec Maisonette,Woodlands,1986.0,514.0,1571.0,Woodlands Street 82,4,3,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+344 WOODLANDS STREET 32,680000.0,HDB 5-Room,Woodlands,1985.0,518.0,1313.0,Woodlands Street 32,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+601 WOODLANDS DRIVE 42,530000.0,HDB 4-Room,Woodlands,1995.0,541.0,980.0,Woodlands Drive 42,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+171 WOODLANDS STREET 11,500000.0,HDB 4-Room,Woodlands,1984.0,510.0,980.0,Woodlands Street 11,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+709 WOODLANDS DRIVE 70,580000.0,HDB 4-Room,Woodlands,1995.0,528.0,1098.0,Woodlands Drive 70,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+721 WOODLANDS CIRCLE,598000.0,HDB 4-Room,Woodlands,1996.0,550.0,1087.0,Woodlands Circle,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+673 WOODLANDS DRIVE 71,788000.0,HDB 5-Room,Woodlands,1998.0,666.0,1184.0,Woodlands Drive 71,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+715 WOODLANDS DRIVE 70,595000.0,HDB 4-Room,Woodlands,1995.0,548.0,1086.0,Woodlands Drive 70,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+530 WOODLANDS DRIVE 14,735000.0,HDB 5PA (Premium Apartment),Woodlands,1997.0,546.0,1345.0,Woodlands Drive 14,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+542 WOODLANDS DRIVE 16,698000.0,HDB 5-Room,Woodlands,1998.0,564.0,1238.0,Woodlands Drive 16,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+837 WOODLANDS STREET 82,950000.0,HDB Exec Maisonette,Woodlands,1986.0,585.0,1625.0,Woodlands Street 82,4,3,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+750 WOODLANDS AVENUE 4,535000.0,HDB 4-Room,Woodlands,1996.0,487.0,1098.0,Woodlands Avenue 4,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+886A WOODLANDS DRIVE 50,510000.0,HDB 3PA (Premium Apartment),Woodlands,2013.0,707.0,721.0,Woodlands Drive 50,2,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+702 WOODLANDS DRIVE 40,680000.0,HDB 5-Room,Woodlands,1995.0,535.0,1270.0,Woodlands Drive 40,3,2,"Kranji, Woodgrove",North,2025-04-19 13:25:28
+408 SEMBAWANG DRIVE,720000.0,HDB Exec Apartment,Sembawang,1999.0,515.0,1399.0,Sembawang Drive,4,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+134 YISHUN STREET 11,450000.0,HDB 3-Room,Yishun,1984.0,614.0,733.0,Yishun Street 11,2,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+128C CANBERRA STREET,799999.0,HDB 5PA (Premium Apartment),Sembawang,2017.0,658.0,1216.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+677B YISHUN RING ROAD,800000.0,HDB 5-Room,Yishun,2017.0,658.0,1216.0,Yishun Ring Road,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+339A SEMBAWANG CLOSE,748000.0,HDB Exec Apartment,Sembawang,1999.0,530.0,1410.0,Sembawang Close,4,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+405 ADMIRALTY LINK,550000.0,HDB 4-Room,Sembawang,1999.0,594.0,926.0,Admiralty Link,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+101A CANBERRA STREET,640000.0,HDB 4-Room,Sembawang,2019.0,639.0,1001.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+303 CANBERRA ROAD,950000.0,HDB Exec Apartment,Sembawang,1997.0,630.0,1507.0,Canberra Road,4,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+507B WELLINGTON CIRCLE,550000.0,HDB 4-Room,Sembawang,2000.0,562.0,979.0,Wellington Circle,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+305 YISHUN CENTRAL,550000.0,HDB 4-Room,Yishun,1987.0,473.0,1162.0,Yishun Central,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+126C CANBERRA STREET,800000.0,HDB 5-Room,Sembawang,2019.0,641.0,1248.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+128C CANBERRA STREET,739999.0,HDB 5-Room,Sembawang,2017.0,609.0,1216.0,Canberra Street,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+366A SEMBAWANG CRESCENT,370000.0,HDB 2-Room,Sembawang,2018.0,717.0,516.0,Sembawang Crescent,1,1,"Yishun, Sembawang",North,2025-04-19 13:25:28
+336C YISHUN RIVERWALK,750000.0,HDB 5-Room,27,2013.0,622.0,1206.0,336C Yishun Street 31,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+250 YISHUN AVENUE 9,530000.0,HDB 4-Room,Yishun,1984.0,474.0,1119.0,Yishun Avenue 9,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+508B YISHUN AVENUE 4,790000.0,HDB 5-Room,Yishun,2016.0,650.0,1216.0,Yishun Avenue 4,4,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+323 SEMBAWANG CLOSE,710000.0,HDB 5-Room,Sembawang,1997.0,536.0,1324.0,Sembawang Close,4,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+403 ADMIRALTY LINK,550000.0,HDB 4-Room,Sembawang,1999.0,568.0,969.0,Admiralty Link,3,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+103A CANBERRA STREET,508000.0,HDB 3-Room,Sembawang,2019.0,738.0,688.0,Canberra Street,2,2,"Yishun, Sembawang",North,2025-04-19 13:25:28
+413B FERNVALE LINK,638000.0,HDB 4-Room,Sengkang,2002.0,624.0,1022.0,Fernvale Link,3,2,Seletar,North East,2025-04-19 13:25:28
+470A FERNVALE LINK,680000.0,HDB 4-Room,Sengkang,2015.0,679.0,1001.0,Fernvale Link,3,2,Seletar,North East,2025-04-19 13:25:28
+404B FERNVALE LANE,718000.0,HDB 5-Room,Sengkang,2003.0,585.0,1227.0,Fernvale Lane,3,2,Seletar,North East,2025-04-19 13:25:28
+452B SENGKANG WEST WAY,588000.0,HDB 4-Room,Sengkang,2013.0,594.0,990.0,Sengkang West Way,3,2,Seletar,North East,2025-04-19 13:25:28
+413B FERNVALE LINK,630000.0,HDB 4-Room,Sengkang,2002.0,616.0,1023.0,Fernvale Link,3,2,Seletar,North East,2025-04-19 13:25:28
+471A FERNVALE STREET,660000.0,HDB 4-Room,Sengkang,2015.0,659.0,1001.0,Fernvale Street,3,2,Seletar,North East,2025-04-19 13:25:28
+441D FERNVALE ROAD,730000.0,HDB 4-Room,Sengkang,2010.0,729.0,1001.0,Fernvale Road,3,2,Seletar,North East,2025-04-19 13:25:28
+403D FERNVALE LANE,710000.0,HDB 5PA (Premium Apartment),Sengkang,2003.0,579.0,1227.0,Fernvale Lane,3,2,Seletar,North East,2025-04-19 13:25:28
+453D FERNVALE ROAD,608000.0,HDB 4-Room,Sengkang,2014.0,614.0,990.0,Fernvale Road,3,2,Seletar,North East,2025-04-19 13:25:28
+411A FERNVALE ROAD,720000.0,HDB 4-Room,Sengkang,2011.0,697.0,1033.0,Fernvale Road,3,2,Seletar,North East,2025-04-19 13:25:28
+443B FERNVALE ROAD,678000.0,HDB 4-Room,Sengkang,2010.0,663.0,1022.0,Fernvale Road,3,2,Seletar,North East,2025-04-19 13:25:28
+457B SENGKANG WEST ROAD,588000.0,HDB 3-Room,Sengkang,2019.0,803.0,732.0,Sengkang West Road,2,2,Seletar,North East,2025-04-19 13:25:28
+439B SENGKANG WEST AVENUE,699999.0,HDB 4-Room,Sengkang,2009.0,692.0,1012.0,Sengkang West Avenue,3,2,Seletar,North East,2025-04-19 13:25:28
+439C SENGKANG WEST AVENUE,658000.0,HDB 4-Room,Sengkang,2009.0,650.0,1012.0,Sengkang West Avenue,3,2,Seletar,North East,2025-04-19 13:25:28
+404B FERNVALE LANE,610000.0,HDB 5-Room,Sengkang,2003.0,497.0,1227.0,Fernvale Lane,3,2,Seletar,North East,2025-04-19 13:25:28
+470B FERNVALE LINK,558000.0,HDB 3-Room,Sengkang,2015.0,762.0,732.0,Fernvale Link,2,2,Seletar,North East,2025-04-19 13:25:28
+470B FERNVALE LINK,688000.0,HDB 4-Room,Sengkang,2015.0,687.0,1001.0,Fernvale Link,3,2,Seletar,North East,2025-04-19 13:25:28
+451A SENGKANG WEST WAY,730000.0,HDB 5-Room,Sengkang,2013.0,611.0,1195.0,Sengkang West Way,4,2,Seletar,North East,2025-04-19 13:25:28
+451A SENGKANG WEST WAY,768000.0,HDB 5-Room,Sengkang,2013.0,643.0,1195.0,Sengkang West Way,3,2,Seletar,North East,2025-04-19 13:25:28
+471A FERNVALE STREET,660000.0,HDB 4-Room,Sengkang,2015.0,659.0,1001.0,Fernvale Street,3,2,Seletar,North East,2025-04-19 13:25:28
