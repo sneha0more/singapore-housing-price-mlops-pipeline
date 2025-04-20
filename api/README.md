@@ -15,44 +15,22 @@ This project is a full-stack machine learning application for recommending optim
 
 ## 🚀 How to Run Locally
 
-### 1. Start MLflow UI (for model tracking)
-Make sure you're inside your virtual environment and MLflow is installed.
+### 1. Start the FastAPI running
+Run `models/register_best_model` script before this. 
 ```bash
-source ~/python3venv/bin/activate
-mlflow ui --host 0.0.0.0 --port 5000
+uvicorn api.main:app --reload
 ```
-
-> ⚠️ **Troubleshooting Tip**: If MLflow UI fails to start due to "address already in use", run `sudo lsof -i :5000` to identify the process and kill it using `sudo kill <PID>`.
-
 ---
 
-### 2. Prepare Your Model Artifacts
-Ensure the following files are placed inside the container at:
-```
-/app/models/models_dump_for_Registry/
-├── scaler.joblib
-├── selected_features.joblib
-```
-These are required for transforming the input data and selecting the model's trained features.
-
-Ensure your model is registered and promoted to `Staging` in the MLflow Model Registry.
-
-> 📍 The container expects MLflow server to be reachable at `http://172.17.0.1:5000`. This is the Docker host bridge IP.
-
----
-
-### 3. Build and Run the Docker Container
+### 2. Run Backend API
+Run the `main` py script. 
 ```bash
-# From the project root
-sudo docker build -t housing-api .
-
-# Run the container (port 8000 inside maps to 8890 outside)
-sudo docker run -it -p 8890:8000 housing-api
+python main.py
 ```
 
 ---
 
-### 4. Run Streamlit Frontend
+### 3. Run Streamlit Frontend
 Make sure the API is running and accessible.
 ```bash
 streamlit run app.py
@@ -93,17 +71,6 @@ Predicts the optimal listing price and provides a price range via Postman or Str
   }
 }
 ```
-
----
-
-## ⚠️ Common Errors & Fixes
-
-| Error Message | Likely Cause | Suggested Fix |
-|---------------|--------------|----------------|
-| `No such file or directory: 'selected_features.joblib'` | File not found in container | Ensure correct COPY path and use **absolute paths** in `predictor.py` |
-| `Cannot resolve host.docker.internal` | Docker hostname not recognized in Linux | Use bridge IP `172.17.0.1` instead |
-| `Port is already in use` | Another service is occupying port | Run `sudo lsof -i :PORT` and `sudo kill <PID>` |
-| `LightGBM or libgomp missing` | System dependencies not installed | Add `apt-get install -y libgomp1` to Dockerfile |
 
 ---
 
