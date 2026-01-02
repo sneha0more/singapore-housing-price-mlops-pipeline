@@ -83,3 +83,101 @@ singapore-housing-price-mlops-pipeline/
 ├── jenkins-build.sh # CI/CD integration script
 │
 └── README.md
+
+
+
+This organization demonstrates mastery of standard MLOps project conventions.
+
+---
+
+## Machine Learning Workflow
+
+### **1. Data Collection**
+- Housing listing data scraped from public sources using Python  
+- Additional geographic & amenity metadata included  
+
+### **2. Data Cleaning & Feature Engineering**
+- Missing value handling  
+- Outlier removal  
+- Derived features (price per sqm, age of flat, proximity metrics)  
+- One-hot encoding & scaling  
+
+### **3. Model Training**
+Models evaluated:
+- Linear Regression  
+- Random Forest Regressor  
+- XGBoost Regressor  
+
+**XGBoost achieved the best performance**, balancing accuracy and generalization.
+
+All experiments were logged using **MLflow**.
+
+### **4. Explainability (SHAP)**
+- Global feature importance  
+- Beeswarm plot  
+- Individual prediction explanations  
+Provides transparency critical for high-stake pricing decisions.
+
+### **5. Deployment**
+- Best model registered in MLflow Model Registry  
+- Served through a Streamlit app  
+- Accessible via local Docker deployment & inference API  
+
+### **6. Orchestration**
+- Airflow DAG schedules ETL + model retraining  
+- Supports monthly automated model updates  
+
+---
+
+##  Results (Summary)
+
+- Strong predictive accuracy with XGBoost  
+- Key drivers identified via SHAP include:
+  - Location  
+  - Square meter price  
+  - Remaining lease  
+  - Floor area  
+  - Flat type  
+- Model pipeline supports ongoing retraining and monitoring  
+
+Full results, plots, and evaluation are available inside the Jupyter notebooks.
+
+---
+
+##  Tech Stack
+
+**Languages:** Python, SQL  
+**ML:** scikit-learn, XGBoost, SHAP  
+**MLOps:** MLflow, Airflow, Docker, Jenkins  
+**Storage:** MySQL  
+**Frontend:** Streamlit  
+**Orchestration:** Docker Compose  
+**Experiment Tracking:** MLflow  
+
+---
+
+##  Documentation
+
+For full methodology, diagrams, evaluation metrics, and system design:
+
+ `docs/final_report.pdf` *(upload your BT4301 report here)*
+
+You may also include profiling artifacts, SHAP plots, and presentation slides.
+
+---
+
+## Future Improvements
+
+- Deploy Streamlit app to cloud (GCP / AWS / Render)  
+- Add automated drift detection integrated with alerts  
+- Introduce hyperparameter optimization (Optuna)  
+- Incorporate spatial features (MRT proximity, amenities APIs)  
+- Implement model monitoring dashboard (Looker / Grafana)  
+
+---
+
+## Acknowledgment
+
+This project was originally developed as part of the **NUS BT4301 Group Project (Group 5)**.  
+This fork represents my **individual portfolio version**, with additional documentation, restructuring, and improvements for industry presentation.
+
